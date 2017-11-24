@@ -3,14 +3,6 @@
 En la guerra de razas solo quedaron humanos, fue tal el cabreo de Lux, que muchos fueron tirados de las orejas hacia las copas de los árboles, los nuevos elfos. Otro pisoteados y condenados a vivir bajo tierra, los nuevos enanos. Nix hizo el resto. 
 Bienvenido al hack de Eirendor, la sexta edad tras el apocalipsis de Nix.
 
-**NOTAS** 
-*Solo hay magia bajo tierra y en los bosques, pues estos y las cuevas son entornos mágicos.
-Sobre tierra solo se da la cruda realidad.
-Las profundidades donde se construyen las mazmorras y los pantanos se llaman Nixendor. Los bosques y montañas Luxendor. El resto de tierra y agua, Eirendor.*
-
-*Cuando un humano se peta a un enano, sale un mediano.
-Cuando un elfo se peta un enano, sale un orco.*
-
 ## Creación de PJs
 ### Atributos
 Tira 2d6+6 en orden para [FUE]rza, [DES]treza, [CON]stitución, [INT]eligencia, [SAB]iduría y [CAR]isma.  
@@ -38,5 +30,12 @@ Tira 1d20 para determinarla: 1 Aventurero, 2 Calculador, 3 Conformista, 4 Fanát
 Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.<columna>
 
 **NOTAS** 
-*No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.
+*No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.  
 No hay la raza humano bestia, son humanos alquimistas que se transforman vía poción.*
+
+*Solo hay magia bajo tierra y en los bosques, pues estos y las cuevas son entornos mágicos.  
+Sobre tierra solo se da la cruda realidad.  
+Las profundidades donde se construyen las mazmorras y los pantanos se llaman Nixendor.   Los bosques y montañas Luxendor. El resto de tierra y agua, Eirendor.*
+
+*Cuando un humano se peta a un enano, sale un mediano.  
+Cuando un elfo se peta un enano, sale un orco.*
