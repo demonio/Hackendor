@@ -13,20 +13,26 @@ Cuando un elfo se peta un enano, sale un orco.*
 
 ## Creación de PJs
 ### Atributos
-Tira 2d6+6 en orden para [FUE]rza, [DES]treza, [CON]stitución, [INT]eligencia, [SAB]iduría y [CAR]isma.
+Tira 2d6+6 en orden para [FUE]rza, [DES]treza, [CON]stitución, [INT]eligencia, [SAB]iduría y [CAR]isma.  
 Apunta el [MOD]ificador de cada [ATR]ibuto mediante esta fórmula redondeando hacia abajo ([ATR]-10/2).
+
 ### Raza
-Tira 1d6 para la raza: 1 [Enana], 2-5 [Humana], 6 [Elfica].
+Tira 1d6 para la raza: 1 [Elfica], 2 [Enana], 3-6 [Humana].
+
 ### Clase
-Escoge una clase según tu raza: 
-Para enanos: [Clérigo], [Guerrero], [Pionero]
-Para humanos: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero], [Pícaro] 
-Para elfos: [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero]
+Escoge una clase según tu raza:  
+Para elfos: [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero]  
+Para enanos: [Clérigo], [Guerrero], [Pionero]  
+Para humanos: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero], [Pícaro]
+
 ### Aspecto
-Tira 1d6 para la complexión: 1 Sobrepeso, 2 Robusta, 3 Musculosa, 4 Atlética, 5 Delgada o 6 Enclenque. 
-Tira 1d6 para el tono de piel: 1 Albina, 2 Pálida, 3 Aceitunada, 4 Dorada, 5 Morena o 6 Negra. 
-Tira 1d8 para el color de pelo: 1 Negro, 2 Castaño, 3 Caoba, 4 Pelirrojo, 5 Robio, 6 Canoso, 7 Blanco u 8 Exótico. 
-Tira 1d8 para el color de ojos: 1 Castaños, 2 Verdes, 3 Azules, 4 Grises, 5 Negros, 6 Rojizos, 7 Violetas u 8 Ámbar.
+Tira 1d6 para la complexión: 1 Atlética, 2 Enclenque, 3 Delgada, 4 Musculosa, 5 Robusta o 6 Sobrepeso.  
+Tira 1d6 para el tono de piel: 1 Aceitunada, 2 Albina, 3 Dorada, 4 Morena, 5 Negra o 6 Pálida.  
+Tira 1d8 para el color de pelo: 1 Blanco, 2 Canoso, 3 Caoba, 4 Castaño, 5 Exótico, 6 Negro, 7 Pelirrojo u 8 Rubio.  
+Tira 1d8 para el color de ojos: 1 Ámbar, 2 Azules, 3 Castaños, 4 Grises, 5 Negros, 6 Rojizos, 7 Verdes u 8 Violetas.
+
+### Personalidad
+Tira 1d20 para el rasgo: 1 Aventurero, 2 Calculador, 3 Conformista, 4 Fanático, 5 Hedonista, 6 Honorable, 7 Huraño, 8 Inmaduro, 9 Inmortal, 10 Inocente, 11, Introvertido, 12 Líder, 13 Matón, 14 Optimista, 15 Protector, 16 Rebelde, 17 Sacrificado, 18 Sociable, 19 Solitario o 20 Visionario.
 
 **NOTAS** 
 *No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.
