@@ -17,7 +17,7 @@ Tira 2d6+6 en orden para [FUE]rza, [DES]treza, [CON]stitución, [INT]eligencia, 
 Apunta el [MOD]ificador de cada [ATR]ibuto mediante esta fórmula redondeando hacia abajo ([ATR]-10/2).
 
 ### Raza
-Tira 1d6 para la raza: 1 [Elfica], 2 [Enana], 3-6 [Humana].
+Tira 1d6 para determinarla: 1 [Elfica], 2 [Enana] o 3-6 [Humana].
 
 ### Clase
 Escoge una clase según tu raza:  
@@ -32,7 +32,10 @@ Tira 1d8 para el color de pelo: 1 Blanco, 2 Canoso, 3 Caoba, 4 Castaño, 5 Exót
 Tira 1d8 para el color de ojos: 1 Ámbar, 2 Azules, 3 Castaños, 4 Grises, 5 Negros, 6 Rojizos, 7 Verdes u 8 Violetas.
 
 ### Personalidad
-Tira 1d20 para el rasgo: 1 Aventurero, 2 Calculador, 3 Conformista, 4 Fanático, 5 Hedonista, 6 Honorable, 7 Huraño, 8 Inmaduro, 9 Inmortal, 10 Inocente, 11, Introvertido, 12 Líder, 13 Matón, 14 Optimista, 15 Protector, 16 Rebelde, 17 Sacrificado, 18 Sociable, 19 Solitario o 20 Visionario.
+Tira 1d20 para determinarla: 1 Aventurero, 2 Calculador, 3 Conformista, 4 Fanático, 5 Hedonista, 6 Honorable, 7 Huraño, 8 Inmaduro, 9 Inmortal, 10 Inocente, 11, Introvertido, 12 Líder, 13 Matón, 14 Optimista, 15 Protector, 16 Rebelde, 17 Sacrificado, 18 Sociable, 19 Solitario o 20 Visionario.
+
+### Trasfondo
+Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.
 
 **NOTAS** 
 *No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.
