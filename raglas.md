@@ -21,9 +21,9 @@ Tira 1d6 para determinarla: 1 [Elfica], 2 [Enana] o 3-6 [Humana].
 
 ### Clase
 Escoge una clase según tu raza:  
-Para elfos: [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero]  
-Para enanos: [Clérigo], [Guerrero], [Pionero]  
-Para humanos: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero], [Pícaro]
+Para elfos: [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero] o [Hechicero]  
+Para enanos: [Clérigo], [Guerrero] o [Pionero]  
+Para humanos: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero] o [Pícaro]
 
 ### Aspecto
 Tira 1d6 para la complexión: 1 Atlética, 2 Enclenque, 3 Delgada, 4 Musculosa, 5 Robusta o 6 Sobrepeso.  
@@ -35,7 +35,7 @@ Tira 1d8 para el color de ojos: 1 Ámbar, 2 Azules, 3 Castaños, 4 Grises, 5 Neg
 Tira 1d20 para determinarla: 1 Aventurero, 2 Calculador, 3 Conformista, 4 Fanático, 5 Hedonista, 6 Honorable, 7 Huraño, 8 Inmaduro, 9 Inmortal, 10 Inocente, 11, Introvertido, 12 Líder, 13 Matón, 14 Optimista, 15 Protector, 16 Rebelde, 17 Sacrificado, 18 Sociable, 19 Solitario o 20 Visionario.
 
 ### Trasfondo
-Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.
+Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.<columna>
 
 **NOTAS** 
 *No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.
