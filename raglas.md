@@ -3,7 +3,7 @@
 En la guerra de razas solo quedaron humanos, fue tal el cabreo de Lux, que muchos fueron tirados de las orejas hacia las copas de los árboles, los nuevos elfos. Otro pisoteados y condenados a vivir bajo tierra, los nuevos enanos. Nix hizo el resto. 
 Bienvenido al hack de Eirendor, la sexta edad tras el apocalipsis de Nix.
 
-**NOTAS**
+**NOTAS** 
 *Solo hay magia bajo tierra y en los bosques, pues estos y las cuevas son entornos mágicos.
 Sobre tierra solo se da la cruda realidad.
 Las profundidades donde se construyen las mazmorras y los pantanos se llaman Nixendor. Los bosques y montañas Luxendor. El resto de tierra y agua, Eirendor.*
@@ -11,8 +11,18 @@ Las profundidades donde se construyen las mazmorras y los pantanos se llaman Nix
 *Cuando un humano se peta a un enano, sale un mediano.
 Cuando un elfo se peta un enano, sale un orco.*
 
-## PJs
+## Creación de PJs
+### Atributos
+Tira 2d6+6 en orden para [FUE]rza, [DES]treza, [CON]stitución, [INT]eligencia, [SAB]iduría y [CAR]isma.
+Apunta el [MOD]ificador de cada [ATR]ibuto mediante esta fórmula redondeando hacia abajo ([ATR]-10/2).
+### Raza
+Tira 1d6 para ver (1 [Enano], 2-5 [Humano], 6 [Elfo]).
+### Clase
+Escoge una clase según tu raza:
+Para enanos: [Clérigo], [Guerrero], [Pionero]
+Para humanos: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero], [Pícaro]
+Para elfos: [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero]
 
-**NOTAS**
+**NOTAS** 
 *No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.
 No hay la raza humano bestia, son humanos alquimistas que se transforman vía poción.*
