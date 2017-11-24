@@ -4,32 +4,35 @@ En la guerra de razas solo quedaron humanos, fue tal el cabreo de Lux, que mucho
 Bienvenido al hack de Eirendor, la sexta edad tras el apocalipsis de Nix.
 
 ## Creación de PJs
+La edad y el sexo de tu personaje son los del jugador, elige un nombre al final de su creación. Empiezas en [Nivel] 1.
+
 ### Atributos
-Tira 2d6+6 en orden para [FUE]rza, [DES]treza, [CON]stitución, [INT]eligencia, [SAB]iduría y [CAR]isma.  
-Apunta el [MOD]ificador de cada [ATR]ibuto mediante esta fórmula redondeando hacia abajo ([ATR]-10/2).
+1. Tira 2d6+6 en orden para [Fuerza], [Destreza], [Constitución], [Inteligencia], [Sabiduría] y [Carisma].
+1. Apunta el [MOD]ificador de cada [ATR]ibuto ([FUE], [DES], [CON], [INT], [SAB] y [CAR]) mediante esta fórmula redondeando hacia abajo ([ATR]-10/2).
+1. Puntos de golpe (PG) = [Fuerza] + [CON] x [Nivel]
 
 ### Raza
-Tira 1d6 para determinarla: 1 [Elfica], 2 [Enana] o 3-6 [Humana].
+1. Tira 1d6 para determinarla: 1 [Elfica], 2 [Enana] o 3-6 [Humana].
 
 ### Clase
-Escoge una clase según tu raza:  
-Para elfos: [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero] o [Hechicero]  
-Para enanos: [Clérigo], [Guerrero] o [Pionero]  
-Para humanos: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero] o [Pícaro]
+Escoge una clase según tu raza:
+1. Para elfos: [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero] o [Hechicero]  
+1. Para enanos: [Clérigo], [Guerrero] o [Pionero]
+1. Para humanos: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero] o [Pícaro]
 
 ### Aspecto
-Tira 1d6 para la complexión: 1 Atlética, 2 Enclenque, 3 Delgada, 4 Musculosa, 5 Robusta o 6 Sobrepeso.  
-Tira 1d6 para el tono de piel: 1 Aceitunada, 2 Albina, 3 Dorada, 4 Morena, 5 Negra o 6 Pálida.  
-Tira 1d8 para el color de pelo: 1 Blanco, 2 Canoso, 3 Caoba, 4 Castaño, 5 Exótico, 6 Negro, 7 Pelirrojo u 8 Rubio.  
-Tira 1d8 para el color de ojos: 1 Ámbar, 2 Azules, 3 Castaños, 4 Grises, 5 Negros, 6 Rojizos, 7 Verdes u 8 Violetas.
+1. Tira 1d6 para la complexión: 1 Atlética, 2 Enclenque, 3 Delgada, 4 Musculosa, 5 Robusta o 6 Sobrepeso.
+1. Tira 1d6 para el tono de piel: 1 Aceitunada, 2 Albina, 3 Dorada, 4 Morena, 5 Negra o 6 Pálida.
+1. Tira 1d8 para el color de pelo: 1 Blanco, 2 Canoso, 3 Caoba, 4 Castaño, 5 Exótico, 6 Negro, 7 Pelirrojo u 8 Rubio.
+1. Tira 1d8 para el color de ojos: 1 Ámbar, 2 Azules, 3 Castaños, 4 Grises, 5 Negros, 6 Rojizos, 7 Verdes u 8 Violetas.
 
 ### Personalidad
-Tira 1d20 para determinarla: 1 Aventurero, 2 Calculador, 3 Conformista, 4 Fanático, 5 Hedonista, 6 Honorable, 7 Huraño, 8 Inmaduro, 9 Inmortal, 10 Inocente, 11, Introvertido, 12 Líder, 13 Matón, 14 Optimista, 15 Protector, 16 Rebelde, 17 Sacrificado, 18 Sociable, 19 Solitario o 20 Visionario.
+1. Tira 1d20 para determinarla: 1 Aventurero, 2 Calculador, 3 Conformista, 4 Fanático, 5 Hedonista, 6 Honorable, 7 Huraño, 8 Inmaduro, 9 Inmortal, 10 Inocente, 11, Introvertido, 12 Líder, 13 Matón, 14 Optimista, 15 Protector, 16 Rebelde, 17 Sacrificado, 18 Sociable, 19 Solitario o 20 Visionario.
 
 ### Trasfondo
-Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.<columna>
+1. Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.<columna>
 
-**NOTAS** 
+**NOTAS**  
 *No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.  
 No hay la raza humano bestia, son humanos alquimistas que se transforman vía poción.*
 
