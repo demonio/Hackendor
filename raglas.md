@@ -1,9 +1,9 @@
 
-# Mundo
+# Hackendor
 En la guerra de razas solo quedaron humanos, fue tal el cabreo de Todo, que muchos fueron tirados de las orejas hacia las copas de los árboles, los nuevos elfos. Otro pisoteados y condenados a vivir bajo tierra, los nuevos enanos. Nada hizo el resto.  
 Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 
-## Creación de PJs
+## Creación del personaje
 1. La edad y el sexo del personaje son los del jugador, elige el nombre al final de su creación. 
 
 ### Característica
@@ -12,7 +12,7 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. Movimiento (MOV) = [Vitalidad].
 1. Iniciativa (INI) = [Reacción].
 1. Puntos de poder (PP) = [Inteligencia].
-1. Puntos de suerte (PS) = 3 / Sesión.
+1. Puntos de suerte (PS) = 3 al comienzo de cada sesión.
 
 ### Raza
 1. Tira 1d8 para determinarla: 1 [Gnomo], 2 [Mediano], 3 [Enano], 4 [Humano], 5 [Semielfo], 6 [Elfo], 7 [Semiorco], 8 [Ciclople]
@@ -43,13 +43,6 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 ### Equipo
 1. Apunta 60 piezas de plata
 
-**NOTAS**  
-*No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.  
-No hay la raza humano bestia, son humanos alquimistas que se transforman vía poción.*
-
-*Solo hay magia bajo tierra y en los bosques, pues estos y las cuevas son entornos mágicos.  
-Sobre tierra solo se da la cruda realidad.  
-Las profundidades donde se construyen las mazmorras y los pantanos se llaman Nixendor.   Los bosques y montañas Luxendor. El resto de tierra y agua, Eirendor.*
-
-*Cuando un humano se peta a un enano, sale un mediano.  
-Cuando un elfo se peta un enano, sale un orco.*
+## Ambientación
+1. Solo hay magia bajo tierra y en los bosques, pues estos y las cuevas son entornos mágicos. Sobre tierra solo se da la cruda realidad.  
+1. Las profundidades donde se construyen las mazmorras y los pantanos son los dominios de Nada. Los bosques y las montañas los dominios de Todo. El resto de tierra y agua es domino neutro.
