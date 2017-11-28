@@ -1,24 +1,26 @@
 
 # Mundo
-En la guerra de razas solo quedaron humanos, fue tal el cabreo de Lux, que muchos fueron tirados de las orejas hacia las copas de los árboles, los nuevos elfos. Otro pisoteados y condenados a vivir bajo tierra, los nuevos enanos. Nix hizo el resto. 
-Bienvenido al hack de Eirendor, la sexta edad tras el apocalipsis de Nix.
+En la guerra de razas solo quedaron humanos, fue tal el cabreo de Todo, que muchos fueron tirados de las orejas hacia las copas de los árboles, los nuevos elfos. Otro pisoteados y condenados a vivir bajo tierra, los nuevos enanos. Nada hizo el resto.  
+Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 
 ## Creación de PJs
-La edad y el sexo de tu personaje son los del jugador, elige un nombre al final de su creación. Empiezas en [Nivel] 1.
+1. La edad y el sexo del personaje son los del jugador, elige el nombre al final de su creación. 
 
-### Atributos
-1. Tira 2d6+6 en orden para [Fuerza], [Destreza], [Constitución], [Inteligencia], [Sabiduría] y [Carisma].
-1. Apunta el [MOD]ificador de cada [ATR]ibuto ([FUE], [DES], [CON], [INT], [SAB] y [CAR]) mediante esta fórmula redondeando hacia abajo ([ATR]-10/2).
-1. Puntos de golpe (PG) = [Fuerza] + [CON] x [Nivel]
+### Característica
+1. Tira 2d4+6 en orden para [Presencia], [Potencia], [Vitalidad], [Reacción], [Inteligencia], [Percepción] y [Empatía].
+1. Puntos de aguante (PA) = [Potencia].
+1. Movimiento (MOV) = [Vitalidad].
+1. Iniciativa (INI) = [Reacción].
+1. Puntos de poder (PP) = [Inteligencia].
+1. Puntos de suerte (PS) = 3 / Sesión.
 
 ### Raza
-1. Tira 1d6 para determinarla: 1 [Elfica], 2 [Enana] o 3-6 [Humana].
+1. Tira 1d8 para determinarla: 1 [Gnomo], 2 [Mediano], 3 [Enano], 4 [Humano], 5 [Semielfo], 6 [Elfo], 7 [Semiorco], 8 [Ciclople]
+1. Apunta la etiqueta de [Humanoide].
+1. Apunta [Pequeño] sí el personaje nació gnomo o mediano, [Grande] para semiorco o ciclope o [Medio] en cualquier otro caso.
 
 ### Clase
-Escoge una clase según tu raza:
-1. Para elfos: [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero] o [Hechicero]  
-1. Para enanos: [Clérigo], [Guerrero] o [Pionero]
-1. Para humanos: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero] o [Pícaro]
+1. Escoge una clase: [Alquimista], [Barbaro], [Bardo], [Clérigo], [Druida], [Explorador], [Guerrero], [Hechicero] o [Pícaro].
 
 ### Aspecto
 1. Tira 1d6 para la complexión: 1 Atlética, 2 Enclenque, 3 Delgada, 4 Musculosa, 5 Robusta o 6 Sobrepeso.
@@ -31,6 +33,15 @@ Escoge una clase según tu raza:
 
 ### Trasfondo
 1. Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.<columna>
+
+### Familia
+1. Tira 1d6 para determinarlo: 1 Bastardo, 2 Familia númerosa, 3 Hijo único, 4 Huérfano, 5 Sin madre, 6 Sin padre.
+
+### Vinculos
+1. Tira 1d20 para determinarlo: 1 Compartimos un secreto oscuro, 3 Confío plenamente en él, 3 Conoce un secreto oscuro sobre mí, 4 Conozco un secreto oscuro sobre él, 5 Desconfío de él, 6 Es una inspiración para mí, 7 Está en deuda conmigo, 8 Estoy en deuda con él, 9 Estoy enamorado de él, 10 Ha insultado mis creencias, 11 He prometido protegerlo, 12 Hemos hecho un pacto de sangre, 13 Le he robado, 14 Me burlo de él, 15 Me ha robado, 16 Necesita aprendiz, 17 Siento admiración por él, 18 Somos amigos de la infancia, 19 Somos familia o 20 Somos viejos compañeros de fatigas.
+
+### Equipo
+1. Apunta 60 piezas de plata
 
 **NOTAS**  
 *No hay señor de las bestias, ni el druida se transforma. El druida lleva mascota.  
