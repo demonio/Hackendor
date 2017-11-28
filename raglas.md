@@ -44,45 +44,45 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. El personaje porta ropa gruesa (+1PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
 1. También dispone de 60 piezas de plata para comprar cosas.
 
-### Arma a distancia
+### Arma a distancia  
 Arco compuesto/largo +8, 2PA (30pp). Arco corto +6, 2PA (10pp). Ballesta +10, 2PA (50pp). Honda +4, 1PA (2pp).
 
-### Proyectiles 
+### Proyectiles  
 10 dardos +2, 1PA (2pp). 10 flechas +6, 3PA (5pp). 10 piedras +4, 1PA (1pp).
 
-### Arma a 1 mano
+### Arma a 1 mano  
 Daga +3, 3PA (3pp). Espada ancha +8, 5PA (30pp). Espada corta +5, 4PA (5pp). Hacha de batalla/Martillo/Maza +9, 3PA (30pp), Hacha pequeña +6, 2PA (5pp). Lanza +7 2PA (30pp).
 
-### Arma a 2 manos 
+### Arma a 2 manos  
 Bastón (2M) +4, 2PA (4pp). Espada larga +11 (40pp). Hacha de batalla/Martillo/Maza +12 (40pp). Lanza +10 3PA ().
 
-### Sin armas
+### Sin armas  
 Puño +1, Patada +2, Técnica marcial +1.
 
-### Pieza de armadura y su material:
+### Pieza de armadura y su material  
 Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).  
 Cuero flexible (+2 pa, +5 pp), cuero endurecido (+3 pa, +10 pp), cuero remachado (+4 pa, +15 pp), escamas (+5 pa, +20 pp), malla (+6 pa, +25 pp), anillos (+7 pa, +30 pp) o placas (+8 pa, +35 pp).  
 *Todas las piezas son cómodas con piel por dentro, abrigan en invierno pero molestan en verano.  
 *Cada pieza de cuero otorga (-1 INI/MOV), de escamas (-2 INI/MOV) y de metal (-3 INI/MOV).  
 Escudo de madera remachada o metal (10 pp, -1 ini/mov).
 
-### Equipo de aventurero a 2 pp cada:
+### Equipo de aventurero a 2 pp cada  
 4 antorchas, cuerda, pergamino, racion de viaje, tienda de campaña, vendajes, odre con vino, yesca y pedernal.  
 
-### Herramienta a 5 pp cada:
+### Herramienta a 5 pp cada  
 Caña de pescar, cepo, cuerda con garfio, ganzuaś, martillo, pala, palanca, pluma y tintero.
 
-### Cosas para rituales a 10 pp cada:
+### Cosas para rituales a 10 pp cada  
 Amuleto, bolsa de ceniza o incienso, odre de aceite, agua bendita o sangre, runa, tarro con polvo de hueso.
 
-### Artículo complejo a 20 pp cada:
+### Artículo complejo a 20 pp cada  
 Espejo, linterna, catalejo, ropa lujosa.
 
-### Transporte:
+### Transporte  
 Bote con remos (50 pp), caballo (100 pp), carreta (30 pp), carro (100 pp), mula (30 pp).
 
-### Servicio:
+### Servicio  
 Comer (1 pp), emborrachase (1 pp), una noche en posada (1 pp).
 
-## Ambientación 
+## Ambientación  
 1. Las profundidades donde se extienden las mazmorras y los pantanos son los dominios de Nada. Los bosques y las montañas son los dominios de Todo. El resto de tierra y agua es domino neutro, donde la magia no tiene efecto.
