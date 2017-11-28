@@ -45,19 +45,19 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. También dispone de 60 piezas de plata para comprar cosas.
 
 **Armas a distancia**  
-Arco compuesto/largo +8, 2PA (20pp).
+• Arco compuesto/largo +8, 2PA (20pp).
 Arco corto +6, 2PA (10pp).
 Ballesta +10, 2PA (40pp).
 Cerbatana +2, 1PA (5pp).
 Honda +4, 1PA (2pp).
 
 **Proyectiles**  
-10 dardos +2, 1PA (2pp).
+• 10 dardos +2, 1PA (2pp).
 10 flechas/saetas +6, 1PA (5pp).
 10 piedras +4, 3PA (1pp).
 
 **Armas a 1 mano**  
-Daga +3, 3PA (5pp).
+• Daga +3, 3PA (5pp).
 Espada ancha +8, 5PA (25pp).
 Espada corta +5, 4PA (15pp).
 Hacha de batalla/Martillo/Maza +9, 4PA (20pp).
@@ -65,40 +65,40 @@ Hacha pequeña +6, 3PA (10pp).
 Lanza +7 2PA (5pp).
 
 **Armas a 2 manos**  
-Cayado +4, 3PA (5pp).
+• Cayado +4, 3PA (5pp).
 Espada larga +11 6PA (50pp).
 Hacha de batalla/Martillo/Maza +12 5PA (40pp).
 Lanza +10 3PA (10pp).
 
 **Sin armas**  
-Puño +1.
+• Puño +1.
 Patada +2.
 Técnica marcial +1.
 
-**Pieza de armadura y su material**  
-Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).  
-Cuero flexible (+2 pa, +5 pp), cuero endurecido (+3 pa, +10 pp), cuero remachado (+4 pa, +15 pp), escamas (+5 pa, +20 pp), malla (+6 pa, +25 pp), anillos (+7 pa, +30 pp) o placas (+8 pa, +35 pp).  
+**Piezas de armadura y su material**  
+• Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).  
+• Cuero flexible (+2 pa, +5 pp), cuero endurecido (+3 pa, +10 pp), cuero remachado (+4 pa, +15 pp), escamas (+5 pa, +20 pp), malla (+6 pa, +25 pp), anillos (+7 pa, +30 pp) o placas (+8 pa, +35 pp).  
 *Todas las piezas son cómodas con piel por dentro, abrigan en invierno pero molestan en verano.  
 *Cada pieza de cuero otorga (-1 INI/MOV), de escamas (-2 INI/MOV) y de metal (-3 INI/MOV).  
-Escudo de madera remachada o metal (10 pp, -1 ini/mov).
+• Escudo de madera remachada o metal (10 pp, -1 ini/mov).
 
 **Equipo de aventurero a 2 pp cada**  
-4 antorchas, cuerda, pergamino, racion de viaje, tienda de campaña, vendajes, odre con vino, yesca y pedernal.  
+• 4 antorchas, cuerda, pergamino, racion de viaje, tienda de campaña, vendajes, odre con vino, yesca y pedernal.  
 
 **Herramientas a 5 pp cada**  
-Caña de pescar, cepo, cuerda con garfio, ganzuaś, martillo, pala, palanca, pluma y tintero.
+• Caña de pescar, cepo, cuerda con garfio, ganzuaś, martillo, pala, palanca, pluma y tintero.
 
 **Cosas para rituales a 10 pp cada**  
-Amuleto, bolsa de ceniza o incienso, odre de aceite, agua bendita o sangre, runa, tarro con polvo de hueso.
+• Amuleto, bolsa de ceniza o incienso, odre de aceite, agua bendita o sangre, runa, tarro con polvo de hueso.
 
 **Artículos complejos a 20 pp cada**  
-Espejo, linterna, catalejo, ropa lujosa.
+• Espejo, linterna, catalejo, ropa lujosa.
 
 **Transporte**  
-Bote con remos (50 pp), caballo (100 pp), carreta (30 pp), carro (100 pp), mula (30 pp).
+• Bote con remos (50 pp), caballo (100 pp), carreta (30 pp), carro (100 pp), mula (30 pp).
 
 **Servicio**  
-Comer (1 pp), emborrachase (1 pp), una noche en posada (1 pp).
+• Comer (1 pp), emborrachase (1 pp), una noche en posada (1 pp).
 
 ## Ambientación  
 1. Las profundidades donde se extienden las mazmorras y los pantanos son los dominios de Nada. Los bosques y las montañas son los dominios de Todo. El resto de tierra y agua es domino neutro, donde la magia no tiene efecto.
