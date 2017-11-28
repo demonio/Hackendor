@@ -32,32 +32,48 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. Tira 1d20 para determinarla: 1 Aventurero, 2 Calculador, 3 Conformista, 4 Fanático, 5 Hedonista, 6 Honorable, 7 Huraño, 8 Inmaduro, 9 Inmortal, 10 Inocente, 11, Introvertido, 12 Líder, 13 Matón, 14 Optimista, 15 Protector, 16 Rebelde, 17 Sacrificado, 18 Sociable, 19 Solitario o 20 Visionario.
 
 ### Trasfondo
-1. Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.<columna>
+1. Tira 1d20 para determinarlo: 1 Adoptado por otra raza, 2 Amnesia, 3 Aventurero, 4 Búsqueda, 5 Desposeído, 6 Desterrado, 7 Elegido, 8 Encuentro, 9 Ermitaño, 10 Exconvicto, 11 Fugitivo, 12 Héroe, 13 Juramento, 14 Matrimonio concertado, 15 Náufrago, 16 Reliquia perdida, 17 Romance peligroso, 18 Sometido a esclavitud, 19 Un amor en cada puerto o 20 Venganza.
 
 ### Familia
 1. Tira 1d6 para determinarlo: 1 Bastardo, 2 Familia númerosa, 3 Hijo único, 4 Huérfano, 5 Sin madre, 6 Sin padre.
 
 ### Vinculo
 1. Tira 1d20 para determinarlo: 1 Compartimos un secreto oscuro, 3 Confío plenamente en él, 3 Conoce un secreto oscuro sobre mí, 4 Conozco un secreto oscuro sobre él, 5 Desconfío de él, 6 Es una inspiración para mí, 7 Está en deuda conmigo, 8 Estoy en deuda con él, 9 Estoy enamorado de él, 10 Ha insultado mis creencias, 11 He prometido protegerlo, 12 Hemos hecho un pacto de sangre, 13 Le he robado, 14 Me burlo de él, 15 Me ha robado, 16 Necesita aprendiz, 17 Siento admiración por él, 18 Somos amigos de la infancia, 19 Somos familia o 20 Somos viejos compañeros de fatigas.
-
+<columna>
 ## Atrezo
 1. El personaje porta ropa gruesa (+1PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
 1. También dispone de 60 piezas de plata para comprar cosas.
 
-**Arma a distancia**  
-Arco compuesto/largo +8, 2PA (30pp). Arco corto +6, 2PA (10pp). Ballesta +10, 2PA (50pp). Honda +4, 1PA (2pp).
+**Armas a distancia**  
+Arco compuesto/largo +8, 2PA (20pp).
+Arco corto +6, 2PA (10pp).
+Ballesta +10, 2PA (40pp).
+Cerbatana +2, 1PA (5pp).
+Honda +4, 1PA (2pp).
 
 **Proyectiles**  
-10 dardos +2, 1PA (2pp). 10 flechas +6, 3PA (5pp). 10 piedras +4, 1PA (1pp).
+10 dardos +2, 1PA (2pp).
+10 flechas/saetas +6, 1PA (5pp).
+10 piedras +4, 3PA (1pp).
 
-**Arma a 1 mano**  
-Daga +3, 3PA (3pp). Espada ancha +8, 5PA (30pp). Espada corta +5, 4PA (5pp). Hacha de batalla/Martillo/Maza +9, 3PA (30pp), Hacha pequeña +6, 2PA (5pp). Lanza +7 2PA (30pp).
+**Armas a 1 mano**  
+Daga +3, 3PA (5pp).
+Espada ancha +8, 5PA (25pp).
+Espada corta +5, 4PA (15pp).
+Hacha de batalla/Martillo/Maza +9, 4PA (20pp).
+Hacha pequeña +6, 3PA (10pp).
+Lanza +7 2PA (5pp).
 
-**Arma a 2 manos**  
-Bastón (2M) +4, 2PA (4pp). Espada larga +11 (40pp). Hacha de batalla/Martillo/Maza +12 (40pp). Lanza +10 3PA ().
+**Armas a 2 manos**  
+Cayado +4, 3PA (5pp).
+Espada larga +11 6PA (50pp).
+Hacha de batalla/Martillo/Maza +12 5PA (40pp).
+Lanza +10 3PA (10pp).
 
 **Sin armas**  
-Puño +1, Patada +2, Técnica marcial +1.
+Puño +1.
+Patada +2.
+Técnica marcial +1.
 
 **Pieza de armadura y su material**  
 Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).  
@@ -69,13 +85,13 @@ Escudo de madera remachada o metal (10 pp, -1 ini/mov).
 **Equipo de aventurero a 2 pp cada**  
 4 antorchas, cuerda, pergamino, racion de viaje, tienda de campaña, vendajes, odre con vino, yesca y pedernal.  
 
-**Herramienta a 5 pp cada**  
+**Herramientas a 5 pp cada**  
 Caña de pescar, cepo, cuerda con garfio, ganzuaś, martillo, pala, palanca, pluma y tintero.
 
 **Cosas para rituales a 10 pp cada**  
 Amuleto, bolsa de ceniza o incienso, odre de aceite, agua bendita o sangre, runa, tarro con polvo de hueso.
 
-**Artículo complejo a 20 pp cada**  
+**Artículos complejos a 20 pp cada**  
 Espejo, linterna, catalejo, ropa lujosa.
 
 **Transporte**  
