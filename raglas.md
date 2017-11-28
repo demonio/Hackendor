@@ -44,27 +44,27 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. El personaje porta ropa gruesa (+1 PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
 1. También dispone de 60 piezas de plata para comprar cosas.
 
-| Arma | pp | Daño | PA |
+| Arma | Daño | PA | Plata |
 | --- | --- | --- | --- | --- |
-| Arco compuesto/largo (2M) | 30 | +8 | 2 |
-| Arco corto (2M) | 10 | +6 | 2 |
-| Ballesta (2M) | 40 | +10 | 2 |
-| Bastón (2M) | 5 | +4 | 3 |
-| Daga | 5 | +3 | 4 |
-| Dardo (10) | 5 | +2 | 1 |
-| Espada ancha | 30 | +8 | 6 |
-| Espada corta | 5 | +5 | 5 |
-| Espada larga | 40 | +11 | 9 |
-| Hacha de batalla/martillo/maza (1M) | 30 | +9 | 5 |
-| Hacha de batalla/martillo/maza remachada (2M) | 40 | +12 | 8 |
-| Hacha pequeña | 5 | +6 | 3 |
-| Honda | 5 | +4 | 1 |
-| Lanza (1M) | 30 | +7 | 3 |
-| Lanza remachada (2M) | 40 | +10 | 7 |
-| Patada | - | +10 | - |
-| Piedra (10) | 2 | +2 | 4 |
-| Puño | - | +10 | - |
-| Técnica marcial | - | +1 | - |
+| Arco compuesto/largo (2M) | +8 | 2 |  30 |
+| Arco corto (2M) | +6 | 2 | 10 |
+| Ballesta (2M) | +10 | 2 | 40 |
+| Bastón (2M) | +4 | 3 | 5 |
+| Daga | +3 | 4 | 5 |
+| Dardo (10) | +2 | 1 | 5 |
+| Espada ancha | +8 | 6 | 30 |
+| Espada corta | +5 | 5 | 5 |
+| Espada larga | +11 | 9 | 40 |
+| Hacha de batalla/martillo/maza (1M) | +9 | 5 | 30 |
+| Hacha de batalla/martillo/maza remachada (2M) | +12 | 8 | 40 |
+| Hacha pequeña | +6 | 3 | 5 |
+| Honda | +4 | 1 | 5 |
+| Lanza (1M) | +7 | 3 | 30 |
+| Lanza remachada (2M) | +10 | 7 | 40 |
+| Patada | +10 | - | - |
+| Piedra (10) | +2 | 4 | 2 |
+| Puño | +10 | - | - |
+| Técnica marcial | +1 | - | - |
 
 Pieza de armadura y su material:  
 - Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).
