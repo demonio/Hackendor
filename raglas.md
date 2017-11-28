@@ -44,46 +44,37 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. El personaje porta ropa gruesa (+1 PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
 1. También dispone de 60 piezas de plata para comprar cosas.
 
-| Arma | Daño | PA | Plata |
-| --- | --- | --- | --- | --- |
-| Arco compuesto/largo (2M) | +8 | 2 |  30 |
-| Arco corto (2M) | +6 | 2 | 10 |
-| Ballesta (2M) | +10 | 2 | 40 |
-| Bastón (2M) | +4 | 3 | 5 |
-| Daga | +3 | 4 | 5 |
-| Dardo (10) | +2 | 1 | 5 |
-| Espada ancha | +8 | 6 | 30 |
-| Espada corta | +5 | 5 | 5 |
-| Espada larga | +11 | 9 | 40 |
-| Hacha de batalla/martillo/maza (1M) | +9 | 5 | 30 |
-| Hacha de batalla/martillo/maza remachada (2M) | +12 | 8 | 40 |
-| Hacha pequeña | +6 | 3 | 5 |
-| Honda | +4 | 1 | 5 |
-| Lanza (1M) | +7 | 3 | 30 |
-| Lanza remachada (2M) | +10 | 7 | 40 |
-| Patada | +10 | - | - |
-| Piedra (10) | +2 | 4 | 2 |
-| Puño | +10 | - | - |
-| Técnica marcial | +1 | - | - |
+*Arma ligera a 2 pp cada:*
+- Honda +4 de daño, dardo +2 de daño.
+*Arma ligera a 5 pp cada:*
+- Bastón (2M) +4 de daño, daga +3 de daño, espadas cortas +5 de daño, hacha de mano +6 de daño.
+*Arma ligera a 10 pp cada:*
+- Arco corto +6 de daño.
+*Arma elaborada a 30 pp cada:*
+- Arco compuesto/largo +8 de daño, espada ancha +8 de daño, hacha de batalla/martillo/maza (1M) +9 de daño, lanza (1M) +7 de daño.
+*Arma pesada a 40 pp cada:*
+- Ballesta (2M) +10 de daño, espada larga (2M) +11 de daño, hacha de batalla/martillo/maza (2M) +12 de daño, lanza (2M) +10 de daño.
+**Sin coste: piedra +4 de daño**
+**Daño sin armas, con puño +1 daño, patada +2 daño, si el golpe además es marcial +1**
 
-Pieza de armadura y su material:  
+*Pieza de armadura y su material:*
 - Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).
 - Cuero flexible (+2 pa, +5 pp), cuero endurecido (+3 pa, +10 pp), cuero remachado (+4 pa, +15 pp), escamas (+5 pa, +20 pp), malla (+6 pa, +25 pp), anillos (+7 pa, +30 pp) o placas (+8 pa, +35 pp).
 **Todas las piezas son cómodas con piel por dentro, abrigan en invierno pero molestan en verano.**  
 **Cada pieza de cuero otorga (-1 INI/MOV), de escamas (-2 INI/MOV) y de metal (-3 INI/MOV).**
 - Escudo de madera remachada o metal (10 pp, -1 ini/mov).
 
-Equipo de aventurero a 2 pp cada:
+*Equipo de aventurero a 2 pp cada:*
 - 4 antorchas, cuerda, pergamino, racion de viaje, tienda de campaña, vendajes, odre con vino, yesca y pedernal.
-Herramienta a 5 pp cada:
+*Herramienta a 5 pp cada:*
 - Caña de pescar, cepo, cuerda con garfio, ganzuaś, martillo, pala, palanca, pluma y tintero.
-Cosas para rituales a 10 pp cada:
+*Cosas para rituales a 10 pp cada:*
 - Amuleto, bolsa de ceniza o incienso, odre de aceite, agua bendita o sangre, runa, tarro con polvo de hueso.
-Artículo complejo a 20 pp cada: 
+*Artículo complejo a 20 pp cada:*
 - Espejo, linterna, catalejo, ropa lujosa,.
-Transporte: 
+*Transporte:*
 - Bote con remos (50 pp), caballo (100 pp), carreta (30 pp), carro (100 pp), mula (30 pp).
-Servicio: 
+*Servicio:*
 - Comer (1 pp), emborrachase (1 pp), una noche en posada (1 pp).
 
 ## Ambientación 
