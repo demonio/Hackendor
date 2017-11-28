@@ -41,17 +41,21 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. Tira 1d20 para determinarlo: 1 Compartimos un secreto oscuro, 3 Confío plenamente en él, 3 Conoce un secreto oscuro sobre mí, 4 Conozco un secreto oscuro sobre él, 5 Desconfío de él, 6 Es una inspiración para mí, 7 Está en deuda conmigo, 8 Estoy en deuda con él, 9 Estoy enamorado de él, 10 Ha insultado mis creencias, 11 He prometido protegerlo, 12 Hemos hecho un pacto de sangre, 13 Le he robado, 14 Me burlo de él, 15 Me ha robado, 16 Necesita aprendiz, 17 Siento admiración por él, 18 Somos amigos de la infancia, 19 Somos familia o 20 Somos viejos compañeros de fatigas.
 
 ### Atrezo
-1. El personaje porta ropa gruesa (+1 PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
+1. El personaje porta ropa gruesa (+1PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
 1. También dispone de 60 piezas de plata para comprar cosas.
 
-** Arma ligera a 2 pp cada: **
-Honda +4 de daño, dardo +2 de daño.
-** Arma ligera a 5 pp cada: **
-Bastón (2M) +4 de daño, daga +3 de daño, espadas cortas +5 de daño, hacha de mano +6 de daño.
-** Arma ligera a 10 pp cada: **
-Arco corto +6 de daño.
+**Arma a distancia**  
+Arco compuesto/largo +8, 2PA (30pp). Arco corto +6, 2PA (10pp). Honda +4, 1PA (2pp).
+
+**Proyectiles**  
+10 dardos +2, 1PA (2pp). 10 flechas +6, 3PA (5pp). 10 piedras +4, 1PA (1pp).
+
+**Arma ligera**  
+Bastón (2M) +4, 2PA (4pp). Daga +3, 3PA (3pp). Espada corta +5, 4PA (5pp). Hacha de mano +6, 2PA (5pp).
+
+
 ** Arma elaborada a 30 pp cada: **
-Arco compuesto/largo +8 de daño, espada ancha +8 de daño, hacha de batalla/martillo/maza (1M) +9 de daño, lanza (1M) +7 de daño.
+, espada ancha +8 de daño, hacha de batalla/martillo/maza (1M) +9 de daño, lanza (1M) +7 de daño.
 ** Arma pesada a 40 pp cada: **
 Ballesta (2M) +10 de daño, espada larga (2M) +11 de daño, hacha de batalla/martillo/maza (2M) +12 de daño, lanza (2M) +10 de daño.
 * Sin coste: piedra +4 de daño *
