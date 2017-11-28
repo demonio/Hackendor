@@ -38,9 +38,7 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. Tira 1d6 para determinarlo: 1 Bastardo, 2 Familia númerosa, 3 Hijo único, 4 Huérfano, 5 Sin madre, 6 Sin padre.
 
 ### Vinculo
-1. Tira 1d20 para determinarlo: 1 Compartimos un secreto oscuro, 3 Confío plenamente en él, 3 Conoce un secreto oscuro sobre mí, 4 Conozco un secreto oscuro sobre él, 5 Desconfío de él, 6 Es una inspiración para mí, 7 Está en deuda conmigo, 8 Estoy en deuda con él, 9 Estoy enamorado de él, 10 Ha insultado mis creencias, 11 He prometido protegerlo, 12 Hemos hecho un pacto de sangre, 13 Le he robado, 14 Me burlo de él, 15 Me ha robado, 16 Necesita aprendiz, 17 Siento admiración por él, 18 Somos amigos de la infancia, 19 Somos familia o 20 Somos viejos compañeros de fatigas.
-
-<columna>
+1. Tira 1d20 para determinarlo: 1 Compartimos un secreto oscuro, 3 Confío plenamente en él, 3 Conoce un secreto oscuro sobre mí, 4 Conozco un secreto oscuro sobre él, 5 Desconfío de él, 6 Es una inspiración para mí, 7 Está en deuda conmigo, 8 Estoy en deuda con él, 9 Estoy enamorado de él, 10 Ha insultado mis creencias, 11 He prometido protegerlo, 12 Hemos hecho un pacto de sangre, 13 Le he robado, 14 Me burlo de él, 15 Me ha robado, 16 Necesita aprendiz, 17 Siento admiración por él, 18 Somos amigos de la infancia, 19 Somos familia o 20 Somos viejos compañeros de fatigas.<columna>
 
 ## Atrezo
 1. El personaje porta ropa gruesa (+1PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
