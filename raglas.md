@@ -45,37 +45,37 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. También dispone de 60 piezas de plata para comprar cosas.
 
 ** Arma ligera a 2 pp cada: **
-- Honda +4 de daño, dardo +2 de daño.
+Honda +4 de daño, dardo +2 de daño.
 ** Arma ligera a 5 pp cada: **
-- Bastón (2M) +4 de daño, daga +3 de daño, espadas cortas +5 de daño, hacha de mano +6 de daño.
+Bastón (2M) +4 de daño, daga +3 de daño, espadas cortas +5 de daño, hacha de mano +6 de daño.
 ** Arma ligera a 10 pp cada: **
-- Arco corto +6 de daño.
+Arco corto +6 de daño.
 ** Arma elaborada a 30 pp cada: **
-- Arco compuesto/largo +8 de daño, espada ancha +8 de daño, hacha de batalla/martillo/maza (1M) +9 de daño, lanza (1M) +7 de daño.
+Arco compuesto/largo +8 de daño, espada ancha +8 de daño, hacha de batalla/martillo/maza (1M) +9 de daño, lanza (1M) +7 de daño.
 ** Arma pesada a 40 pp cada: **
-- Ballesta (2M) +10 de daño, espada larga (2M) +11 de daño, hacha de batalla/martillo/maza (2M) +12 de daño, lanza (2M) +10 de daño.
+Ballesta (2M) +10 de daño, espada larga (2M) +11 de daño, hacha de batalla/martillo/maza (2M) +12 de daño, lanza (2M) +10 de daño.
 * Sin coste: piedra +4 de daño *
 * Daño sin armas, con puño +1 daño, patada +2 daño, si el golpe además es marcial +1 *
 
 ** Pieza de armadura y su material: **
-- Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).
-- Cuero flexible (+2 pa, +5 pp), cuero endurecido (+3 pa, +10 pp), cuero remachado (+4 pa, +15 pp), escamas (+5 pa, +20 pp), malla (+6 pa, +25 pp), anillos (+7 pa, +30 pp) o placas (+8 pa, +35 pp).
+Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).
+Cuero flexible (+2 pa, +5 pp), cuero endurecido (+3 pa, +10 pp), cuero remachado (+4 pa, +15 pp), escamas (+5 pa, +20 pp), malla (+6 pa, +25 pp), anillos (+7 pa, +30 pp) o placas (+8 pa, +35 pp).
 * Todas las piezas son cómodas con piel por dentro, abrigan en invierno pero molestan en verano. *  
 * Cada pieza de cuero otorga (-1 INI/MOV), de escamas (-2 INI/MOV) y de metal (-3 INI/MOV). *
-- Escudo de madera remachada o metal (10 pp, -1 ini/mov).
+Escudo de madera remachada o metal (10 pp, -1 ini/mov).
 
 ** Equipo de aventurero a 2 pp cada: **
-- 4 antorchas, cuerda, pergamino, racion de viaje, tienda de campaña, vendajes, odre con vino, yesca y pedernal.
+4 antorchas, cuerda, pergamino, racion de viaje, tienda de campaña, vendajes, odre con vino, yesca y pedernal.
 ** Herramienta a 5 pp cada: **
-- Caña de pescar, cepo, cuerda con garfio, ganzuaś, martillo, pala, palanca, pluma y tintero.
+Caña de pescar, cepo, cuerda con garfio, ganzuaś, martillo, pala, palanca, pluma y tintero.
 ** Cosas para rituales a 10 pp cada: **
-- Amuleto, bolsa de ceniza o incienso, odre de aceite, agua bendita o sangre, runa, tarro con polvo de hueso.
+Amuleto, bolsa de ceniza o incienso, odre de aceite, agua bendita o sangre, runa, tarro con polvo de hueso.
 ** Artículo complejo a 20 pp cada: **
-- Espejo, linterna, catalejo, ropa lujosa,.
+Espejo, linterna, catalejo, ropa lujosa,.
 ** Transporte: **
-- Bote con remos (50 pp), caballo (100 pp), carreta (30 pp), carro (100 pp), mula (30 pp).
+Bote con remos (50 pp), caballo (100 pp), carreta (30 pp), carro (100 pp), mula (30 pp).
 ** Servicio: **
-- Comer (1 pp), emborrachase (1 pp), una noche en posada (1 pp).
+Comer (1 pp), emborrachase (1 pp), una noche en posada (1 pp).
 
 ## Ambientación 
 1. Las profundidades donde se extienden las mazmorras y los pantanos son los dominios de Nada. Los bosques y las montañas son los dominios de Todo. El resto de tierra y agua es domino neutro, donde la magia no tiene efecto.
