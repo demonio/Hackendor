@@ -44,18 +44,27 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. El personaje porta ropa gruesa (+1 PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
 1. También dispone de 60 piezas de plata para comprar cosas.
 
-Arma ligera a 2 pp cada:
-- Honda +4 de daño, dardo +2 de daño.
-Arma ligera a 5 pp cada:
-- Bastón (2M) +4 de daño, daga +3 de daño, espadas cortas +5 de daño, hacha de mano +6 de daño.
-Arma ligera a 10 pp cada:
-- Arco corto +6 de daño.
-Arma elaborada a 30 pp cada:
-- Arco compuesto/largo +8 de daño, espada ancha +8 de daño, hacha de batalla/martillo/maza (1M) +9 de daño, lanza (1M) +7 de daño.
-Arma pesada a 40 pp cada:
-- Ballesta (2M) +10 de daño, espada larga (2M) +11 de daño, hacha de batalla/martillo/maza (2M) +12 de daño, lanza (2M) +10 de daño.
-*Sin coste: piedra +4 de daño*
-*Daño sin armas, con puño +1 daño, patada +2 daño, si el golpe además es marcial +1*
+| Arma | pp | Daño | PA |
+| --- | --- | --- | --- | --- |
+| Arco compuesto/largo (2M) | 30 | +8 | 2 |
+| Arco corto (2M) | 10 | +6 | 2 |
+| Ballesta (2M) | 40 | +10 | 2 |
+| Bastón (2M) | 5 | +4 | 3 |
+| Daga | 5 | +3 | 4 |
+| Dardo (10) | 5 | +2 | 1 |
+| Espada ancha | 30 | +8 | 6 |
+| Espada corta | 5 | +5 | 5 |
+| Espada larga | 40 | +11 | 9 |
+| Hacha de batalla/martillo/maza (1M) | 30 | +9 | 5 |
+| Hacha de batalla/martillo/maza remachada (2M) | 40 | +12 | 8 |
+| Hacha pequeña | 5 | +6 | 3 |
+| Honda | 5 | +4 | 1 |
+| Lanza (1M) | 30 | +7 | 3 |
+| Lanza remachada (2M) | 40 | +10 | 7 |
+| Patada | - | +10 | - |
+| Piedra (10) | 2 | +2 | 4 |
+| Puño | - | +10 | - |
+| Técnica marcial | - | +1 | - |
 
 Pieza de armadura y su material:  
 - Brazaletes (+5 pp), grebas (+5 pp), hombrera (+5 pp), peto (+10 pp) o yelmo (+5 pp, -5 PER).
