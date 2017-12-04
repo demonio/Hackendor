@@ -41,8 +41,7 @@ Bienvenido a Hackendor en sexta edad tras el apocalipsis de Nada.
 1. Tira 1d20 para determinarlo: 1 Compartimos un secreto oscuro, 3 Confío plenamente en él, 3 Conoce un secreto oscuro sobre mí, 4 Conozco un secreto oscuro sobre él, 5 Desconfío de él, 6 Es una inspiración para mí, 7 Está en deuda conmigo, 8 Estoy en deuda con él, 9 Estoy enamorado de él, 10 Ha insultado mis creencias, 11 He prometido protegerlo, 12 Hemos hecho un pacto de sangre, 13 Le he robado, 14 Me burlo de él, 15 Me ha robado, 16 Necesita aprendiz, 17 Siento admiración por él, 18 Somos amigos de la infancia, 19 Somos familia o 20 Somos viejos compañeros de fatigas.<columna>
 
 ## Atrezo
-1. El personaje porta ropa gruesa (+1PA), una mochila con un saco de dormir, una ración de viaje y un odre de agua.
-1. También dispone de 60 piezas de plata para comprar cosas.
+· El personaje porta ropa gruesa (+1PA), una mochila con un saco de dormir, una ración de viaje, un odre de agua y 60 piezas de plata.
 
 **Armas a distancia**  
 · Arco compuesto/largo +8, 2PA (20pp).
@@ -100,5 +99,16 @@ Técnica marcial +1.
 **Servicio**  
 · Comer (1 pp), emborrachase (1 pp), una noche en posada (1 pp).
 
+## Magia instantanea
+· Cuando el PJ trata de lanzar un hechizo sin preparar, el resultado puede ser de lo más inesperado:  
+1. Tira 1d8 para determinar la dirección: 1 Norte, 2 NE, 3 Este, 4 SE, 5 Sur, 6 SO, 7 Oeste, 8 NO
+1. Tira 1d6 para determinar la inclinación: 1 A tus pies, 2 Recto a las piernas, 3 Recto al abdomen, 4 Recto al pecho, 5 Recto a la cabeza en la corta o sobre en la media, 6 Al techo. 
+1. Tira 1d6 para determinar el alcance: 1 Así mismo, 2 Contacto, 3 Arco corto, 4 Arco largo, 5 Bala, 6 Rifle.
+1. Tira 1d6 para determinar la área: 1 Individuo, 2 Del tamaño de un vehículo, 3 De un edificio, 4 De una aldea, 5 De un pueblo, 6 De una ciudad.
+1. Tira 1d6 para determinar la duración: 1 Alcance recorrido, 2 Alcance recorrido y diez segundos, 3 Y un minuto, 4 Y una hora, 5 Y un día, 6 Y eterna.
+1. Tira 1d6 para determinar la velocidad: 1 Andando, 2 Corriendo, 3 Objeto arrojado, 4 Flecha, 5 Bala, 6 Luz.
+1. Tira 1d6 para determinar la acción: 1 Añade, 2. Cambia, 3 Controla, 4 Crear, 5 Degenera, 6 Regenera.
+1. Tira 1d8 para determinar el estado: 1 Ectoplasma, 2 Fuego, 3 Gas, 4 Líquido, 5 Mental, 6 Orgánico, 7 Plasma, 8 Sólido.
+
 ## Ambientación  
-1. Las profundidades donde se extienden las mazmorras y los pantanos son los dominios de Nada. Los bosques y las montañas son los dominios de Todo. El resto de tierra y agua es domino neutro, donde la magia no tiene efecto.
+1. El subsuelo y los pantanos son los dominios de Nada. Los bosques y las montañas son los dominios de Todo. El resto de tierra y agua es domino neutro, donde la magia no tiene efecto.
