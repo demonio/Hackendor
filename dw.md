@@ -10,9 +10,12 @@
 | 2d6 | Resutado. |
 | :---- | :---- |
 | [12] | Crítico, consigues el doble de lo propuesto. |
-| [10-11] | Éxito. |
-| [8-9] | Éxito, pero en tú proxima acción estarás en desventaja. |
-| [7] | Éxito y fracaso a partes iguales. | Golpe en la cabeza, +3 al daño. |
-| [5-6] | Fallo, pero en tú proxima acción estarás en ventaja. |
+| [10-11] | Éxito, pero pierdes 1 PA. |
+| [8-9] | Éxito, pero en tú proxima acción estarás en desventaja<sup>1</sup>. |
+| [7] | Éxito y fracaso a partes iguales. |
+| [5-6] | Fallo, pero en tú proxima acción estarás en ventaja<sup>2</sup>. |
 | [3-4] | Fallo, pero ganas 1 PX. |
 | [2] | Ojos de serpiente, lo tienes hasta que la serpiente mire a otro, todos los monstruos van a por ti y recibes el doble de daño. |
+
+1. Cuando tienes desventaja, lanzas 3d6 y escoges los dos resultado más bajos.  
+2. Cuando tienes ventaja, lanzas 2d6 y escoges los dos resultados más altos.
