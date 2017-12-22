@@ -1,8 +1,11 @@
 # Dungeon World Hack
 ## Manual del DJ
 
+### Vinculos:
+Hazle preguntas a los jugadores sobre la relación de su personaje con otros mienbros del grupo.
+
 ### Ambientación:
-El mundo se genera en base a las preguntas que hace el DJ a los jugadores sobre sus personajes.
+Fantástica donde el mundo se genera en base a las preguntas que hace el DJ a los jugadores sobre sus personajes.
 
 ### Tiradas:
 El DJ nunca tira dados.
@@ -10,7 +13,7 @@ El DJ nunca tira dados.
 ### Comprobaciones:
 Resultados de la tiradas de resolución de acciones.
 
-| 2d6 | Resutado |
+| 2d6 | Resutado del personaje |
 | :---- | :---- |
 | 12 | Crítico, está inspirado y consigue lo máximo en el menor tiempo posible. |
 | 10-11 | Éxito, pero un objeto o él pierde 1 PA por el impacto/esfuerzo. |
@@ -52,6 +55,9 @@ Marca uno, su tendencia y con 2d6 tira otro al azar, sus genes y por lo tanto su
 
 ### Descripción:
 Di al resto del mundo como se muestra, sus gestos, sus ropas, algún rasgo que llame la atención. Pero no digas quien es, siempre es mejor que lo supongan los demás. Ponle un nombre y a jugar.
+
+### Acciones:
+* Localización cuando golpea al bulto: 12 Cabeza (+3 al daño), 11 Brazo (+1 al daño), 10 Abdomen, 9 Pierna (-1 al daño) o 8-7 Pecho.
 
 <hr class="end-page">
 
