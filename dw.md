@@ -7,6 +7,26 @@ El mundo se genera en base a las preguntas que hace el DJ a los jugadores sobre 
 ### Tiradas:
 El DJ nunca tira dados.
 
+### Comprobaciones:
+Resultados de la tiradas de resolución de acciones.
+
+| 2d6 | Resutado |
+| :---- | :---- |
+| 12 | Crítico, está inspirado y consigue lo máximo en el menor tiempo posible. |
+| 10-11 | Éxito, pero un objeto o él pierde 1 PA por el impacto/esfuerzo. |
+| 8-9 | Éxito, pero en sú proxima acción estará en desventaja<sup>1</sup>. |
+| 7 | Éxito y fracaso a partes iguales. |
+| 5-6 | Fallo, pero en sú proxima acción estará en ventaja<sup>2</sup>. |
+| 3-4 | Fallo, pero gana 1 PX. |
+| 2 | Ojos de serpiente, falla y lo tiene hasta que la serpiente mire a otro<sup>3</sup>. |
+
+> 1. Cuando tiene desventaja, lanza 3d6 y escoge los dos resultado más bajos.  
+> 2. Cuando tiene ventaja, lanza 3d6 y escoge los dos resultados más altos.
+> 3. No sabe que tiene pero todos los monstruos van a por él y todo le hace doble daño.
+
+### Etiquetas:
+[Debilitado] da -1 a FUE, [Tembloroso] da -1 a DES, [Enfermo] da -1 a CON, [Aturdido] da -1 a INT, [Confundido] da -1 a SAB, [Marcado] da -1 a CAR.
+
 <hr class="end-col">
 
 ## Manual del PJ
@@ -32,26 +52,6 @@ Marca uno, su tendencia y con 2d6 tira otro al azar, sus genes y por lo tanto su
 
 ### Descripción:
 Di al resto del mundo como se muestra, sus gestos, sus ropas, algún rasgo que llame la atención. Pero no digas quien es, siempre es mejor que lo supongan los demás. Ponle un nombre y a jugar.
-
-### Comprobaciones:
-Resultados de la tiradas de resolución de acciones.
-
-| 2d6 | Resutado |
-| :---- | :---- |
-| 12 | Crítico, está inspirado y consigue lo máximo en el menor tiempo posible. |
-| 10-11 | Éxito, pero un objeto o él pierde 1 PA por el impacto/esfuerzo. |
-| 8-9 | Éxito, pero en sú proxima acción estará en desventaja<sup>1</sup>. |
-| 7 | Éxito y fracaso a partes iguales. |
-| 5-6 | Fallo, pero en sú proxima acción estará en ventaja<sup>2</sup>. |
-| 3-4 | Fallo, pero gana 1 PX. |
-| 2 | Ojos de serpiente, falla y lo tiene hasta que la serpiente mire a otro<sup>3</sup>. |
-
-> 1. Cuando tiene desventaja, lanza 3d6 y escoge los dos resultado más bajos.  
-> 2. Cuando tiene ventaja, lanza 3d6 y escoge los dos resultados más altos.
-> 3. No sabe que tiene pero todos los monstruos van a por él y todo le hace doble daño.
-
-### Etiquetas:
-[Debilitado] da -1 a FUE, [Tembloroso] da -1 a DES, [Enfermo] da -1 a CON, [Aturdido] da -1 a INT, [Confundido] da -1 a SAB, [Marcado] da -1 a CAR.
 
 <hr class="end-page">
 
