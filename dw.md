@@ -30,7 +30,7 @@ El DJ nunca tira dados, pero cuendo lo hacen los jugadores...
 
 ### Etiquetas:
 Todo objeto organico o no, tiene etiquetas que resumen sus propiedades, unas predefinidas y otras temporales.
-[Debilitado] da -1 a FUE, [Tembloroso] da -1 a DES, [Enfermo] da -1 a CON, [Aturdido] da -1 a INT, [Confundido] da -1 a SAB, [Marcado] da -1 a CAR.
+[Debilitado] da -1 a *FUE*, [Tembloroso] da -1 a *DES*, [Enfermo] da -1 a *CON*, [Aturdido] da -1 a *INT*, [Confundido] da -1 a *SAB*, [Marcado] da -1 a *CAR*.
 
 ### Consecuencias:
 Gasta puntos de consecuencia en el momento o más adelante para entorpecer las acciones de los personajes.
@@ -44,8 +44,8 @@ Gasta puntos de consecuencia en el momento o más adelante para entorpecer las a
 Jugador, dale forma a tu personaje; tira y/o elige las características, la raza, la clase, el alineamiento y describelo.
 
 ### Características:
-Lanza 2d6+6 como valor para FUErza, CONostitución, DEStreza, INTeigencia, SABiduría Y CARisma y anota su modificador que será igual a [característica -10 / 2, redondeando hacia abajo].
-* Anota sus puntos de aguante (PA o PG), que son igual al valor de FUE más el modificador de CON.
+Lanza 2d6+6 como valor para *FUE*rza, *CON*ostitución, *DES*treza, *INT*eigencia, *SAB*iduría Y *CAR*isma y anota su modificador que será igual a [característica -10 / 2, redondeando hacia abajo].
+* Anota sus puntos de aguante (PA o PG), que son igual al valor de *FUE* más el modificador de *CON*.
 
 ### Clases:
 Tira la raza y elige su profesión.
