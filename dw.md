@@ -50,6 +50,33 @@ Cada personaje empieza con 3 puntos de suerte (PS) que protegen a los personajes
 
 ## Manual del Atrezo
 
+| # | Cosa | Nota |
+| :---- | :---- | :---- |
+| 1 | Instrumento musical | |
+| 1 | Libro especializado | |
+| 1 | Ración de viaje | 5 usos |
+| 1 | Ropa elegante | +1 CAR |
+
+| Arma (etiqueta) | Daño | PA | DES |
+| :---- | :---- |
+| Puño | -3 | | +2 |
+| Patada | -2 | | +1 |
+| Golpe marcial | +1 | | +1 |
+| Madera | +1 | | |
+| Metal | +2 | +1 | -1 |
+| Afilada | +1 | -1 | |
+| Peso | +1/kg | +1/kg | -1/kg |
+| Mágica | +1 | +1 | +1 |
+
+| Armadura | PA | DES |
+| :---- | :---- | :---- |
+| Cuero/Pieles | 1 | -1 |
+| Cuero endurecido | 2 | -2 |
+| Metal | 3 | -4 |
+| Aleación | 4 | -3 |
+| Artesana | +1 | |
+| Mágica | +1 | -1 |
+
 <hr class="end-page">
 
 ## Manual del DJ
@@ -96,12 +123,3 @@ Gasta puntos de consecuencia (PC) en cualquier momento para entorpecer las accio
 * Por 2 PC, puedes hacer que el PJ reciba daño.
 
 <hr class="end-col">
-
-| Dato | Valor | CAR | Valor | Mod |
-| :---- | :---- | :---- | :---- | :---- |
-| Nombre | | FUE | | |
-| Raza | | CON | | |
-| Profesión | | DES | | |
-| Descripción | | INT | | |
-|  | | SAB | | |
-|  | | CAR | | |
