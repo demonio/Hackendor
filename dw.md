@@ -65,7 +65,8 @@ Cada personaje empieza con 3 puntos de suerte (PS) que protegen a los personajes
 | Afilada | +1 | -1 | |
 | Peso | +1/kg | +1/kg | -1/kg |
 | Mágica | +1 | +1 | +1 |
-| *Referencia*|
+
+| Sin arma | Daño | PA | DES |
 | Puño | -3 | | +2 |
 | Patada | -2 | | +1 |
 | Golpe marcial | +1 | | +1 |
