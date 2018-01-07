@@ -58,9 +58,8 @@ Cada personaje empieza con 3 puntos de suerte (PS) que protegen a los personajes
 | 1 | Ropa elegante | +1 CAR |
 
 ### Configura tú arma
-| Elemento | Daño | PA | DES |
+| Elemento/Etiqueta | Daño | PA | DES |
 | :---- | :---- | :---- | :---- |
-| *Etiqueta*|
 | Madera | +1 | | |
 | Metal | +2 | +1 | -1 |
 | Afilada | +1 | -1 | |
@@ -72,9 +71,8 @@ Cada personaje empieza con 3 puntos de suerte (PS) que protegen a los personajes
 | Golpe marcial | +1 | | +1 |
 
 ### Configura tú armadura
-| Elemento | PA | DES |
+| Elemento/Etiqueta | PA | DES |
 | :---- | :---- | :---- |
-| *Etiqueta*|
 | Cuero/Pieles | 1 | -1 |
 | Cuero endurecido | 2 | -2 |
 | Metal | 3 | -4 |
