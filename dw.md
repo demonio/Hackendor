@@ -51,7 +51,7 @@ Cada personaje empieza con 3 puntos de suerte (PS) que protegen a los personajes
 ## Manual del Atrezo
 
 | # | Cosa | Nota |
-| :---- |
+| :---- | :---- | :---- |
 | 1 | Instrumento musical | |
 | 1 | Libro especializado | |
 | 1 | Ración de viaje | 5 usos |
@@ -59,6 +59,7 @@ Cada personaje empieza con 3 puntos de suerte (PS) que protegen a los personajes
 
 ### Configura tú arma
 | Elemento | Daño | PA | DES |
+| :---- | :---- | :---- | :---- |
 | *Etiqueta*|
 | Madera | +1 | | |
 | Metal | +2 | +1 | -1 |
@@ -72,7 +73,7 @@ Cada personaje empieza con 3 puntos de suerte (PS) que protegen a los personajes
 
 ### Configura tú armadura
 | Elemento | PA | DES |
-| :---- |
+| :---- | :---- | :---- |
 | *Etiqueta*|
 | Cuero/Pieles | 1 | -1 |
 | Cuero endurecido | 2 | -2 |
