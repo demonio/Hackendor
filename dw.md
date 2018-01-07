@@ -1,4 +1,4 @@
-# DW Hack
+# DW Hack del demonio vAlpha
 ## Manual del PJ
 Dale forma a tu PJ.
 * Tira las características, la raza y el alineamiento heredado.
@@ -51,25 +51,29 @@ Cada personaje empieza con 3 puntos de suerte (PS) que protegen a los personajes
 ## Manual del Atrezo
 
 | # | Cosa | Nota |
-| :---- | :---- | :---- |
+| :---- |
 | 1 | Instrumento musical | |
 | 1 | Libro especializado | |
 | 1 | Ración de viaje | 5 usos |
 | 1 | Ropa elegante | +1 CAR |
 
-| Arma (etiqueta) | Daño | PA | DES |
-| :---- | :---- |
-| Puño | -3 | | +2 |
-| Patada | -2 | | +1 |
-| Golpe marcial | +1 | | +1 |
+### Configura tú arma
+| Elemento | Daño | PA | DES |
+| *Etiqueta*|
 | Madera | +1 | | |
 | Metal | +2 | +1 | -1 |
 | Afilada | +1 | -1 | |
 | Peso | +1/kg | +1/kg | -1/kg |
 | Mágica | +1 | +1 | +1 |
+| *Referencia*|
+| Puño | -3 | | +2 |
+| Patada | -2 | | +1 |
+| Golpe marcial | +1 | | +1 |
 
-| Armadura | PA | DES |
-| :---- | :---- | :---- |
+### Configura tú armadura
+| Elemento | PA | DES |
+| :---- |
+| *Etiqueta*|
 | Cuero/Pieles | 1 | -1 |
 | Cuero endurecido | 2 | -2 |
 | Metal | 3 | -4 |
@@ -121,5 +125,3 @@ Gasta puntos de consecuencia (PC) en cualquier momento para entorpecer las accio
 * Por 1 PC, puedes hacer que el personaje o un objeto pierda 1 PA por el esfuerzo empleado o un fuerte impacto.
 * Por 1 PC, puedes hacer que se pierda una carga de munición.
 * Por 2 PC, puedes hacer que el PJ reciba daño.
-
-<hr class="end-col">
