@@ -1,7 +1,9 @@
-# Infiltrados
+Infiltrados
+===========
 Una aventura para Estrellas Errantes
 
-## Escena 1
+Escena 1
+--------
 Os encontráis en al base secreta de la Confederación Onyx, en una sala contigua al hangar, pues estáis siendo preparados para una misión altamente peligrosa. Seréis infiltrados en el superdestructor Devastación con trajes Dalosianos, para dar caza al almirante y huir con toda la información que podáis recopilar.
 - Se os ha entregado un droide de combate con una única instrucción de serie, "seguir a los aliádos", y estáis identificados como tales. Al droide le puede programar un cable, tres instruciones más; estas han de ser precisas, pues el droide no tiene capacidad de interacción y actua de forma rigurosa a su programación.
 > Droide n1: 
@@ -12,19 +14,22 @@ Os encontráis en al base secreta de la Confederación Onyx, en una sala contigu
 * Tampoco saben que las comunicaciones de la nave Nyrblak están averiadas y que solo pueden repararse en el espacio con desventaja en TEC.
 - Cuando el hacker haya programado el droide y todos se hayan salido del hangar de la base, pueden efectuar el salto.
 
-## Escena 2 ##
+Escena 2
+--------
 - Habéis saltado a distancia distante en el punto donde podéis el superdestructor Devastación. Al lado se encuentra el destructor de la almirante Marul Sadarka echando humo por varios puntos. Ambas naves permanecen estáticas.
 - Se requiere una tirada de cálculo para analizar el perimetro.
 	1. Si se falla la tirada, una nave Tiburón n3 Dalosiana disparará a la nave Nyrblark de los PJs sin avisar.
 - Cuando los PJs se aproximen al superdestructor con la ocultación activa, habran llegado al hangar.
 
-## Escena 3
+Escena 3
+--------
 - Llegados al hangar del superdestructor, os dáis cuenta de que este está desatendido de personal. Tiene unos 500 metros cuadrados y entre cajas y barriles, que hay distribuidos a lo largo y ancho, hay 6 cazas Nyrblark n1, 1 explorador Dalosiano n2 y una dipomática Dalosiana n3.
 * Una vez dejan el hangar para ir a otra localización, si nadie supera con desventaja una tirada de percepción (PSI), no se darán cuenta de que las cámaras de vigilancia de los pasillos están siguiendo sus movimientos.
 * Volver al hangar supone sufrir la emboscada de 4 Nyrblark que esperan a que el último PJ este subiendo a una nave, para disparar con ventaja a esa nave, con la intención de destruirla con todos dentro.
 - Cuando los PJs tratan de localizar al almirante por el laberinto de pasillos y habitaciones, se topán con la puerta de la sala de mandos cerrada.
 
-## Escena 4
+Escena 4
+--------
 - En la parte inferior del superdestructor:
 * Toda la tripulación Dalosiana está en las bodegas, unos 100. Han sido capturados y encerrados en una sala vigilada por seis Nyrblack n1.
 * La armería ha sido neutralizada y no habría armas para esta tripulación si es liberada.
@@ -39,7 +44,8 @@ Os encontráis en al base secreta de la Confederación Onyx, en una sala contigu
 * Si los PJs huyen, serán perseguido por un Nyrblark n3 y otro n1 en motos que levitan sobre el suelo.
 * Si se esconden en la huida, las motos iran hasta al hangar para preparar una emboscada con otros cuatro Nyrblark n1, con la misma idea de antes; Esperar a que esté subiendo el último PJ para disparar a la nave hasta destruirla con todos dentro.
 
-## Escena 5
+Escena 5
+--------
 * Si los PJs han salido del superdestructur, serán perseguidos por los Nyrblark en los 6 cazas n1 del hangar.
 * Si los PJs han huido en el explorador n2 o la diplomática n3, recibiran ayuda del tiburón n3 que esta esperando fuera.
 * Si salen en la Nyrblark n2 con los cazas detrás de ellos, la Tiburon n3 no actuará si no tiene claro quienes son aliados o enemigos.
