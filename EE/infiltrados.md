@@ -12,7 +12,7 @@ Os encontráis en al base secreta de la Confederación Onyx, en una sala contigu
 * Tampoco saben que las comunicaciones de la nave Nyrblak están averiadas y que solo pueden repararse en el espacio con desventaja en TEC.
 - Cuando el hacker haya programado el droide y todos se hayan salido del hangar de la base, pueden efectuar el salto.
 
-##  Escena 2
+## Escena 2 ##
 - Habéis saltado a distancia distante en el punto donde podéis el superdestructor Devastación. Al lado se encuentra el destructor de la almirante Marul Sadarka echando humo por varios puntos. Ambas naves permanecen estáticas.
 - Se requiere una tirada de cálculo para analizar el perimetro.
 	1. Si se falla la tirada, una nave Tiburón n3 Dalosiana disparará a la nave Nyrblark de los PJs sin avisar.
