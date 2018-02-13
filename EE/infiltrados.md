@@ -16,7 +16,8 @@ Se os ha entregado un droide de combate con una única instrucción de serie, "s
 Hemos capturado una nave Nyrblack de nivel 2 con capacidad para cuatro y con tecnología de ocultación. Tenéis las coordenadas de salto hasta la posición del superdestructor a distancia distante y las de regreso a la base secreta en otro punto a este. Una vez allí, podrán activar la ocultación y aproximarse a uno de los hangares del superdestructor sin problema. Solo sabemos de la tecnología de ocultaciñon, que funciona pulsando un botón y se autodesactiva al abrir las puertas de la nave o al fijar un objetivo con cálculo.
 
 > Cuervo n2 Nyrblark — Manejo 11 — Cáclculo 11 — Artillería 11 — Salud 9 — Defensa 6 — Combustible d8.  
-> Talentos: 4 Puestos (M, C/A, A, A) — Ocutación en 2 turnos con una perdida de 1 en Defensa cada 10'.
+> Para 4 tripulantes (M, C/A, A, A).  
+> Tecnología de ocultación en 2 turnos con una perdida de 1 en Defensa cada 10'.
 
 * Lo que no saben los PJs es que cuando la ocultación esta activa, esta se alimenta del escudo de la nave a razón de 1 punto cada 10'. Por lo tanto sin escudo, no se puede activar.
 * También desconocen que la ocutación no es inmediata. El proceso es el mismo que para dar un salto.
@@ -38,14 +39,22 @@ Habéis saltado a distancia distante en el punto donde podéis ver el superdestr
 > Soldado Recius (A d8) posee el don psiónico.  
 > Soldado Cambel (A, d8) es el único con vocación de soldado.
 
-Si os habéis acercado al superdestructor con la ocultación activa, habéis llegado al hangar. Si ocultación... BOOM.
+Si os habéis acercado al superdestructor con la ocultación activa, habéis llegado al hangar. Sin ocultación... BOOM.
 
 <hr class="end-col">
 
 Escena 3
 --------
-- Llegados al hangar del superdestructor, os dáis cuenta de que este está desatendido de personal. Tiene unos 500 metros cuadrados y entre cajas y barriles, que hay distribuidos a lo largo y ancho, hay 6 cazas Nyrblark n1, 1 explorador Dalosiano n2 y una dipomática Dalosiana n3.
-* Una vez dejan el hangar para ir a otra localización, si nadie supera con desventaja una tirada de percepción (PSI), no se darán cuenta de que las cámaras de vigilancia de los pasillos están siguiendo sus movimientos.
+### Hangar
+Llegados al hangar del superdestructor, os dáis cuenta de que este está desatendido de personal. Tiene unos 500 metros cuadrados y entre cajas y barriles, que hay distribuidos a lo largo y ancho, hay 6 cazas n1 Nyrblark, 1 explorador n2 Dalosiano y una dipomática n3 Dalosiana.
+
+### Pasillos y habitaciones
+Empezáis a recorrer cada pasillo y habitación del superdestructor sin encontrar vida alguna.
+
+Tirar todos con desventaja una tirada de percepción (PSI).
+OK y KO: Las luces de cada tramo y habitación son las de emergencia, algunas parpadean y emiten un chispazo intermitente, que hasta ahora os había pasado inadvertido.  
+OK: Además os dais cuenta de que las cámaras de vigilancia de los pasillos están siguiendo vuestros movimientos.
+
 * Volver al hangar supone sufrir la emboscada de 4 Nyrblark que esperan a que el último PJ este subiendo a una nave, para disparar con ventaja a esa nave, con la intención de destruirla con todos dentro.
 - Cuando los PJs tratan de localizar al almirante por el laberinto de pasillos y habitaciones, se topán con la puerta de la sala de mandos cerrada.
 
