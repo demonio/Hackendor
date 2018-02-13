@@ -49,7 +49,7 @@ El hangar esta en un nivel intermedio del superdestructor y os dáis cuenta de q
 
 Empezáis a recorrer cada pasillo y habitación del superdestructor sin encontrar vida alguna. Los camarotes sin desorden aparente. Y los ascensores están desactivados.
 
-Tirar todos con desventaja una tirada de percepción (PSI).
+Tirar todos con desventaja una tirada de percepción (PSI).  
 OK y KO: Las luces de cada tramo y habitación son las de emergencia, algunas parpadean y emiten un chispazo intermitente, que hasta ahora os había pasado inadvertido.  
 OK: Además os dais cuenta de que las cámaras de vigilancia de los pasillos están siguiendo vuestros movimientos.
 
@@ -59,7 +59,7 @@ Escena 4
 --------
 Habéis llegado a las escaleras de emergencia y debéis elegir si subir o bajar de nivel.
 
-Bajando de nivel no tardáis en encontraros 2 Nyrblack n1 vigilando la puerta de una sala de reuniones.
+Bajando de nivel no tardáis en encontraros 2 Nyrblack n1 vigilando la puerta de una sala de reuniones.  
 En la sala se encuentra la tripulación Dalosiana, unos 100, maniatados y con cuatro soldados Nyrblack n1 apuntandoles.
 
 La armería también se encuentra en el nivel inferior, pero todas las armas han sido neutralizadas por los Nyrblark.
