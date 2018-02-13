@@ -32,8 +32,6 @@ Habéis saltado a distancia distante en el punto donde podéis ver el superdestr
 	* OK: Una nave Tiburón n3 Dalosiana se aproxima amenazante apuntando vuestra nave.
 	* KO: Recibís el disparo de una nave Tiburón n3 Dalosiana.
 
-LOL
-
 > Tiburón Dalosiano n3 — Manejo 10 — Cáclculo 13 — Artillería 8 — Salud 16 — Defensa 10 — Combustible d8.    
 > Capitán Dovak (M) hace las veces de diplomático.  
 > Sargento Sadric (C) tiene habilidades de hacker.  
