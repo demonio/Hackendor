@@ -42,8 +42,6 @@ Habéis saltado a distancia distante en el punto donde podéis ver el superdestr
 
 Si os habéis acercado al superdestructor con la ocultación activa, habéis llegado al hangar. Sin ocultación... BOOM.
 
-![CC-Zero-badge](https://rola.multisitio.es/img/hacks/CC-Zero-badge.svg)
-
 <hr class="end-col">
 
 Escena 3
@@ -89,3 +87,5 @@ Escena 5
 	* Informan al Tiburón Dalosiando de solo una de las dos cosas (1 PX).
 	* Huyen hasta las coordenadas de regreso a la base de la Confederación Onyx, he informan de las dos cosas (3 PX).
 	* Informan en la base de la Confederación Onyx de solo una de las dos cosas (1 PX).
+
+![CC-Zero-badge](https://rola.multisitio.es/img/hacks/CC-Zero-badge.svg)
