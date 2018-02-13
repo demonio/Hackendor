@@ -7,14 +7,17 @@ Escena 1
 Os encontráis en al base secreta de la Confederación Onyx, en una sala contigua al hangar, pues estáis siendo preparados para una misión altamente peligrosa. Seréis infiltrados en el superdestructor Devastación con trajes Dalosianos, para dar caza al almirante y huir con toda la información que podáis recopilar.
 
 Se os ha entregado un droide de combate con una única instrucción de serie, "seguir a los aliádos", y estáis identificados como tales. Al droide le puede programar un cable, tres instruciones más; estas han de ser precisas, pues el droide no tiene capacidad de interacción y actua de forma rigurosa a su programación.
+
 > Droide de combate C3P2 n1 — BIO 8 — COM 11 — PSI 11 — TEC 10 — Salud 12 — Defensa pesada 8  
 > Armas: 2 rifles d8 con munición d10 (en automático da ventaja pero se tira 2 veces el DU de munición por rifle)  
 > Tiene: Célula de energía d8 para un dispositivo de iluminación, dispositivo de comunicación y entrada de datos.  
 > Notas: Solo un hacker puede programar tres instrucciones y cambiar una cada 10'. 
 
-- Hemos capturado una nave Nyrblack de nivel 2 con capacidad para cuatro y con tecnología de ocultación. Tenéis las coordenadas de salto hasta la posición del superdestructor a distancia distante y las de regreso a la base secreta en otro punto a este. Una vez allí, podrán activar la ocultación y aproximarse a uno de los hangares del superdestructor sin problema. Solo sabemos de la tecnología de ocultaciñon, que funciona pulsando un botón y se autodesactiva al abrir las puertas de la nave o al fijar un objetivo con cálculo.
+Hemos capturado una nave Nyrblack de nivel 2 con capacidad para cuatro y con tecnología de ocultación. Tenéis las coordenadas de salto hasta la posición del superdestructor a distancia distante y las de regreso a la base secreta en otro punto a este. Una vez allí, podrán activar la ocultación y aproximarse a uno de los hangares del superdestructor sin problema. Solo sabemos de la tecnología de ocultaciñon, que funciona pulsando un botón y se autodesactiva al abrir las puertas de la nave o al fijar un objetivo con cálculo.
+
 > Nave Nyrblark Cuervo n2 — Manejo 11 — Cáclculo 11 — Artillería 11 — Salud 9 — Defensa 6 — Combustible d8
 > Talentos: 4 Puestos (M, C/A, A, A) — Ocutación en 2 turnos con una perdida de 1 en Defensa cada 10'.
+
 * Lo que no saben los PJs es que cuando la ocultación esta activa, esta se alimenta del escudo de la nave a razón de 1 punto cada 10'. Por lo tanto sin escudo, no se puede activar.
 * También desconocen que la ocutación no es inmediata. El proceso es el mismo que para dar un salto.
 * Tampoco saben que las comunicaciones de la nave Nyrblak están averiadas y que solo pueden repararse en el espacio con desventaja en TEC.
