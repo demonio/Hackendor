@@ -21,7 +21,8 @@ Hemos capturado una nave Nyrblack de nivel 2 con capacidad para cuatro y con tec
 * Lo que no saben los PJs es que cuando la ocultación esta activa, esta se alimenta del escudo de la nave a razón de 1 punto cada 10'. Por lo tanto sin escudo, no se puede activar.
 * También desconocen que la ocutación no es inmediata. El proceso es el mismo que para dar un salto.
 * Tampoco saben que las comunicaciones de la nave Nyrblak n2 están averiadas y que repararlas en el espacio se hace con desventaja en TEC.
-* Cuando el hacker haya programado el droide y todos se hayan salido del hangar de la base, pueden efectuar el salto.
+
+Si ya habéis terminado de programar al droide, podéis salir de la base y efectuar el salto.
 
 Escena 2
 --------
