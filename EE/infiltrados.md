@@ -38,7 +38,7 @@ Habéis saltado a distancia distante en el punto donde podéis ver el superdestr
 > Soldado Recius (A d8) posee el don psiónico.  
 > Soldado Cambel (A, d8) es el único con vocación de soldado.
 
-Si ha os habéis acercado al superdestructor con la ocultación activa, habéis llegado al hangar. Si ocultación... DEP.
+Si os habéis acercado al superdestructor con la ocultación activa, habéis llegado al hangar. Si ocultación... BOOM.
 
 <hr class="end-col">
 
