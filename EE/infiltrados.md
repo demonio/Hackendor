@@ -45,12 +45,9 @@ Si os habéis acercado al superdestructor con la ocultación activa, habéis lle
 
 Escena 3
 --------
-### Hangar
-El hangar esta en un nivel intermedio del superdestructor.
-Os dáis cuenta de que este está desatendido de personal. Tiene unos 500 metros cuadrados y entre cajas y barriles que hay distribuidos a lo largo y ancho, hay 6 cazas Nyrblark n1, 1 explorador Dalosiano n2 y una dipomática Dalosiana n3.
+El hangar esta en un nivel intermedio del superdestructor y os dáis cuenta de que este está desatendido de personal. Tiene unos 500 metros cuadrados y entre cajas y barriles que hay distribuidos a lo largo y ancho, hay 6 cazas Nyrblark n1, 1 explorador Dalosiano n2 y 1 dipomática Dalosiana n3.
 
-### Pasillos y habitaciones
-Empezáis a recorrer cada pasillo y habitación del superdestructor sin encontrar vida alguna.
+Empezáis a recorrer cada pasillo y habitación del superdestructor sin encontrar vida alguna. Los camarotes sin desorden aparente. Y los ascensores están desactivados.
 
 Tirar todos con desventaja una tirada de percepción (PSI).
 OK y KO: Las luces de cada tramo y habitación son las de emergencia, algunas parpadean y emiten un chispazo intermitente, que hasta ahora os había pasado inadvertido.  
@@ -58,22 +55,16 @@ OK: Además os dais cuenta de que las cámaras de vigilancia de los pasillos est
 
 * Volver al hangar supone sufrir la emboscada de 4 Nyrblark que esperan a que el último PJ este subiendo a una nave, para disparar con ventaja a esa nave, con la intención de destruirla con todos dentro.
 
-### Camarotes
-Vacios y sin desorden aparente.
-
 Escena 4
 --------
-Habéis llegado a las escaleras y debéis elegir si subir o bajar de nivel.
+Habéis llegado a las escaleras de emergencia y debéis elegir si subir o bajar de nivel.
 
-### Bodegas del nivel inferior
-Dos Nyrblack n1 parecen despistados vigilando una puerta.  
-En la sala se encuentra la tripulación Dalosiana, unos 100m, maniatados y con cuatro soldados Nyrblack n1 apuntandoles.
+Bajando de nivel no tardáis en encontraros 2 Nyrblack n1 vigilando la puerta de una sala de reuniones.
+En la sala se encuentra la tripulación Dalosiana, unos 100, maniatados y con cuatro soldados Nyrblack n1 apuntandoles.
 
-### Armería
-* Todas las armas están aquí y han sido neutralizadas por los Nyrblark.
+La armería también se encuentra en el nivel inferior, pero todas las armas han sido neutralizadas por los Nyrblark.
 
-### Puente de mando del nivel superior
-Una puerta blindada impede el acceso al puente de mando.
+En el nivel superior no tardáis en dar con una puerta blindada, que impide el acceso a la sala del puente de mando.
 
 * La puerta de acceso a la sala de mandos esta cerrada.
 	1. Un hacker podría conseguir la clave de acceso superando una prueba de TEC con desventaja.
