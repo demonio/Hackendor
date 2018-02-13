@@ -4,9 +4,9 @@ Una aventura para Estrellas Errantes. Donde los PJs se infiltraran en el destruc
 
 Escena 1
 --------
-— Os encontráis en al base secreta de la Confederación Onyx, en una sala contigua al hangar, pues estáis siendo preparados para una misión altamente peligrosa. Seréis infiltrados en el superdestructor Devastación con trajes Dalosianos, para dar caza al almirante y huir con toda la información que podáis recopilar.—
+Os encontráis en al base secreta de la Confederación Onyx, en una sala contigua al hangar, pues estáis siendo preparados para una misión altamente peligrosa. Seréis infiltrados en el superdestructor Devastación con trajes Dalosianos, para dar caza al almirante y huir con toda la información que podáis recopilar.
 
-- Se os ha entregado un droide de combate con una única instrucción de serie, "seguir a los aliádos", y estáis identificados como tales. Al droide le puede programar un cable, tres instruciones más; estas han de ser precisas, pues el droide no tiene capacidad de interacción y actua de forma rigurosa a su programación.
+Se os ha entregado un droide de combate con una única instrucción de serie, "seguir a los aliádos", y estáis identificados como tales. Al droide le puede programar un cable, tres instruciones más; estas han de ser precisas, pues el droide no tiene capacidad de interacción y actua de forma rigurosa a su programación.
 > Droide de combate C3P2 n1 — BIO 8 — COM 11 — PSI 11 — TEC 10 — Salud 12 — Defensa pesada 8
 > Armas: 2 rifles d8 con munición d10 (en automático da ventaja pero se tira 2 veces el DU de munición por rifle)
 > Tiene: Célula de energía d8 para un dispositivo de iluminación, dispositivo de comunicación y entrada de datos.
