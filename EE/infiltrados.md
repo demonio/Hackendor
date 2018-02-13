@@ -15,7 +15,7 @@ Se os ha entregado un droide de combate con una única instrucción de serie, "s
 
 Hemos capturado una nave Nyrblack de nivel 2 con capacidad para cuatro y con tecnología de ocultación. Tenéis las coordenadas de salto hasta la posición del superdestructor a distancia distante y las de regreso a la base secreta en otro punto a este. Una vez allí, podrán activar la ocultación y aproximarse a uno de los hangares del superdestructor sin problema. Solo sabemos de la tecnología de ocultaciñon, que funciona pulsando un botón y se autodesactiva al abrir las puertas de la nave o al fijar un objetivo con cálculo.
 
-> Cuervo n2 Nyrblark — Manejo 11 — Cáclculo 11 — Artillería 11 — Salud 9 — Defensa 6 — Combustible d8.  
+> Cuervo Nyrblark n2 — Manejo 11 — Cáclculo 11 — Artillería 11 — Salud 9 — Defensa 6 — Combustible d8.  
 > Para 4 tripulantes (M, C/A, A, A).  
 > Tecnología de ocultación en 2 turnos con una perdida de 1 en Defensa cada 10'.
 
@@ -31,7 +31,7 @@ Habéis saltado a distancia distante en el punto donde podéis ver el superdestr
 * Se requiere una tirada de cálculo para analizar el perimetro.
 	* OK: Una nave Tiburón n3 Dalosiana se aproxima amenazante apuntando vuestra nave.
 	* KO: Recibís el disparo de una nave Tiburón n3 Dalosiana.
-> Tiburón n3 Dalosiano — Manejo 10 — Cáclculo 13 — Artillería 8 — Salud 16 — Defensa 10 — Combustible d8.    
+> Tiburón Dalosiano n3 — Manejo 10 — Cáclculo 13 — Artillería 8 — Salud 16 — Defensa 10 — Combustible d8.    
 > Capitán Dovak (M) hace las veces de diplomático.  
 > Sargento Sadric (C) tiene habilidades de hacker.  
 > Cabo Perkins (A d10) es un contrabandista infiltrado.  
@@ -46,7 +46,8 @@ Si os habéis acercado al superdestructor con la ocultación activa, habéis lle
 Escena 3
 --------
 ### Hangar
-Llegados al hangar del superdestructor, os dáis cuenta de que este está desatendido de personal. Tiene unos 500 metros cuadrados y entre cajas y barriles, que hay distribuidos a lo largo y ancho, hay 6 cazas n1 Nyrblark, 1 explorador n2 Dalosiano y una dipomática n3 Dalosiana.
+El hangar esta en un nivel intermedio del superdestructor.
+Os dáis cuenta de que este está desatendido de personal. Tiene unos 500 metros cuadrados y entre cajas y barriles que hay distribuidos a lo largo y ancho, hay 6 cazas Nyrblark n1, 1 explorador Dalosiano n2 y una dipomática Dalosiana n3.
 
 ### Pasillos y habitaciones
 Empezáis a recorrer cada pasillo y habitación del superdestructor sin encontrar vida alguna.
@@ -56,15 +57,24 @@ OK y KO: Las luces de cada tramo y habitación son las de emergencia, algunas pa
 OK: Además os dais cuenta de que las cámaras de vigilancia de los pasillos están siguiendo vuestros movimientos.
 
 * Volver al hangar supone sufrir la emboscada de 4 Nyrblark que esperan a que el último PJ este subiendo a una nave, para disparar con ventaja a esa nave, con la intención de destruirla con todos dentro.
-- Cuando los PJs tratan de localizar al almirante por el laberinto de pasillos y habitaciones, se topán con la puerta de la sala de mandos cerrada.
+
+### Camarotes
+Vacios y sin desorden aparente.
 
 Escena 4
 --------
-- En la parte inferior del superdestructor:
-* Toda la tripulación Dalosiana está en las bodegas, unos 100. Han sido capturados y encerrados en una sala vigilada por seis Nyrblack n1.
-* La armería ha sido neutralizada y no habría armas para esta tripulación si es liberada.
+Habéis llegado a las escaleras y debéis elegir si subir o bajar de nivel.
 
-- En la parte superior:
+### Bodegas del nivel inferior
+Dos Nyrblack n1 parecen despistados vigilando una puerta.  
+En la sala se encuentra la tripulación Dalosiana, unos 100m, maniatados y con cuatro soldados Nyrblack n1 apuntandoles.
+
+### Armería
+* Todas las armas están aquí y han sido neutralizadas por los Nyrblark.
+
+### Puente de mando del nivel superior
+Una puerta blindada impede el acceso al puente de mando.
+
 * La puerta de acceso a la sala de mandos esta cerrada.
 	1. Un hacker podría conseguir la clave de acceso superando una prueba de TEC con desventaja.
 	1. Un errante podría sacrificar su espada de luz para abrir una brecha en la puerta blindada.
