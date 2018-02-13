@@ -65,15 +65,15 @@ En la sala se encuentra la tripulación Dalosiana, unos 100, maniatados y con cu
 La armería también se encuentra en el nivel inferior, pero todas las armas han sido neutralizadas por los Nyrblark.
 
 En el nivel superior no tardáis en dar con una puerta blindada, que impide el acceso a la sala del puente de mando.
+* Un hacker podría conseguir la clave de acceso superando una prueba de TEC con desventaja.
+* Un errante podría sacrificar su espada de luz para abrir una brecha en la puerta blindada.
 
-* La puerta de acceso a la sala de mandos esta cerrada.
-	1. Un hacker podría conseguir la clave de acceso superando una prueba de TEC con desventaja.
-	1. Un errante podría sacrificar su espada de luz para abrir una brecha en la puerta blindada.
-- Una vez abierta la puerta veis la clásica sala forrada de pantallas y ordenadores. La sala esta completamente salpicada de sangre. El almirante Famiris Dovarka se halla tendido en el centro de la sala sobre una mesa ordenador, moribundo y con sangre chorreando por uno de sus brazos. Tenemos a la izquierda, dos Nyrblark n1, en frente un Nyrblark n5 y otro n3 y a la derecha otros dos Nyrblark n1.
+Una vez abierta la puerta veis la clásica sala forrada de pantallas y ordenadores. La sala esta completamente salpicada de sangre. El almirante Famiris Dovarka se halla tendido en el centro de la sala sobre una mesa ordenador, moribundo y con sangre chorreando por uno de sus brazos. Tenemos a la izquierda, dos Nyrblark n1, en frente un Nyrblark n5 y otro n3 y a la derecha otros dos Nyrblark n1.
 * Si los PJs eludieron las cámaras, los Nyrblark están ocupados a los mandos tratando de configurar un salto.
 * De lo contrario, están situados en cobertura, se apaga la luz y comienzan los disparos.
 * Si los PJs huyen, serán perseguido por un Nyrblark n3 y otro n1 en motos que levitan sobre el suelo.
 * Si se esconden en la huida, las motos iran hasta al hangar para preparar una emboscada con otros cuatro Nyrblark n1, con la misma idea de antes; Esperar a que esté subiendo el último PJ para disparar a la nave hasta destruirla con todos dentro.
+* Los PJs podrían intentar salir de una nave ardiendo para meterse en otra, si sobreviven al fuego cruzado.
 
 Escena 5
 --------
@@ -81,8 +81,8 @@ Escena 5
 * Si los PJs han huido en el explorador n2 o la diplomática n3, recibiran ayuda del tiburón n3 que esta esperando fuera.
 * Si salen en la Nyrblark n2 con los cazas detrás de ellos, la Tiburon n3 no actuará si no tiene claro quienes son aliados o enemigos.
 
-- Llegados a este punto se pueden dar varios resultados:
-	1. Los PJs informan al Tiburón Dalosiando que Famaris Dovarka está muerto y los tripulantes en las bodegas (3 PX).
-	1. Informan al Tiburón Dalosiando de solo una de las dos cosas (1 PX).
-	1. Huyen hasta las coordenadas de regreso a la base de la Confederación Onyx, he informan de las dos cosas (3 PX).
-	1. Informan en la base de la Confederación Onyx de solo una de las cosas (1 PX).
+* Llegados a este punto se pueden dar varios resultados:
+	* Los PJs informan al Tiburón Dalosiando que Famaris Dovarka está muerto y que hay tripulantes vivos (3 PX).
+	* Informan al Tiburón Dalosiando de solo una de las dos cosas (1 PX).
+	* Huyen hasta las coordenadas de regreso a la base de la Confederación Onyx, he informan de las dos cosas (3 PX).
+	* Informan en la base de la Confederación Onyx de solo una de las dos cosas (1 PX).
