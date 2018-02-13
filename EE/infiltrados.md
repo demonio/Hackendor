@@ -88,4 +88,4 @@ Escena 5
 	* Huyen hasta las coordenadas de regreso a la base de la Confederación Onyx, he informan de las dos cosas (3 PX).
 	* Informan en la base de la Confederación Onyx de solo una de las dos cosas (1 PX).
 
-![CC-Zero-badge](https://rola.multisitio.es/img/hacks/CC-Zero-badge.svg)
+[<img src="https://rola.multisitio.es/img/hacks/CC-Zero-badge.svg">](https://creativecommons.org/share-your-work/public-domain/freeworks/)
