@@ -42,6 +42,8 @@ Habéis saltado a distancia distante en el punto donde podéis ver el superdestr
 
 Si os habéis acercado al superdestructor con la ocultación activa, habéis llegado al hangar. Sin ocultación... BOOM.
 
+![CC-Zero-badge](https://rola.multisitio.es/img/hacks/CC-Zero-badge.svg)
+
 <hr class="end-col">
 
 Escena 3
