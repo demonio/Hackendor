@@ -11,7 +11,9 @@ Estrellas Errante (hack del demonio)
 > * Puedes intercambiar dos atributos en la creacción del personaje.
 > * Si no eres competente en una protección, suma tu Defensa a tú BIO.
 > * Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
----
+
+___
+
 | Elige una clase    | Tienes ventaja si tú acción esta relacionada con estas palabras claves |
 | :----------------- | ---------------------------------------------------------------------- |
 | [ ] Cable          | [Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]    |
