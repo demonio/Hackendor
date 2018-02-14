@@ -26,8 +26,8 @@ ___
 
 | Tipo de arma cuerpo a cuerpo <sup>precio</sup> |                                 |
 | :--------------------------------------------- | ------------------------------- |
-| [ ] Ligera <sup>10</sup>                       | Podría ocultarse sin dificultad |
-| [ ] A una mano <sup>30</sup>                   |                                 |
+| [ ][ ][ ] Ligera <sup>10</sup>                 | Podría ocultarse sin dificultad |
+| [ ][ ] A una mano <sup>30</sup>                |                                 |
 | [ ] A dos manos <sup>80</sup>                  |                                 |
     
 
