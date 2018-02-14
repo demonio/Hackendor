@@ -30,6 +30,7 @@ ___
 | [ ] A una mano <sup>30</sup>                   |                                 |
 | [ ] A dos manos <sup>80</sup>                  |                                 |
     
+    
 | Tipo de arma a distancia <sup>precio arma|precio munición</sup> | Dado de uso de la munición |
 | :-------------------------------------------------------------- | -------------------------- |
 | [ ] Pistola <sup>20|2</sup>                                     | d8 – d6 – d4               |
@@ -40,7 +41,7 @@ ___
 | [ ] Rifle de precisión <sup>120|12</sup>                        | d6 – d4                    |
 | [ ] Lanzallamas <sup>60|6</sup>                                 | d6 – d4                    |
 | [ ] Automática <sup>160|16</sup>                                | d8 – d6 – d4               |
-| [ ] Granada <sup>20</sup>                                       |                            |
+| [ ][ ][ ][ ][ ][ ] Granada <sup>20</sup>                        |                            |
 
 Trasfondo
 ---------
