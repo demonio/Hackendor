@@ -31,15 +31,15 @@ ___
 | [ ] A dos manos <sup>80</sup>                  |                                 |
     
 
-| Tipo de arma a distancia <sup>precio arma/munición</sup> | DU Munición        | DU Segunda arma    |
-| :------------------------------------------------------- | :----------------- | :----------------- |
-| [ ] [ ] Pistola <sup>20/2</sup>                          | d8 - d6 - d4       | d8 - d6 - d4       |
-| [ ] Escopeta <sup>30/3</sup>                             | d6 - d4            |                    |
-| [ ] [ ] Rifle semiautomático <sup>80/8</sup>             | d10 - d8 - d6 - d4 | d10 - d8 - d6 - d4 |
-| [ ] Rifle de precisión <sup>120/12</sup>                 | d6 - d4            |                    |
-| [ ] Lanzallamas <sup>60/6</sup>                          | d6 - d4            |                    |
-| [ ] Automática <sup>160/16</sup>                         | d8 - d6 - d4       |                    |
-| [ ][ ][ ][ ][ ][ ] Granada <sup>20</sup>                 |                    |                    |
+| Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso de munición  | DU de otra arma          |
+| :------------------------------------------------------- | :----------------------- | :----------------------- |
+| [ ] [ ] Pistola <sup>20/2</sup>                          | [ ]d8 [ ]d6 [ ]d4        | [ ]d8 [ ]d6 [ ]d4        |
+| [ ] Escopeta <sup>30/3</sup>                             | [ ]d6 [ ]d4              |                          |
+| [ ] [ ] Rifle semiautomático <sup>80/8</sup>             | [ ]d10 [ ]d8 [ ]d6 [ ]d4 | [ ]d10 [ ]d8 [ ]d6 [ ]d4 |
+| [ ] Rifle de precisión <sup>120/12</sup>                 | [ ]d6 [ ]d4              |                          |
+| [ ] Lanzallamas <sup>60/6</sup>                          | [ ]d6 [ ]d4              |                          |
+| [ ] Automática <sup>160/16</sup>                         | [ ]d8 [ ]d6 [ ]d4        |                          |
+| [ ][ ][ ][ ][ ][ ] Granada <sup>20</sup>                 |                          |                          |
 
 Trasfondo
 ---------
