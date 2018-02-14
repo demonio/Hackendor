@@ -31,7 +31,7 @@ ___
 | [ ] A dos manos <sup>80</sup>                  |                                 |
     
 
-| Tipo de arma a distancia | |
+| <sup>precio arma|precio munición</sup> | Dado de uso de la munición |
 | :-------------------------------------------------------------- | -------------------------- |
 | [ ] Pistola <sup>20|2</sup>                                     | d8 - d6 - d4               |
 | [ ] Pistola <sup>20|2</sup>                                     | d8 - d6 - d4               |
