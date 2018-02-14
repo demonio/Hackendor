@@ -12,12 +12,12 @@ Estrellas Errante (hack del demonio)
 > - Si no eres competente en una protección, suma tu Defensa a tú BIO.
 > - Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 
-- [ ] Cable [Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]
-- [ ] Contrabandista [Astucia/Embaucar] [Manejo/Pilotar] [Mecánica/Montaje]
-- [ ] Diplomátic [Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]
-- [ ] Errante [Artes marciales] [Percepción] [Sigilo]
-- [ ] Psiónico [Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]
-- [ ] Soldado [Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]
+- [ ] Cable _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_
+- [ ] Contrabandista _[Astucia/Embaucar] [Manejo/Pilotar] [Mecánica/Montaje]_
+- [ ] Diplomátic _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_
+- [ ] Errante _[Artes marciales] [Percepción] [Sigilo]_
+- [ ] Psiónico _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_
+- [ ] Soldado _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_
 > - Tienes ventaja si tú acción esta relacionada con estas palabras claves
 
 Trasfondo
