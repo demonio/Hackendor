@@ -11,3 +11,7 @@ Estrellas Errante (hack del demonio)
 | Clase        |                      |
 | :----------- | :------------------- |
 | - [ ] Clable | - [ ] contrabandista |
+
+
+- [ ] Clable
+- [ ] contrabandista
