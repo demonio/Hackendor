@@ -1,7 +1,5 @@
 Estrellas Errante (hack del demonio)
 ====================================
-Personaje
----------
 Nombre:
 
 |           | 2d6+4      |                | Inicial | Temporal |
