@@ -56,6 +56,7 @@ ___
 > * El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño.
 > * Las granadas alcanzan a lejano, pero a cercano impactan a 1d4 objetivos. Siempre hacen 1d10 de daño.
 
+<hr class="end-col">
 
 Trasfondo
 ---------
