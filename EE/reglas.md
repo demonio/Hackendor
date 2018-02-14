@@ -2,9 +2,9 @@ Estrellas Errante (hack del demonio)
 ====================================
 Personaje
 ---------
+Nombre:
 |           | 2d6+4      |                | Inicial | Temporal |
 | --------: | :--------- | -------------: | :------ | :------- |
-| Nombre:   |            | Nivel:         |         |          |
 | BIO:      |            | Experiencia:   |         |          |
 | COM:      |            | Dado de daño:  |         |          |
 | PSI:      |            | Dado de salud: |         |          |
