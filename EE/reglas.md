@@ -12,7 +12,7 @@ Estrellas Errante (hack del demonio)
 > - Si no eres competente en una protección, suma tu Defensa a tú BIO.
 > - Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 
-- [ ] Cable <small>_[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_</small>
+- [ ] Cable <sub>_[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_</sub>
 - [ ] Contrabandista _[Astucia/Embaucar] [Manejo/Pilotar] [Mecánica/Montaje]_
 - [ ] Diplomátic _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_
 - [ ] Errante _[Artes marciales] [Percepción] [Sigilo]_
