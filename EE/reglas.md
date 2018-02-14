@@ -40,7 +40,7 @@ ___
 | [ ] Rifle de precisión <sup>120|12</sup>                        | d6 – d4                    |
 | [ ] Lanzallamas <sup>60|6</sup>                                 | d6 – d4                    |
 | [ ] Automática <sup>160|16</sup>                                | d8 – d6 – d4               |
-| [ ][ ][ ][ ][ ][ ] Granada <sup>20</sup>                        |                            |
+| [ ] Granada <sup>20</sup>                                       |                            |
 
 Trasfondo
 ---------
