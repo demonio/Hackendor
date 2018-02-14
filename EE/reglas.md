@@ -1,7 +1,7 @@
 Estrellas Errante (hack del demonio)
 ====================================
 |           | 2d6+4      |                |      |          |
-| --------: | :--------- | -------------: | ---- | -------- |
+| --------: | :--------- | -------------: | :--- | :------- |
 | BIO:      |            | Nivel:         |      |          |
 | COM:      |            | Experiencia:   |      |          |
 | PSI:      |            | Dado de daño:  |      |          |
@@ -15,7 +15,7 @@ Estrellas Errante (hack del demonio)
 ___
 
 | Elige una clase    | Tienes ventaja si tú acción esta relacionada con estas palabras claves   |
-| :----------------- | ------------------------------------------------------------------------ |
+| :----------------- | :----------------------------------------------------------------------- |
 | [ ] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_    |
 | [ ] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                  |
 | [ ] Diplomático    | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_ |
@@ -25,14 +25,14 @@ ___
 ___
 
 | Tipo de arma cuerpo a cuerpo <sup>precio</sup> |                                 |
-| :--------------------------------------------- | ------------------------------- |
+| :--------------------------------------------- | :------------------------------ |
 | [ ][ ][ ] Ligera <sup>10</sup>                 | Podría ocultarse sin dificultad |
 | [ ][ ] A una mano <sup>30</sup>                |                                 |
 | [ ] A dos manos <sup>80</sup>                  |                                 |
     
 
 | Tipo de arma a distancia <sup>precio arma/munición</sup> | DU Munición        | DU Segunda arma    |
-| :------------------------------------------------------- | ------------------ | ------------------ |
+| :------------------------------------------------------- | :----------------- | :----------------- |
 | [ ] [ ] Pistola <sup>20/2</sup>                          | d8 - d6 - d4       | d8 - d6 - d4       |
 | [ ] Escopeta <sup>30/3</sup>                             | d6 - d4            |                    |
 | [ ] [ ] Rifle semiautomático <sup>80/8</sup>             | d10 - d8 - d6 - d4 | d10 - d8 - d6 - d4 |
