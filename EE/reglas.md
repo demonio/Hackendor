@@ -63,7 +63,7 @@ Equipo
 Armas
 -----
 
-| Tipo de arma cuerpo a cuerpo <sup>precio</sup> |                                 | Calidad buena/excepcional/única |
+| Arma cuerpo a cuerpo <sup>precio</sup>         |                                 | Calidad buena/excepcional/única |
 | :--------------------------------------------- | :------------------------------ | :------------------------------ | 
 | [ ][ ][ ] Ligera <sup>10</sup>                 | Podría ocultarse sin dificultad | [ ]+1 [ ]+2 [ ]+3               |
 | [ ][ ] A una mano <sup>30</sup>                |                                 | [ ]+1 [ ]+2 [ ]+3               |
@@ -73,7 +73,7 @@ Armas
 > * Las armas a dos manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño.
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
-| Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso de munición  | Calidad buena/excepcional/única |
+| Arma a distancia <sup>precio arma/munición</sup>         | Dado de uso de munición  | Calidad buena/excepcional/única |
 | :------------------------------------------------------- | :----------------------- | :------------------------------ | 
 | [ ] Pistola <sup>20/2</sup>                              | [ ]d8 [ ]d6 [ ]d4        | [ ]+1 [ ]+2 [ ]+3               |
 | [ ] Pistola <sup>20/2</sup>                              | [ ]d8 [ ]d6 [ ]d4        | [ ]+1 [ ]+2 [ ]+3               |
