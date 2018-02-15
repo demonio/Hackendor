@@ -93,7 +93,7 @@ Armas
 > * Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño.
 > * El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño.
 > * El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño.
-> * Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 de daño.
+> * Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 daños.
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 Protecciones
@@ -112,7 +112,7 @@ Protecciones
 
 Implantes
 ---------
-Los implantes son mejoras sobre tú cuerpo. Por cada uno que te instalas, si no eres un Cable, debes tirar Humanidad. Cuando pierdas toda la humanidad tú personaje pasa a ser controlado por el Guardián Estelar.
+Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres un Cable, debes tirar Humanidad. Cuando te quedes sin humanidad tú personaje lo controla el Guardián Estelar.
 > * Los implantes tienen un precio entre 5 y 200 créditos a negociar entre comprador y vendedor.
 > * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante.
 > * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
