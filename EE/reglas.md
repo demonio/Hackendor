@@ -4,14 +4,14 @@ Nombre:
 Nivel:  
 Experiencia:  
 
-|           | 2d6+4      |                | Inicial | Temporal |
-| --------: | :--------- | -------------: | :------ | :------- |
-| BIO:      |            | Defensa:       |         |          |
-| COM:      |            | Salud:         |         |          |
-| PSI:      |            | Humanidad:     |         |          |
-| TEC:      |            |                |         |          |
-|           | **3d6x10** |                |         |          |
-| Créditos: |            |                |         |          |
+|           | 2d6+4      |                | Inicial | Temporal |               | Aquí pon palabras clave sobre tu trasfondo |
+| --------: | :--------- | -------------: | :------ | :------- | ------------: |                                            |
+| BIO:      |            | Defensa:       |         |          | Actitud:      |                                            |
+| COM:      |            | Salud:         |         |          | Contactos:    |                                            |
+| PSI:      |            | Humanidad:     |         |          | Defectos:     |                                            |
+| TEC:      |            |                |         |          | Motivaciones: |                                            |
+|           | **3d6x10** |                |         |          | Principios:   |                                            |
+| Créditos: |            |                |         |          | Virtudes:     |                                            |
 > * Puedes intercambiar dos atributos en la creacción del personaje.
 > * Si no eres competente en una protección, suma tu Defensa a tú BIO.
 > * Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
@@ -25,16 +25,6 @@ ___
 | [ ] Errante        | 2d4  | d8/d8+4(8)         | d12       | Armas cuerpo a cuerpo y pistolas.                                     |
 | [ ] Psiónico       | d4   | d6/d6+4(7)         | d8        |                                                                       |
 | [ ] Soldado        | d8   | d10/d10+4(9)       | d10       | Todas las armas y armaduras.                                          |
-
-Trasfondo
----------
-¿En que planeta naciste?
-
-¿Cómo es tú familia?
-
-¿Cómo llegaste a ser lo que eres?
-
-¿Cuales son tus motivaciónes?
 
 | Segun tú clase     | Ganas una ventaja si tú acción esta relacionada con alguna de estas palabras claves   |
 | :----------------- | :------------------------------------------------------------------------------------ |
