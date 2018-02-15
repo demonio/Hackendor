@@ -26,6 +26,27 @@ ___
 | [ ] Psiónico       | d4   | d6/d6+4(7)         | d8        |                                                                       |
 | [ ] Soldado        | d8   | d10/d10+4(9)       | d10       | Todas las armas y armaduras.                                          |
 
+Trasfondo
+---------
+¿En que planeta naciste?
+
+¿Cómo es tú familia?
+
+¿Cómo llegaste a ser lo que eres?
+
+¿Cuales son tus motivaciónes?
+
+| Segun tú clase     | Tienes ventaja si tú acción esta relacionada con estas palabras claves   |
+| :----------------- | :----------------------------------------------------------------------- |
+| [ ] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_    |
+| [ ] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                  |
+| [ ] Diplomático    | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_ |
+| [ ] Errante        | _[Artes marciales] [Percepción] [Sigilo]_                                |
+| [ ] Psiónico       | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_         |
+| [ ] Soldado        | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_        |
+
+<hr class="end-col">
+
 Armas
 -----
 
@@ -60,24 +81,3 @@ Armas
 > * El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño.
 > * El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño.
 > * Las granadas alcanzan a lejano, pero a cercano impactan a 1d4 objetivos. Siempre hacen 1d10 de daño.
-
-<hr class="end-col">
-
-Trasfondo
----------
-¿En que planeta naciste?
-
-¿Cómo es tú familia?
-
-¿Cómo llegaste a ser lo que eres?
-
-¿Cuales son tus motivaciónes?
-
-| Segun tú clase     | Tienes ventaja si tú acción esta relacionada con estas palabras claves   |
-| :----------------- | :----------------------------------------------------------------------- |
-| [ ] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_    |
-| [ ] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                  |
-| [ ] Diplomático    | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_ |
-| [ ] Errante        | _[Artes marciales] [Percepción] [Sigilo]_                                |
-| [ ] Psiónico       | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_         |
-| [ ] Soldado        | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_        |
