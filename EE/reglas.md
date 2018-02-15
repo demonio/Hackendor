@@ -1,10 +1,12 @@
 Estrellas Errante (hack del demonio)
 ====================================
 Nombre:
+Nivel:
+Experiencia:
 
 |           | 2d6+4      |                | Inicial | Temporal |
 | --------: | :--------- | -------------: | :------ | :------- |
-| BIO:      |            | Experiencia:   |         |          |
+| BIO:      |            |                |         |          |
 | COM:      |            | Dado de daño:  |         |          |
 | PSI:      |            | Dado de salud: |         |          |
 | TEC:      |            | Defensa:       |         |          |
@@ -15,14 +17,14 @@ Nombre:
 > * Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
 
-| Elige una clase    | Tienes ventaja si tú acción esta relacionada con estas palabras claves   |
-| :----------------- | :----------------------------------------------------------------------- |
-| [ ] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_    |
-| [ ] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                  |
-| [ ] Diplomático    | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_ |
-| [ ] Errante        | _[Artes marciales] [Percepción] [Sigilo]_                                |
-| [ ] Psiónico       | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_         |
-| [ ] Soldado        | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_        |
+| Eigue una clase    | Daño | Dado salud/inicial | Humanidad | Competente                                                            |
+| :----------------- | :--- | :----------------- | :-------- | :-------------------------------------------------------------------- |
+| [ ] Cable          | d6   | d6/6 o d6+4        | d8        | Armaduras ligeras, medias y todas las armas excepto las de dos manos. |       
+| [ ] Contrabandista | d6   | d8/8 o d8+4        | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifes, lanzallamas y granadas. |
+| [ ] Diplomático    | d4   | d6/6 o d6+4        | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo.                    |         
+| [ ] Errante        | 2d4  | d8/8 o d8+4        | d12       | Armas cuerpo a cuerpo y pistolas.                                     |
+| [ ] Psiónico       | d4   | d6/6 o d6+4        | d8        |                                                                       |
+| [ ] Soldado        | d8   | d10/10 o d10+4     | d10       | Todas las armas y armaduras.                                          |
 
 Armas
 -----
@@ -70,3 +72,12 @@ Trasfondo
 ¿Cómo llegaste a ser lo que eres?
 
 ¿Cuales son tus motivaciónes?
+
+| Segun tú clase     | Tienes ventaja si tú acción esta relacionada con estas palabras claves   |
+| :----------------- | :----------------------------------------------------------------------- |
+| [ ] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_    |
+| [ ] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                  |
+| [ ] Diplomático    | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_ |
+| [ ] Errante        | _[Artes marciales] [Percepción] [Sigilo]_                                |
+| [ ] Psiónico       | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_         |
+| [ ] Soldado        | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_        |
