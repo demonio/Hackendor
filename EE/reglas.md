@@ -1,17 +1,17 @@
 Estrellas Errante (hack del demonio)
 ====================================
-Nombre:
-Nivel:
-Experiencia:
+Nombre:  
+Nivel:  
+Experiencia:  
 
 |           | 2d6+4      |                | Inicial | Temporal |
 | --------: | :--------- | -------------: | :------ | :------- |
-| BIO:      |            |                |         |          |
-| COM:      |            | Dado de daño:  |         |          |
-| PSI:      |            | Dado de salud: |         |          |
-| TEC:      |            | Defensa:       |         |          |
-|           | **3d6x10** | Humanidad:     |         |          |
-| Créditos: |            | Salud inicial: |         |          |
+| BIO:      |            | Defensa:       |         |          |
+| COM:      |            | Salud:         |         |          |
+| PSI:      |            | Humanidad:     |         |          |
+| TEC:      |            |                |         |          |
+|           | **3d6x10** |                |         |          |
+| Créditos: |            |                |         |          |
 > * Puedes intercambiar dos atributos en la creacción del personaje.
 > * Si no eres competente en una protección, suma tu Defensa a tú BIO.
 > * Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
