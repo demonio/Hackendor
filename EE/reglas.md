@@ -72,15 +72,17 @@ Armas
 > * Las armas ligeras solo hacen hasta 5 daños.
 > * Las armas a dos manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño.
 
-| Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso de munición  | DU de otra arma          |
-| :------------------------------------------------------- | :----------------------- | :----------------------- |
-| [ ] [ ] Pistola <sup>20/2</sup>                          | [ ]d8 [ ]d6 [ ]d4        | [ ]d8 [ ]d6 [ ]d4        |
-| [ ] Escopeta <sup>30/3</sup>                             | [ ]d6 [ ]d4              |                          |
-| [ ] [ ] Rifle semiautomático <sup>80/8</sup>             | [ ]d10 [ ]d8 [ ]d6 [ ]d4 | [ ]d10 [ ]d8 [ ]d6 [ ]d4 |
-| [ ] Rifle de precisión <sup>120/12</sup>                 | [ ]d6 [ ]d4              |                          |
-| [ ] Lanzallamas <sup>60/6</sup>                          | [ ]d6 [ ]d4              |                          |
-| [ ] Cañon de asalto <sup>160/16</sup>                    | [ ]d8 [ ]d6 [ ]d4        |                          |
-| [ ][ ][ ][ ][ ][ ] Granada <sup>20</sup>                 |                          |                          |
+| Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso de munición  | Calidad buena/excepcional/única |
+| :------------------------------------------------------- | :----------------------- | :------------------------------ | 
+| [ ] Pistola <sup>20/2</sup>                              | [ ]d8 [ ]d6 [ ]d4        | [ ]+1 [ ]+2 [ ]+3               |
+| [ ] Pistola <sup>20/2</sup>                              | [ ]d8 [ ]d6 [ ]d4        | [ ]+1 [ ]+2 [ ]+3               |
+| [ ] Escopeta <sup>30/3</sup>                             | [ ]d6 [ ]d4              | [ ]+1 [ ]+2 [ ]+3               |
+| [ ] Rifle semiautomático <sup>80/8</sup>                 | [ ]d10 [ ]d8 [ ]d6 [ ]d4 | [ ]+1 [ ]+2 [ ]+3               |
+| [ ] Rifle semiautomático <sup>80/8</sup>                 | [ ]d10 [ ]d8 [ ]d6 [ ]d4 | [ ]+1 [ ]+2 [ ]+3               |
+| [ ] Rifle de precisión <sup>120/12</sup>                 | [ ]d6 [ ]d4              | [ ]+1 [ ]+2 [ ]+3               |
+| [ ] Lanzallamas <sup>60/6</sup>                          | [ ]d6 [ ]d4              | [ ]+1 [ ]+2 [ ]+3               |
+| [ ] Cañon de asalto <sup>160/16</sup>                    | [ ]d8 [ ]d6 [ ]d4        | [ ]+1 [ ]+2 [ ]+3               |
+| [ ][ ][ ][ ][ ][ ] Granada <sup>20</sup>                 |                          |                                 |
 > * Las pistolas pueden usarse en alcance inmediato, cercano o lejano.
 > * Si usas dos pistolas, puedes disparar dos veces pero el daño no explota.
 > * La escopeta pueden usarse en alcance inmediato o cercano.
@@ -94,19 +96,21 @@ Armas
 > * El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño.
 > * El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño.
 > * Las granadas alcanzan a lejano, pero a cercano impactan a 1d4 objetivos. Siempre hacen 1d10 de daño.
+> * La calidad buena da +1 al disparo y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 Protecciones
 ------------
 
-| Tipo de protección <sup>precio</sup> | Defensa | Nº de mejoras | 
-| :----------------------------------- | :------ | :------------ |
-| [ ] Ligera <sup>30</sup>             | 2       | 0             |
-| [ ] Media <sup>80</sup>              | 4       | 2             |
-| [ ] Pesada <sup>160</sup>            | 8       | 4             |
+| Tipo de protección <sup>precio</sup> | Defensa | Nº de mejoras | Calidad excepcional/única |
+| :----------------------------------- | :------ | :------------ | :------------------------ | 
+| [ ] Ligera <sup>30</sup>             | 2       | 0             | [ ]x2 [ ]x3               |
+| [ ] Media <sup>80</sup>              | 4       | 2             | [ ]x2 [ ]x3
+| [ ] Pesada <sup>160</sup>            | 8       | 4             | [ ]x2 [ ]x3
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
 > * Ganas una ventaja cuando tú acción tiene incluido el nombre de una mejora como si de una etiqueta se tratase.
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
 > * Majoras: [ ]Infravisión [ ]Antibalas [ ]Radio megaklick [ ]Linterna [ ]Escudo de fuerza [ ]Propulsores [ ]Inhibior de explosión [ ]Sistema de puntería [ ]Regeneración
+> * La calidad excepcional multiplica la defensa x2 y el precio x8, única x3 y precio x20.
 
 Implantes
 ---------
@@ -115,6 +119,3 @@ Los implantes son mejoras que puedes hacer directamente sobre tú cuerpo. Cada v
 > * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante como si de una etiqueta se tratase.
 > * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
 > * Implantes: [ ]Ciberbrazo [ ]Ciberoídos [ ]Ciberojos [ ]Ciberpierna [ ]Conexión táctil [ ]Radio megaklick [ ]Procesador [ ]Ciberesquiva [ ]Ciberpiel [ ]Puerto de entrada [ ]Traductor universal
-
-
-
