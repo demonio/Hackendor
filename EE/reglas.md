@@ -92,15 +92,16 @@ Protecciones
 | [ ] Pesada <sup>160</sup>            | 8       | 4             |
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
 > * Ganas una ventaja cuando tú acción tiene incluido el nombre de una mejora como si de una etiqueta se tratase.
-> * En su defecto obtienes el efecto deseo que esté relacionado con la mejora adquirida.
-> * _[Infravisión] [Antibalas] [Radio megaklick] [Linterna] [Escudo de fuerza] [Propulsores] [Inhibior de explosión] [Sistema de puntería] [Regeneración]_
+> * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
+> * Majoras: _[Infravisión] [Antibalas] [Radio megaklick] [Linterna] [Escudo de fuerza] [Propulsores] [Inhibior de explosión] [Sistema de puntería] [Regeneración]_
 
 Implantes
 ---------
+Los implantes son mejoras que puedes hacer directamente sobre tú cuerpo. Cada vez que te instalas un implante, si no eres un Cable, debes realizar una tirada de Humanidad. Cuando pierdas toda la humanidad tú personaje pasa a ser controlado por el Guardián Estelar.
 > * Los implantes tienen un precio entre 10 y 200 créditos a negociar entre comprador y vendedor.
 > * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante como si de una etiqueta se tratase.
-> * En su defecto obtienes el efecto deseo que esté relacionado con la mejora adquirida.
-> * _[Ciberbrazo] [Ciberoídos] [Ciberojos] [Ciberpierna] [Conexión táctil] [Radio megaklick] [Procesador] [Ciberesquiva] [Ciberpiel] [Puerto de entrada y memoria] [Traductor universal]_
+> * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
+> * Implantes: _[Ciberbrazo] [Ciberoídos] [Ciberojos] [Ciberpierna] [Conexión táctil] [Radio megaklick] [Procesador] [Ciberesquiva] [Ciberpiel] [Puerto de entrada y memoria] [Traductor universal]_
 
 
 
