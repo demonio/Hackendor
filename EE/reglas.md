@@ -36,14 +36,14 @@ Trasfondo
 
 ¿Cuales son tus motivaciónes?
 
-| Segun tú clase     | Tienes ventaja si tú acción esta relacionada con estas palabras claves   |
-| :----------------- | :----------------------------------------------------------------------- |
-| [ ] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_    |
-| [ ] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                  |
-| [ ] Diplomático    | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_ |
-| [ ] Errante        | _[Artes marciales] [Percepción] [Sigilo]_                                |
-| [ ] Psiónico       | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_         |
-| [ ] Soldado        | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_        |
+| Segun tú clase     | Ganas una ventaja si tú acción esta relacionada con alguna de estas palabras claves   |
+| :----------------- | :------------------------------------------------------------------------------------ |
+| [ ] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_                 |
+| [ ] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                               |
+| [ ] Diplomático    | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_              |
+| [ ] Errante        | _[Artes marciales] [Percepción] [Sigilo]_                                             |
+| [ ] Psiónico       | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_                      |
+| [ ] Soldado        | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_                     |
 
 <hr class="end-col">
 
@@ -59,7 +59,7 @@ Armas
 > * Las armas ligeras solo hacen hasta 5 daños.
 > * Las armas a dos manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño.
 
-| Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso de munición  | DU de otra arma          |
+| Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso (DU) de munición  | DU de otra arma          |
 | :------------------------------------------------------- | :----------------------- | :----------------------- |
 | [ ] [ ] Pistola <sup>20/2</sup>                          | [ ]d8 [ ]d6 [ ]d4        | [ ]d8 [ ]d6 [ ]d4        |
 | [ ] Escopeta <sup>30/3</sup>                             | [ ]d6 [ ]d4              |                          |
@@ -81,3 +81,17 @@ Armas
 > * El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño.
 > * El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño.
 > * Las granadas alcanzan a lejano, pero a cercano impactan a 1d4 objetivos. Siempre hacen 1d10 de daño.
+
+Protecciones
+------------
+
+| Tipo de protección <sup>precio</sup> | Defensa | Nº de mejoras | 
+| :----------------------------------- | :------ | :------------ |
+| [ ] Ligera <sup>30</sup>             | 2       | 0             |
+| [ ] Media <sup>80</sup>              | 4       | 2             |
+| [ ] Pesada <sup>160</sup>            | 8       | 4             |
+> Las mejoras tienen un precio entre 15 y 80 créditos independientemente de cuál sea, a pactar entre comprador y vendedor.
+> Ganas una ventaja cuando tú acción tiene incluido el nombre de una mejora como si de una etiqueta se tratase.
+≤ En su defecto obtienes el efecto desea que tenga relación con la mejora adquirida.
+> [Infravisión] [Antibalas] [Radio megaklick] [Linterna] [Escudo de fuerza] [Propulsores] [Inhibior de explosión] [Sistema de puntería] [Regeneración]
+
