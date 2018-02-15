@@ -4,7 +4,7 @@ Nombre:
 Nivel:  
 Experiencia:  
 
-|           | 2d6+4      |                | Inicial | Temporal |               | Aquí pon varias palabras clave sobre tu trasfondo |
+|           | 2d6+4      |                | Inicial | Temporal |               | Sobre tu trasfondo por 3 palabras clave por fila  |
 | --------: | :--------- | -------------: | :------ | :------- | ------------: | :------------------------------------------------ |
 | BIO:      |            | Defensa:       |         |          | Actitud:      |                                                   |
 | COM:      |            | Salud:         |         |          | Contactos:    |                                                   |
@@ -63,14 +63,15 @@ Equipo
 Armas
 -----
 
-| Tipo de arma cuerpo a cuerpo <sup>precio</sup> |                                 |
-| :--------------------------------------------- | :------------------------------ |
-| [ ][ ][ ] Ligera <sup>10</sup>                 | Podría ocultarse sin dificultad |
-| [ ][ ] A una mano <sup>30</sup>                |                                 |
-| [ ] A dos manos <sup>80</sup>                  |                                 |
+| Tipo de arma cuerpo a cuerpo <sup>precio</sup> |                                 | Calidad buena/excepcional/única |
+| :--------------------------------------------- | :------------------------------ | :------------------------------ | 
+| [ ][ ][ ] Ligera <sup>10</sup>                 | Podría ocultarse sin dificultad | [ ]+1 [ ]+2 [ ]+3               |
+| [ ][ ] A una mano <sup>30</sup>                |                                 | [ ]+1 [ ]+2 [ ]+3               |
+| [ ] A dos manos <sup>80</sup>                  |                                 | [ ]+1 [ ]+2 [ ]+3               |
 > * Si usas dos armas ligeras, puedes atacar dos veces pero el daño no explota.
 > * Las armas ligeras solo hacen hasta 5 daños.
 > * Las armas a dos manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño.
+> * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 | Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso de munición  | Calidad buena/excepcional/única |
 | :------------------------------------------------------- | :----------------------- | :------------------------------ | 
@@ -96,7 +97,7 @@ Armas
 > * El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño.
 > * El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño.
 > * Las granadas alcanzan a lejano, pero a cercano impactan a 1d4 objetivos. Siempre hacen 1d10 de daño.
-> * La calidad buena da +1 al disparo y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
+> * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 Protecciones
 ------------
