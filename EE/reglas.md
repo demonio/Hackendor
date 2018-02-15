@@ -45,6 +45,29 @@ Trasfondo
 | [ ] Psiónico       | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_                      |
 | [ ] Soldado        | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_                     |
 
+Equipo
+------
+
+| Elemento <sup>precio</sup>           | DU si se gasta    | DU de otro más    |
+| :----------------------------------- | :---------------- | ----------------- |
+| [ ][ ] Alimetno <sup>2</sup>         | [ ]d8 [ ]d6 [ ]d4 | [ ]d8 [ ]d6 [ ]d4 |
+| [ ] Célula de energía <sup>5</sup>   | [ ]d8 [ ]d6 [ ]d4 | [ ]d8 [ ]d6 [ ]d4 |
+| [x][ ][ ] Credstick <sup>5</sup>     |                   |                   |
+| [ ] 10 metros de cuerda <sup>2</sup> |                   |                   |   
+| [ ] Herramientas <sup>15</sup>       |                   |                   |
+| [ ] Kit médico <sup>50</sup>         | [ ]d6 [ ]d4       | [ ]d6 [ ]d4       |
+| [ ] Linterna <sup>5</sup>            | [ ]d6 [ ]d4       | [ ]d6 [ ]d4       |
+| [ ][ ][ ] Nanomemoria <sup>20</sup>  |                   |                   |
+| [ ] Ordenador portátil <sup>80</sup> |                   |                   |
+| [ ] Ropas comunes <sup>20</sup>      |                   |                   | 
+| [ ] Ropas lujosas <sup>200</sup>     |                   |                   | 
+| [ ] Saco de dormir <sup>40</sup>     |                   |                   | 
+| [ ] Traje espacial <sup>120</sup>    |                   |                   | 
+> * Si no se toma alimento una vez al día, provoca desventaja en todas las pruebas.
+> * EL kit médico cura 1d6 puntos de salud sobre un objetivo en alcance inmediato.
+> * Las ropas lujosas en ciertos ambientes te otorgan una ventaja cuando tratas con otros.
+> * El traje espacial aguanta en el espacio 24 horas.
+
 <hr class="end-col">
 
 Armas
@@ -59,7 +82,7 @@ Armas
 > * Las armas ligeras solo hacen hasta 5 daños.
 > * Las armas a dos manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño.
 
-| Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso (DU) de munición  | DU de otra arma          |
+| Tipo de arma a distancia <sup>precio arma/munición</sup> | Dado de uso de munición  | DU de otra arma          |
 | :------------------------------------------------------- | :----------------------- | :----------------------- |
 | [ ] [ ] Pistola <sup>20/2</sup>                          | [ ]d8 [ ]d6 [ ]d4        | [ ]d8 [ ]d6 [ ]d4        |
 | [ ] Escopeta <sup>30/3</sup>                             | [ ]d6 [ ]d4              |                          |
@@ -98,10 +121,10 @@ Protecciones
 Implantes
 ---------
 Los implantes son mejoras que puedes hacer directamente sobre tú cuerpo. Cada vez que te instalas un implante, si no eres un Cable, debes realizar una tirada de Humanidad. Cuando pierdas toda la humanidad tú personaje pasa a ser controlado por el Guardián Estelar.
-> * Los implantes tienen un precio entre 10 y 200 créditos a negociar entre comprador y vendedor.
+> * Los implantes tienen un precio entre 5 y 200 créditos a negociar entre comprador y vendedor.
 > * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante como si de una etiqueta se tratase.
 > * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
-> * Implantes: [ ]Ciberbrazo [ ]Ciberoídos [ ]Ciberojos [ ]Ciberpierna [ ]Conexión táctil [ ]Radio megaklick [ ]Procesador [ ]Ciberesquiva [ ]Ciberpiel [ ]Puerto de entrada y memoria [ ]Traductor universal
+> * Implantes: [ ]Ciberbrazo [ ]Ciberoídos [ ]Ciberojos [ ]Ciberpierna [ ]Conexión táctil [ ]Radio megaklick [ ]Procesador [ ]Ciberesquiva [ ]Ciberpiel [ ]Puerto de entrada [ ]Traductor universal
 
 
 
