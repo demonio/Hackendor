@@ -90,8 +90,8 @@ Protecciones
 | [ ] Ligera <sup>30</sup>             | 2       | 0             |
 | [ ] Media <sup>80</sup>              | 4       | 2             |
 | [ ] Pesada <sup>160</sup>            | 8       | 4             |
-> Las mejoras tienen un precio entre 15 y 80 créditos independientemente de cuál sea, a pactar entre comprador y vendedor.
-> Ganas una ventaja cuando tú acción tiene incluido el nombre de una mejora como si de una etiqueta se tratase.
-≤ En su defecto obtienes el efecto desea que tenga relación con la mejora adquirida.
-> [Infravisión] [Antibalas] [Radio megaklick] [Linterna] [Escudo de fuerza] [Propulsores] [Inhibior de explosión] [Sistema de puntería] [Regeneración]
+> * Las mejoras tienen un precio entre 15 y 80 créditos independientemente de cuál sea, a pactar entre comprador y vendedor.
+> * Ganas una ventaja cuando tú acción tiene incluido el nombre de una mejora como si de una etiqueta se tratase.
+> * En su defecto obtienes el efecto desea que tenga relación con la mejora adquirida.
+> * [Infravisión] [Antibalas] [Radio megaklick] [Linterna] [Escudo de fuerza] [Propulsores] [Inhibior de explosión] [Sistema de puntería] [Regeneración]
 
