@@ -19,12 +19,12 @@ ___
 
 | Eigue una clase    | Daño | Dado salud/inicial | Humanidad | Competente                                                            |
 | :----------------- | :--- | :----------------- | :-------- | :-------------------------------------------------------------------- |
-| [ ] Cable          | d6   | d6/6 o d6+4        | d8        | Armaduras ligeras, medias y todas las armas excepto las de dos manos. |       
-| [ ] Contrabandista | d6   | d8/8 o d8+4        | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifes, lanzallamas y granadas. |
-| [ ] Diplomático    | d4   | d6/6 o d6+4        | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo.                    |         
-| [ ] Errante        | 2d4  | d8/8 o d8+4        | d12       | Armas cuerpo a cuerpo y pistolas.                                     |
-| [ ] Psiónico       | d4   | d6/6 o d6+4        | d8        |                                                                       |
-| [ ] Soldado        | d8   | d10/10 o d10+4     | d10       | Todas las armas y armaduras.                                          |
+| [ ] Cable          | d6   | d6/d6+4(7)         | d8        | Armaduras ligeras, medias y todas las armas excepto las de dos manos. |       
+| [ ] Contrabandista | d6   | d8/d8+4(8)         | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifes, lanzallamas y granadas. |
+| [ ] Diplomático    | d4   | d6/d6+4(7)         | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo.                    |         
+| [ ] Errante        | 2d4  | d8/d8+4(8)         | d12       | Armas cuerpo a cuerpo y pistolas.                                     |
+| [ ] Psiónico       | d4   | d6/d6+4(7)         | d8        |                                                                       |
+| [ ] Soldado        | d8   | d10/d10+4(9)       | d10       | Todas las armas y armaduras.                                          |
 
 Armas
 -----
