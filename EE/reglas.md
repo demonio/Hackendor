@@ -70,7 +70,7 @@ Armas
 > * Las armas a dos manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño.
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
-| Arma a distancia <sup>precio arma/munición</sup>         | Dado de uso de munición  | Calidad buena/excepcional/única |
+| Arma a distancia <sup>precio arma/munición</sup>         | DU munición              | Calidad buena/excepcional/única |
 | :------------------------------------------------------- | :----------------------- | :------------------------------ | 
 | [ ] Pistola <sup>20/2</sup>                              | [ ]d8 [ ]d6 [ ]d4        | [ ]+1 [ ]+2 [ ]+3               |
 | [ ] Pistola <sup>20/2</sup>                              | [ ]d8 [ ]d6 [ ]d4        | [ ]+1 [ ]+2 [ ]+3               |
@@ -90,10 +90,10 @@ Armas
 > * Si eres incompetente disparas con desventaja.
 > * El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante.
 > * Si eres incompetente en armas no puedes impactar con el rifle de precisión o el lanzallamas automáticamente.
-> * Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y con +1d6 al daño.
+> * Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño.
 > * El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño.
 > * El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño.
-> * Las granadas alcanzan a lejano, pero a cercano impactan a 1d4 objetivos. Siempre hacen 1d10 de daño.
+> * Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 de daño.
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 Protecciones
@@ -105,16 +105,16 @@ Protecciones
 | [ ] Media <sup>80</sup>              | 4       | 2             | [ ]x2 [ ]x3
 | [ ] Pesada <sup>160</sup>            | 8       | 4             | [ ]x2 [ ]x3
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
-> * Ganas una ventaja cuando tú acción tiene incluido el nombre de una mejora como si de una etiqueta se tratase.
+> * Ganas una ventaja cuando tú acción tiene incluido el nombre de una mejora.
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
 > * Majoras: [ ]Infravisión [ ]Antibalas [ ]Radio megaklick [ ]Linterna [ ]Escudo de fuerza [ ]Propulsores [ ]Inhibior de explosión [ ]Sistema de puntería [ ]Regeneración
 > * La calidad excepcional multiplica la defensa x2 y el precio x8, única x3 y precio x20.
 
 Implantes
 ---------
-Los implantes son mejoras que puedes hacer directamente sobre tú cuerpo. Cada vez que te instalas un implante, si no eres un Cable, debes realizar una tirada de Humanidad. Cuando pierdas toda la humanidad tú personaje pasa a ser controlado por el Guardián Estelar.
+Los implantes son mejoras sobre tú cuerpo. Por cada uno que te instalas, si no eres un Cable, debes tirar Humanidad. Cuando pierdas toda la humanidad tú personaje pasa a ser controlado por el Guardián Estelar.
 > * Los implantes tienen un precio entre 5 y 200 créditos a negociar entre comprador y vendedor.
-> * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante como si de una etiqueta se tratase.
+> * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante.
 > * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
 > * Implantes: [ ]Ciberbrazo [ ]Ciberoídos [ ]Ciberojos [ ]Ciberpierna [ ]Conexión táctil [ ]Radio megaklick [ ]Procesador [ ]Ciberesquiva [ ]Ciberpiel [ ]Puerto de entrada [ ]Traductor universal
 
