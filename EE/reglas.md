@@ -1,18 +1,15 @@
-Estrellas Errante (hack del demonio)
-====================================
-Nombre:  
-Nivel:  
-Experiencia:  
+Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
+======================================================================
 
-|           | 2d6+4      |                | Inicial | Temporal |               | Sobre tu trasfondo por 3 palabras clave por fila  |
-| --------: | :--------- | -------------: | :------ | :------- | ------------: | :------------------------------------------------ |
-| BIO:      |            | Defensa:       |         |          | Actitud:      |                                                   |
-| COM:      |            | Salud:         |         |          | Contactos:    |                                                   |
-| PSI:      |            | Humanidad:     |         |          | Defectos:     |                                                   |
-| TEC:      |            |                |         |          | Motivaciones: |                                                   |
-|           | **3d6x10** |                |         |          | Principios:   |                                                   |
-| Créditos: |            |                |         |          | Virtudes:     |                                                   |
-> * Puedes intercambiar dos atributos en la creacción del personaje.
+|           | Dificultad |              |                                 |               | Sobre tu trasfondo pon 3 palabras clave por fila |
+| --------: | :--------- | -----------: | :------------------------------ | ------------: | ------------------------------------------------ |
+| BIO:      |            | Nombre:      |                                 | Actitud:      |                                                  |
+| COM:      |            | Nivel:       |                                 | Contactos:    |                                                  |
+| PSI:      |            | Experiencia: |                                 | Defectos:     |                                                  |
+| TEC:      |            | Defensa:     |                                 | Motivaciones: |                                                  |
+|           | **3d6x10** | Salud:       |                                 | Principios:   |                                                  |
+| Créditos: |            | Humanidad:   | [ ]d12 [ ]d10 [ ]d8 [ ]d6 [ ]d4 | Virtudes:     |                                                  |
+> * Lanza 2d6+4 para cada atributo. Puedes intercambiar dos atributos en la creacción del personaje.
 > * Si no eres competente en una protección, suma tu Defensa a tú BIO.
 > * Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
@@ -42,7 +39,7 @@ Equipo
 | :----------------------------------- | :---------------- | ----------------- |
 | [ ][ ] Alimetno <sup>2</sup>         | [ ]d8 [ ]d6 [ ]d4 | [ ]d8 [ ]d6 [ ]d4 |
 | [ ] Célula de energía <sup>5</sup>   | [ ]d8 [ ]d6 [ ]d4 | [ ]d8 [ ]d6 [ ]d4 |
-| [x][ ][ ] Credstick <sup>5</sup>     |                   |                   |
+| [ ][ ][ ] Credstick <sup>5</sup>     |                   |                   |
 | [ ] 10 metros de cuerda <sup>2</sup> |                   |                   |   
 | [ ] Herramientas <sup>15</sup>       |                   |                   |
 | [ ] Kit médico <sup>50</sup>         | [ ]d6 [ ]d4       | [ ]d6 [ ]d4       |
@@ -120,3 +117,28 @@ Los implantes son mejoras que puedes hacer directamente sobre tú cuerpo. Cada v
 > * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante como si de una etiqueta se tratase.
 > * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
 > * Implantes: [ ]Ciberbrazo [ ]Ciberoídos [ ]Ciberojos [ ]Ciberpierna [ ]Conexión táctil [ ]Radio megaklick [ ]Procesador [ ]Ciberesquiva [ ]Ciberpiel [ ]Puerto de entrada [ ]Traductor universal
+
+<hr class="end-page">
+
+Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
+=====================================================================
+
+Reglas
+------
+> * Para superar una prueba el PJ tira 1d20 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
