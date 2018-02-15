@@ -112,7 +112,7 @@ Protecciones
 
 Implantes
 ---------
-Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres un Cable, debes tirar Humanidad. Cuando te quedes sin humanidad tú personaje lo controla el Guardián Estelar.
+Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres un Cable, debes comprobar si pierdes humanidad. 
 > * Los implantes tienen un precio entre 5 y 200 créditos a negociar entre comprador y vendedor.
 > * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante.
 > * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
@@ -122,14 +122,36 @@ Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres u
 
 Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
 =====================================================================
+### Reglas
+> * Cuando pongas a pruaba a un PJ, este debe superar o igualar la dificultad de uno de sus atributos con 1d20.
+> * Siempre que en 1d20 salga un 1 el resultado es un fallo automático y un 20 es un éxito automático.
+> * Por cada venjata que tenga el PJ, este tira 1d20 adicional y escoge el mejor resultado. Con desventaja el peor resultado.
+> * El PJ puede cambiar una tirada con desventaja por dos con ventaja si es posible invertir más tiempo en la prueba.
+> * NO SE PUEDEN REPETIR LAS TIRADAS Y SE ELIMINAN LOS DECIMALES SI LOS HUBIERA.
+> * Algunos modificadores se aplican después de lanzar el dado y antes de compararlo con el atributo.
+> * SOLAMENTE SE APLICA UN BONUS Y/O UN MALUS, LOS MÁS ALTOS DE CADA TIPO.
+> * El GE nunca tira dados; los PJs atacan, esquivan o superan pruebas. 
+> * Siempre que los PJs fallen una tirada que no sea de combate, ni tenga consecuencia, coge una ficha de amenaza. 
 
-Reglas
-------
-> * Para superar una prueba el PJ tira 1d20 
+### Medidas de tiempo
+> * Los **intervalos** se usan para pruebas que requieren concentración y duran entre 20' hasta varios años.
+> * En los **asaltos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
 
+### Dado de uso (DU)
+> * Cuando un objeto se gasta, se tira su DU y si sale 1 o 2, el tamaño del dado baja; d20 > d12 > d10 > d8 > d6 > d4 > consumido.
 
+### Carga
+> * El GE puede considerar que un PJ esta **sobrecargado**, lo que supone realizar todas las pruebas de BIO con desventaja.
 
+### Descanso
+> * Descansar 8 horas de las 24 del día, supone recuperar todos los puntos de poder, toda la defensa y salud igual al resultado de lanzar el dado de salud del PJ.
 
+### Humanidad
+> * Cuando un PJ se queda sin humanidad, su personaje pasa a ser controlado por ti, Guardián Estelar. MWA HA HA HA 
+
+### Cambios de estado
+> * Los PJs pueden verse en desventaja o reaccionar de forma inexperada si adquieren un estado que altera su condición.  
+Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
 
 
