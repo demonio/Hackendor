@@ -5,7 +5,7 @@ Nivel:
 Experiencia:  
 
 |           | 2d6+4      |                | Inicial | Temporal |               | Aquí pon palabras clave sobre tu trasfondo |
-| --------: | :--------- | -------------: | :------ | :------- | ------------: |                                            |
+| --------: | :--------- | -------------: | :------ | :------- | ------------: | :----------------------------------------- |
 | BIO:      |            | Defensa:       |         |          | Actitud:      |                                            |
 | COM:      |            | Salud:         |         |          | Contactos:    |                                            |
 | PSI:      |            | Humanidad:     |         |          | Defectos:     |                                            |
