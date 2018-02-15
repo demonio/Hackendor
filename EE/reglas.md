@@ -4,14 +4,14 @@ Nombre:
 Nivel:  
 Experiencia:  
 
-|           | 2d6+4      |                | Inicial | Temporal |               | Aquí pon palabras clave sobre tu trasfondo |
-| --------: | :--------- | -------------: | :------ | :------- | ------------: | :----------------------------------------- |
-| BIO:      |            | Defensa:       |         |          | Actitud:      |                                            |
-| COM:      |            | Salud:         |         |          | Contactos:    |                                            |
-| PSI:      |            | Humanidad:     |         |          | Defectos:     |                                            |
-| TEC:      |            |                |         |          | Motivaciones: |                                            |
-|           | **3d6x10** |                |         |          | Principios:   |                                            |
-| Créditos: |            |                |         |          | Virtudes:     |                                            |
+|           | 2d6+4      |                | Inicial | Temporal |               | Aquí pon varias palabras clave sobre tu trasfondo |
+| --------: | :--------- | -------------: | :------ | :------- | ------------: | :------------------------------------------------ |
+| BIO:      |            | Defensa:       |         |          | Actitud:      |                                                   |
+| COM:      |            | Salud:         |         |          | Contactos:    |                                                   |
+| PSI:      |            | Humanidad:     |         |          | Defectos:     |                                                   |
+| TEC:      |            |                |         |          | Motivaciones: |                                                   |
+|           | **3d6x10** |                |         |          | Principios:   |                                                   |
+| Créditos: |            |                |         |          | Virtudes:     |                                                   |
 > * Puedes intercambiar dos atributos en la creacción del personaje.
 > * Si no eres competente en una protección, suma tu Defensa a tú BIO.
 > * Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
