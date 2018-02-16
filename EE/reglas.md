@@ -35,25 +35,21 @@ ___
 Equipo
 ------
 
-| Elemento <sup>precio</sup>           | DU si se gasta    | DU de otro más    |
-| :----------------------------------- | :---------------- | ----------------- |
-| [ ][ ] Alimetno <sup>2</sup>         | [ ]d8 [ ]d6 [ ]d4 | [ ]d8 [ ]d6 [ ]d4 |
-| [ ] Célula de energía <sup>5</sup>   | [ ]d8 [ ]d6 [ ]d4 | [ ]d8 [ ]d6 [ ]d4 |
-| [ ][ ][ ] Credstick <sup>5</sup>     |                   |                   |
-| [ ] 10 metros de cuerda <sup>2</sup> |                   |                   |   
-| [ ] Herramientas <sup>15</sup>       |                   |                   |
-| [ ] Kit médico <sup>50</sup>         | [ ]d6 [ ]d4       | [ ]d6 [ ]d4       |
-| [ ] Linterna <sup>5</sup>            | [ ]d6 [ ]d4       | [ ]d6 [ ]d4       |
-| [ ][ ][ ] Nanomemoria <sup>20</sup>  |                   |                   |
-| [ ] Ordenador portátil <sup>80</sup> |                   |                   |
-| [ ] Ropas comunes <sup>20</sup>      |                   |                   | 
-| [ ] Ropas lujosas <sup>200</sup>     |                   |                   | 
-| [ ] Saco de dormir <sup>40</sup>     |                   |                   | 
-| [ ] Traje espacial <sup>120</sup>    |                   |                   | 
-> * Si no se toma alimento una vez al día, provoca desventaja en todas las pruebas.
-> * EL kit médico cura 1d6 puntos de salud sobre un objetivo en alcance inmediato.
-> * Las ropas lujosas en ciertos ambientes te otorgan una ventaja cuando tratas con otros.
-> * El traje espacial aguanta en el espacio 24 horas.
+| Elemento <sup>precio</sup>           | DU si se gasta    | DU de otro más    | Notas  |
+| :----------------------------------- | :---------------- | ----------------- | ------ |
+| [ ][ ] Alimetno <sup>2</sup>         | [ ]d8 [ ]d6 [ ]d4 | [ ]d8 [ ]d6 [ ]d4 | Si no se toma alimento una vez al día, provoca desventaja en todas las pruebas. | 
+| [ ] Célula de energía <sup>5</sup>   | [ ]d8 [ ]d6 [ ]d4 | [ ]d8 [ ]d6 [ ]d4 |        |
+| [ ][ ][ ] Credstick <sup>5</sup>     |                   |                   |        |
+| [ ] 10 metros de cuerda <sup>2</sup> |                   |                   |        |   
+| [ ] Herramientas <sup>15</sup>       |                   |                   |        |
+| [ ] Kit médico <sup>50</sup>         | [ ]d6 [ ]d4       | [ ]d6 [ ]d4       | EL kit médico cura 1d6 puntos de salud sobre un objetivo en alcance inmediato. |
+| [ ] Linterna <sup>5</sup>            | [ ]d6 [ ]d4       | [ ]d6 [ ]d4       |        |
+| [ ][ ][ ] Nanomemoria <sup>20</sup>  |                   |                   |        |
+| [ ] Ordenador portátil <sup>80</sup> |                   |                   |        |
+| [ ] Ropas comunes <sup>20</sup>      |                   |                   |        | 
+| [ ] Ropas lujosas <sup>200</sup>     |                   |                   | Las ropas lujosas en ciertos ambientes te otorgan una ventaja cuando tratas con otros. |
+| [ ] Saco de dormir <sup>40</sup>     |                   |                   |        | 
+| [ ] Traje espacial <sup>120</sup>    |                   |                   | El traje espacial aguanta en el espacio 24 horas. |
 
 <hr class="end-col">
 
