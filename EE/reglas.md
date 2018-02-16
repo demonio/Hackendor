@@ -16,7 +16,8 @@ ___
 
 | Eigue una clase    | Daño | Dado salud/inicial | Humanidad | Competente                                                            |
 | :----------------- | :--- | :----------------- | :-------- | :-------------------------------------------------------------------- |
-| [ ] Cable          | d6   | d6/d6+4(7)         | d8        | Armaduras ligeras, medias y todas las armas excepto las de dos manos. |       
+| [ ] Cable          | d6   | d6/d6+4(7)         | d8        | Armaduras ligeras, medias y todas las armas excepto las de dos manos.  
+_[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_ |       
 | [ ] Contrabandista | d6   | d8/d8+4(8)         | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifes, lanzallamas y granadas. |
 | [ ] Diplomático    | d4   | d6/d6+4(7)         | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo.                    |         
 | [ ] Errante        | 2d4  | d8/d8+4(8)         | d12       | Armas cuerpo a cuerpo y pistolas.                                     |
