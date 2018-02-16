@@ -59,7 +59,7 @@ Armas
 
 | Arma cuerpo a cuerpo <sup>precio</sup>         | Calidad           | Notas |
 | :--------------------------------------------- | :---------------- | :---- | 
-| [][][] Ligera <sup>10</sup>                 | []+1 []+2 []+3 | Podría ocultarse sin dificultad. Si usas dos armas ligeras, puedes atacar dos veces pero el daño no explota. Las armas ligeras solo hacen hasta 5 daños.
+| [][][] Ligera <sup>10</sup>                 | []+1 []+2 []+3 | Con 2 armas ligeras, puedes atacar 2 veces pero el daño no explota. Las armas ligeras solo hacen hasta 5 daños.
 | [][] A una mano <sup>30</sup>                | []+1 []+2 []+3 |       |
 | [] A dos manos <sup>80</sup>                  | []+1 []+2 []+3 | Las armas a dos manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
