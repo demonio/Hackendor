@@ -10,83 +10,72 @@ Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 |           | **3d6x10** | Salud:       |                                 | Principios:   |                                                  |
 | Créditos: |            | Humanidad:   | []d12 []d10 []d8 []d6 []d4 | Virtudes:     |                                                  |
 > * Lanza 2d6+4 para cada atributo. Puedes intercambiar 2 atributos en la creacción del personaje.
-> * Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
+> * Necesitas 20 puntos de experiencia para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
 
-| Eigue 1 clase    | Daño | Dado salud/inicial | Humanidad | Competente                                                            |
-| :----------------- | :--- | :----------------- | :-------- | :-------------------------------------------------------------------- |
-| [] Cable          | d6   | d6/d6+4(7)         | d8        | Armaduras ligeras, medias y todas las armas excepto las de 2 manos. |       
-| [] Contrabandista | d6   | d8/d8+4(8)         | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifes, lanzallamas y granadas. |
-| [] Diplomático    | d4   | d6/d6+4(7)         | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo.                    |         
-| [] Errante        | 2d4  | d8/d8+4(8)         | d12       | Armas cuerpo a cuerpo y pistolas.                                     |
-| [] Psiónico       | d4   | d6/d6+4(7)         | d8        |                                                                       |
-| [] Soldado        | d8   | d10/d10+4(9)       | d10       | Todas las armas y armaduras.                                          |
+| Eigue 1 clase     | Daño | Dado salud/inicial | Humanidad | Competente                                                            |
+| :---------------- | :--- | :----------------- | :-------- | :-------------------------------------------------------------------- |
+| [] Cable          | d6   | d6  / d6+4  (7)    | d8        | Armaduras ligeras, medias y todas las armas excepto las de 2 manos.   |       
+| [] Contrabandista | d6   | d8  / d8+4  (8)    | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifes, lanzallamas y granadas. |
+| [] Diplomático    | d4   | d6  / d6+4  (7)    | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo.                    |         
+| [] Errante        | 2d4  | d8  / d8+4  (8)    | d12       | Armas cuerpo a cuerpo y pistolas.                                     |
+| [] Psiónico       | d4   | d6  / d6+4  (7)    | d8        |                                                                       |
+| [] Soldado        | d8   | d10 / d10+4 (9)    | d10       | Todas las armas y armaduras.                                          |
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente en estas armas.
 
-| Segun tú clase     | Ganas 1 ventaja si tú acción esta relacionada con alguna de estas palabras claves   |
-| :----------------- | :------------------------------------------------------------------------------------ |
-| [] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_                 |
-| [] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                               |
-| [] Diplomático    | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_              |
-| [] Errante        | _[Artes marciales] [Percepción] [Sigilo]_                                             |
-| [] Psiónico       | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_                      |
-| [] Soldado        | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_                     |
+| Segun tú clase     | Ganas 1 ventaja si tú acción esta relacionada con alguna de estas palabras claves |
+| :----------------- | :-------------------------------------------------------------------------------- |
+| [] Cable           | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_             |
+| [] Contrabandista  | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                           |
+| [] Diplomático     | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_          |
+| [] Errante         | _[Artes marciales] [Percepción] [Sigilo]_                                         |
+| [] Psiónico        | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_                  |
+| [] Soldado         | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_                 |
 
 Equipo
 ------
 
-| Elemento <sup>precio</sup>           | DU si se gasta    | Notas                                                             |
-| :----------------------------------- | :---------------- | ----------------------------------------------------------------- |
-| [] Alimetno <sup>2</sup>            | []d8 []d6 []d4 | No alimentarse a diario, provoca desventaja en todas las pruebas. | 
-| [] Célula de energía <sup>5</sup>   | []d8 []d6 []d4 |                                                                   |
-| [][][] Credstick <sup>5</sup>     |                   |                                                                   |
-| [] 10 metros de cuerda <sup>2</sup> |                   |                                                                   |   
-| [] Herramientas <sup>15</sup>       |                   |                                                                   |
-| [] Kit médico <sup>50</sup>         | []d6 []d4       | Cura 1d6 puntos de salud sobre un objetivo en alcance inmediato.  |
-| [] Linterna <sup>5</sup>            | []d6 []d4       |                                                                   |
-| [][][] Nanomemoria <sup>20</sup>  |                   |                                                                   |
-| [] Ordenador portátil <sup>80</sup> |                   |                                                                   |
-| [] Ropas comunes <sup>20</sup>      |                   |                                                                   | 
-| [] Ropas lujosas <sup>200</sup>     |                   | En ciertos ambientes te otorgan ventaja cuando tratas con otros.  |
-| [] Saco de dormir <sup>40</sup>     |                   |                                                                   | 
-| [] Traje espacial <sup>120</sup>    |                   | Aguanta en el espacio 24 horas.                                   |
+| Elemento <sup>precio</sup>           | DU si se gasta | Notas                                                             |
+| :----------------------------------- | :------------- | ----------------------------------------------------------------- |
+| [] Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No alimentarse a diario, provoca desventaja en todas las pruebas. | 
+| [] Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                                   |
+| [][][] Credstick <sup>5</sup>        |                |                                                                   |
+| [] 10 metros de cuerda <sup>2</sup>  |                |                                                                   |   
+| [] Herramientas <sup>15</sup>        |                |                                                                   |
+| [] Kit médico <sup>50</sup>          | []d6 []d4      | Cura 1d6 puntos de salud sobre un objetivo en alcance inmediato.  |
+| [] Linterna <sup>5</sup>             | []d6 []d4      |                                                                   |
+| [][][] Nanomemoria <sup>20</sup>     |                |                                                                   |
+| [] Ordenador portátil <sup>80</sup>  |                |                                                                   |
+| [] Ropas comunes <sup>20</sup>       |                |                                                                   | 
+| [] Ropas lujosas <sup>200</sup>      |                | En ciertos ambientes te otorgan ventaja cuando tratas con otros.  |
+| [] Saco de dormir <sup>40</sup>      |                |                                                                   | 
+| [] Traje espacial <sup>120</sup>     |                | Aguanta en el espacio 24 horas.                                   |
 
 <hr class="end-col">
 
 Armas
 -----
 
-| Arma cuerpo a cuerpo <sup>precio</sup>         | Calidad           | Notas |
-| :--------------------------------------------- | :---------------- | :---- | 
-| [][][] Ligera <sup>10</sup>                 | []+1 []+2 []+3 | Con 2 armas ligeras, puedes atacar 2 veces pero el daño no explota. Las armas ligeras solo hacen hasta 5 daños.
-| [][] A 1 mano <sup>30</sup>                | []+1 []+2 []+3 |       |
-| [] A 2 manos <sup>80</sup>                  | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
+| Arma cuerpo a cuerpo <sup>precio</sup>         | Calidad        | Notas |
+| :--------------------------------------------- | :------------- | :---- | 
+| [][][] Ligera <sup>10</sup>                    | []+1 []+2 []+3 | Con 2 armas ligeras, puedes atacar 2 veces pero el daño no explota. Las armas ligeras max. 5 daños.
+| [][] A 1 mano <sup>30</sup>                    | []+1 []+2 []+3 |       |
+| [] A 2 manos <sup>80</sup>                     | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
-| Arma a distancia <sup>precio arma/munición</sup>         | DU munición              | Calidad buena/excepcional/única |
-| :------------------------------------------------------- | :----------------------- | :------------------------------ | 
-| [] Pistola <sup>20/2</sup>                              | []d8 []d6 []d4        | []+1 []+2 []+3               |
-| [] Pistola <sup>20/2</sup>                              | []d8 []d6 []d4        | []+1 []+2 []+3               |
-| [] Escopeta <sup>30/3</sup>                             | []d6 []d4              | []+1 []+2 []+3               |
-| [] Rifle semiautomático <sup>80/8</sup>                 | []d10 []d8 []d6 []d4 | []+1 []+2 []+3               |
-| [] Rifle semiautomático <sup>80/8</sup>                 | []d10 []d8 []d6 []d4 | []+1 []+2 []+3               |
-| [] Rifle de precisión <sup>120/12</sup>                 | []d6 []d4              | []+1 []+2 []+3               |
-| [] Lanzallamas <sup>60/6</sup>                          | []d6 []d4              | []+1 []+2 []+3               |
-| [] Cañon de asalto <sup>160/16</sup>                    | []d8 []d6 []d4        | []+1 []+2 []+3               |
-| [][][][][][] Granada <sup>20</sup>                 |                          |                                 |
-> * Las pistolas pueden usarse en alcance inmediato, cercano o lejano.
-> * Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota.
-> * La escopeta pueden usarse en alcance inmediato o cercano.
-> * Si fallas con la escopeta, haces daño igual a tú nivel.
-> * Las armas automáticas disparan con ventaja pero gastan el doble de munición.
-> * Si es semiautomática debes elegir en que modo vas a disparar, 1 bala o 1 rafaga.
-> * Si eres incompetente disparas con desventaja.
-> * El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante.
-> * Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño.
-> * El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño.
-> * El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño.
-> * Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 daños.
+| Arma a distancia <sup>precio arma/munición</sup> | DU munición          | Calidad        | Notas |
+| :----------------------------------------------- | :------------------- | :------------- | :----
+| [] Pistola <sup>20/2</sup>                       | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
+| [] Segunda pistola <sup>20/2</sup>               | []d8 []d6 []d4       | []+1 []+2 []+3 |       |
+| [] Escopeta <sup>30/3</sup>                      | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
+| [] Rifle semiautomático <sup>80/8</sup>          | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | Las armas automáticas disparan con ventaja pero gastan el doble de munición. Si es semiautomática debes elegir en que modo vas a disparar, 1 bala o 1 rafaga. |
+| [] Segundo rifle semiautomático <sup>80/8</sup>  | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 |       |
+| [] Rifle de precisión <sup>120/12</sup>          | []d6 []d4            | []+1 []+2 []+3 | El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante. Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño. |
+| [] Lanzallamas <sup>60/6</sup>                   | []d6 []d4            | []+1 []+2 []+3 | El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño. |
+| [] Cañon de asalto <sup>160/16</sup>             | []d8 []d6 []d4       | []+1 []+2 []+3 | El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño. |
+| [][][][][][] Granada <sup>20</sup>               |                      |                | Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 daños. |
+> * Si eres incompetente en algún tipo de arma, disparas con desventaja.
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 Protecciones
