@@ -1,7 +1,7 @@
 Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 ======================================================================
 
-|           | Dificultad |              |                                 |               | Ganas ventaja usando palabras clave de trasfondo |
+|           | Dificultad |              |                                 |               | Ganas 1 ventaja usando palabras clave de trasfondo |
 | --------: | :--------- | -----------: | :------------------------------ | ------------: | ------------------------------------------------ |
 | BIO:      |            | Nombre:      |                                 | Actitud:      |                                                  |
 | COM:      |            | Nivel:       |                                 | Contactos:    |                                                  |
@@ -9,22 +9,22 @@ Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 | TEC:      |            | Defensa:     |                                 | Motivaciones: |                                                  |
 |           | **3d6x10** | Salud:       |                                 | Principios:   |                                                  |
 | Créditos: |            | Humanidad:   | []d12 []d10 []d8 []d6 []d4 | Virtudes:     |                                                  |
-> * Lanza 2d6+4 para cada atributo. Puedes intercambiar dos atributos en la creacción del personaje.
+> * Lanza 2d6+4 para cada atributo. Puedes intercambiar 2 atributos en la creacción del personaje.
 > * Necesitas 20 eXP para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
 
-| Eigue una clase    | Daño | Dado salud/inicial | Humanidad | Competente                                                            |
+| Eigue 1 clase    | Daño | Dado salud/inicial | Humanidad | Competente                                                            |
 | :----------------- | :--- | :----------------- | :-------- | :-------------------------------------------------------------------- |
-| [] Cable          | d6   | d6/d6+4(7)         | d8        | Armaduras ligeras, medias y todas las armas excepto las de dos manos. |       
+| [] Cable          | d6   | d6/d6+4(7)         | d8        | Armaduras ligeras, medias y todas las armas excepto las de 2 manos. |       
 | [] Contrabandista | d6   | d8/d8+4(8)         | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifes, lanzallamas y granadas. |
 | [] Diplomático    | d4   | d6/d6+4(7)         | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo.                    |         
 | [] Errante        | 2d4  | d8/d8+4(8)         | d12       | Armas cuerpo a cuerpo y pistolas.                                     |
 | [] Psiónico       | d4   | d6/d6+4(7)         | d8        |                                                                       |
 | [] Soldado        | d8   | d10/d10+4(9)       | d10       | Todas las armas y armaduras.                                          |
-> * Si no eres competente en una protección, suma tu Defensa a tú BIO.
+> * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente en estas armas.
 
-| Segun tú clase     | Ganas una ventaja si tú acción esta relacionada con alguna de estas palabras claves   |
+| Segun tú clase     | Ganas 1 ventaja si tú acción esta relacionada con alguna de estas palabras claves   |
 | :----------------- | :------------------------------------------------------------------------------------ |
 | [] Cable          | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_                 |
 | [] Contrabandista | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                               |
@@ -60,8 +60,8 @@ Armas
 | Arma cuerpo a cuerpo <sup>precio</sup>         | Calidad           | Notas |
 | :--------------------------------------------- | :---------------- | :---- | 
 | [][][] Ligera <sup>10</sup>                 | []+1 []+2 []+3 | Con 2 armas ligeras, puedes atacar 2 veces pero el daño no explota. Las armas ligeras solo hacen hasta 5 daños.
-| [][] A una mano <sup>30</sup>                | []+1 []+2 []+3 |       |
-| [] A dos manos <sup>80</sup>                  | []+1 []+2 []+3 | Las armas a dos manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
+| [][] A 1 mano <sup>30</sup>                | []+1 []+2 []+3 |       |
+| [] A 2 manos <sup>80</sup>                  | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 | Arma a distancia <sup>precio arma/munición</sup>         | DU munición              | Calidad buena/excepcional/única |
@@ -76,11 +76,11 @@ Armas
 | [] Cañon de asalto <sup>160/16</sup>                    | []d8 []d6 []d4        | []+1 []+2 []+3               |
 | [][][][][][] Granada <sup>20</sup>                 |                          |                                 |
 > * Las pistolas pueden usarse en alcance inmediato, cercano o lejano.
-> * Si usas dos pistolas, puedes disparar dos veces pero el daño no explota.
+> * Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota.
 > * La escopeta pueden usarse en alcance inmediato o cercano.
 > * Si fallas con la escopeta, haces daño igual a tú nivel.
 > * Las armas automáticas disparan con ventaja pero gastan el doble de munición.
-> * Si es semiautomática debes elegir en que modo vas a disparar, una bala o una rafaga.
+> * Si es semiautomática debes elegir en que modo vas a disparar, 1 bala o 1 rafaga.
 > * Si eres incompetente disparas con desventaja.
 > * El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante.
 > * Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño.
@@ -98,7 +98,7 @@ Protecciones
 | [] Media <sup>80</sup>              | 4       | 2             | []x2 []x3
 | [] Pesada <sup>160</sup>            | 8       | 4             | []x2 []x3
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
-> * Ganas una ventaja cuando tú acción tiene incluido el nombre de una mejora.
+> * Por cada nombre de mejora incluida en tú acción, ganas 1 mejora.
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
 > * Majoras: []Infravisión []Antibalas []Radio megaklick []Linterna []Escudo de fuerza []Propulsores []Inhibior de explosión []Sistema de puntería []Regeneración
 > * La calidad excepcional multiplica la defensa x2 y el precio x8, única x3 y precio x20.
@@ -107,7 +107,7 @@ Implantes
 ---------
 Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres un Cable, debes comprobar si pierdes humanidad. 
 > * Los implantes tienen un precio entre 5 y 200 créditos a negociar entre comprador y vendedor.
-> * Ganas una ventaja cuando tú acción tiene incluido el nombre de un implante.
+> * Por cada nombre de implante incluida en tú acción, ganas 1 mejora.
 > * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
 > * Implantes: []Ciberbrazo []Ciberoídos []Ciberojos []Ciberpierna []Conexión táctil []Radio megaklick []Procesador []Ciberesquiva []Ciberpiel []Puerto de entrada []Traductor universal
 
@@ -119,12 +119,12 @@ Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
 > * Cuando pongas a pruaba a un PJ, este debe superar o igualar la dificultad de uno de sus atributos con 1d20.
 > * Siempre que en 1d20 salga un 1 el resultado es un fallo automático y un 20 es un éxito automático.
 > * Por cada venjata que tenga el PJ, este tira 1d20 adicional y escoge el mejor resultado. Con desventaja el peor resultado.
-> * El PJ puede cambiar una tirada con desventaja por dos con ventaja si es posible invertir más tiempo en la prueba.
+> * El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.
 > * NO SE PUEDEN REPETIR LAS TIRADAS Y SE ELIMINAN LOS DECIMALES SI LOS HUBIERA.
 > * Algunos modificadores se aplican después de lanzar el dado y antes de compararlo con el atributo.
 > * SOLAMENTE SE APLICA UN BONUS Y/O UN MALUS, LOS MÁS ALTOS DE CADA TIPO.
 > * El GE nunca tira dados; los PJs atacan, esquivan o superan pruebas. 
-> * Siempre que los PJs fallen una tirada que no sea de combate, ni tenga consecuencia, coge una ficha de amenaza. 
+> * Siempre que los PJs fallen 1 tirada que no sea de combate, ni tenga consecuencia, coge 1 ficha de amenaza. 
 
 ### Medidas de tiempo
 > * Los **intervalos** se usan para pruebas que requieren concentración y duran entre 20' hasta varios años.
