@@ -122,7 +122,7 @@ Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres u
 
 Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
 =====================================================================
-###Reglas
+### Reglas
 > * Cuando pongas a pruaba a un PJ, este debe superar o igualar la dificultad de uno de sus atributos con 1d20.
 > * Siempre que en 1d20 salga un 1 el resultado es un fallo automático y un 20 es un éxito automático.
 > * Por cada venjata que tenga el PJ, este tira 1d20 adicional y escoge el mejor resultado. Con desventaja el peor resultado.
@@ -133,11 +133,11 @@ Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
 > * El GE nunca tira dados; los PJs atacan, esquivan o superan pruebas. 
 > * Siempre que los PJs fallen una tirada que no sea de combate, ni tenga consecuencia, coge una ficha de amenaza. 
 
-###Medidas de tiempo
+### Medidas de tiempo
 > * Los **intervalos** se usan para pruebas que requieren concentración y duran entre 20' hasta varios años.
 > * En los **asaltos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
 
-###Dado de uso (DU)
+### Dado de uso (DU)
 > * Cuando un objeto se gasta, se tira su DU y si sale 1 o 2, el tamaño del dado baja; d20 > d12 > d10 > d8 > d6 > d4 > consumido.
 
 ### Carga
