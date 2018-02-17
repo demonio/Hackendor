@@ -1,14 +1,14 @@
 Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 ======================================================================
 
-|           | Dificultad |              |                                 |           | Palabras clave |
-| --------: | :--------- | -----------: | :------------------------------ | --------: | -------------- |
-| BIO:      |            | Nombre:      |                                 | Pasado:   |                |
-| COM:      |            | Nivel:       |                                 |           |                |
-| PSI:      |            | Experiencia: |                                 | Presente: |                |
-| TEC:      |            | Defensa:     |                                 |           |                |
-|           | **3d6x10** | Salud:       |                                 | Futuro:   |                |
-| Créditos: |            | Humanidad:   | []d12 []d10 []d8 []d6 []d4      |           |                |
+|           | Dificultad |                |                                 |           | Palabras clave |
+| --------: | :--------- | -------------: | :------------------------------ | --------: | -------------- |
+| BIO:      |            | Nombre:        |                                 | Pasado:   |                |
+| COM:      |            | (N)ivel:       |                                 |           |                |
+| PSI:      |            | (E)xperiencia: |                                 | Presente: |                |
+| TEC:      |            | (D)efensa:     |                                 |           |                |
+|           | **3d6x10** | (PS)alud:      |                                 | Futuro:   |                |
+| Créditos: |            | (H)umanidad:   | []d12 []d10 []d8 []d6 []d4      |           |                |
 > * Lanza 2d6+4 para cada atributo. Puedes intercambiar 2 atributos en la creacción del personaje.
 > * Necesitas 20 puntos de experiencia para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
