@@ -66,22 +66,22 @@ Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres u
 Armas
 -----
 
-| Arma cuerpo a cuerpo <sup>precio</sup>   | Calidad        | Notas |
-| :--------------------------------------- | :------------- | :---- | 
-| [][][] (L)igera <sup>10</sup>            | []+1 []+2 []+3 | Máximo 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
-| [][] A (1M)ano <sup>30</sup>             | []+1 []+2 []+3 |       |
-| [] A (2M)anos <sup>80</sup>              | []+1 []+2 []+3 | Las armas a 2M penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
+| Cuerpo a cuerpo <sup>precio</sup>   | Calidad        | Notas |
+| :---------------------------------- | :------------- | :---- | 
+| [][][] (L)igera <sup>10</sup>       | []+1 []+2 []+3 | Hasta 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
+| [][] A (1M)ano <sup>30</sup>        | []+1 []+2 []+3 |       |
+| [] A (2M)anos <sup>80</sup>         | []+1 []+2 []+3 | Las armas a 2M penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
 > * La calidad buena (+1 al impacto y al daño) multiplica el precio x2, la excepcional (+2) x5 y la única (+3) x10.
 
-| Arma a distancia <sup>precio arma/munición</sup> | DU munición          | Calidad        | Notas |
-| :----------------------------------------------- | :------------------- | :------------- | :----
-| [] Pistola <sup>20/2</sup>                       | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
-| [] Escopeta <sup>30/3</sup>                      | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
-| [] Rifle semiautomático <sup>80/8</sup>          | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | Las armas automáticas disparan con ventaja pero gastan el doble de munición. Si es semiautomática debes elegir en que modo vas a disparar, 1 bala o 1 rafaga. |
-| [] Rifle de precisión <sup>120/12</sup>          | []d6 []d4            | []+1 []+2 []+3 | El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante. Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño. |
-| [] Lanzallamas <sup>60/6</sup>                   | []d6 []d4            | []+1 []+2 []+3 | El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño. |
-| [] Cañon de asalto <sup>160/16</sup>             | []d8 []d6 []d4       | []+1 []+2 []+3 | El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño. |
-| [][][][][][] Granada <sup>20</sup>               |                      |                | Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 daños. |
+| A distancia <sup>precio arma/munición</sup> | DU munición          | Calidad        | Notas |
+| :------------------------------------------ | :------------------- | :------------- | :---- |
+| [] Pistola <sup>20/2</sup>                  | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
+| [] Escopeta <sup>30/3</sup>                 | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
+| [] Rifle semiautomático <sup>80/8</sup>     | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | Las armas automáticas disparan con ventaja pero gastan el doble de munición. Si es semiautomática debes elegir en que modo vas a disparar, 1 bala o 1 rafaga. |
+| [] Rifle de precisión <sup>120/12</sup>     | []d6 []d4            | []+1 []+2 []+3 | El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante. Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño. |
+| [] Lanzallamas <sup>60/6</sup>              | []d6 []d4            | []+1 []+2 []+3 | El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño. |
+| [] Cañon de asalto <sup>160/16</sup>        | []d8 []d6 []d4       | []+1 []+2 []+3 | El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño. |
+| [][][][][][] Granada <sup>20</sup>          |                      |                | Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 daños. |
 > * Si eres incompetente en algún tipo de arma, disparas con desventaja.
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
