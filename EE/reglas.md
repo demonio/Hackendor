@@ -13,14 +13,14 @@ Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 > * Necesitas 20 puntos de experiencia para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
 
-| Eigue 1 clase     | Daño | Dado/Salud   | Humanidad | Competente                                         |
-| :---------------- | :--- | :----------- | :-------- | :------------------------------------------------- |
-| [] Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras L, M y armas excepto las de 2 manos.     |
-| [] Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras L, M y armas excepto el cañón de asalto. |
-| [] Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras L y armas ligeras cuerpo a cuerpo.       |
-| [] Errante        | 2d4  | d8/d8+4(8)   | d12       | Armas cuerpo a cuerpo y pistolas.                  |
-| [] Psiónico       | d4   | d6/d6+4(7)   | d8        |                                                    |
-| [] Soldado        | d8   | d10/d10+4(9) | d10       | Todas las armas y armaduras.                       |
+| Eigue 1 clase     | Daño | Dado/Salud   | Humanidad | Competente                                        |
+| :---------------- | :--- | :----------- | :-------- | :------------------------------------------------ |
+| [] Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras L, M y armas excepto las de CaC a 2M.   |
+| [] Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras L, M y armas excepto el cañón d/asalto. |
+| [] Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras L y armas ligeras cuerpo a cuerpo.      |
+| [] Errante        | 2d4  | d8/d8+4(8)   | d12       | Armas cuerpo a cuerpo y pistolas.                 |
+| [] Psiónico       | d4   | d6/d6+4(7)   | d8        |                                                   |
+| [] Soldado        | d8   | d10/d10+4(9) | d10       | Todas las armas y armaduras.                      |
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente en estas armas.
 
@@ -57,11 +57,11 @@ Equipo
 Armas
 -----
 
-| Arma cuerpo a cuerpo <sup>precio</sup>         | Calidad        | Notas |
+| Arma cuerpo a cuerpo (CaC) <sup>precio</sup>   | Calidad        | Notas |
 | :--------------------------------------------- | :------------- | :---- | 
-| [][][] Ligera <sup>10</sup>                    | []+1 []+2 []+3 | Como máximo hacen 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
-| [][] A 1 mano <sup>30</sup>                    | []+1 []+2 []+3 |       |
-| [] A 2 manos <sup>80</sup>                     | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
+| [][][] (L)igera <sup>10</sup>                  | []+1 []+2 []+3 | Como máximo hacen 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
+| [][] A (1M)ano <sup>30</sup>                   | []+1 []+2 []+3 |       |
+| [] A (2M)anos <sup>80</sup>                    | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 | Arma a distancia <sup>precio arma/munición</sup> | DU munición          | Calidad        | Notas |
