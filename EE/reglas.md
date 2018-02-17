@@ -24,14 +24,14 @@ ___
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente.
 
-| Segun tú clase     | Ganas 1 ventaja si tú acción esta relacionada con alguna de estas palabras claves |
-| :----------------- | :-------------------------------------------------------------------------------- |
-| [] Cable           | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_             |
-| [] Contrabandista  | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                           |
-| [] Diplomático     | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_          |
-| [] Errante         | _[Artes marciales] [Percepción] [Sigilo]_                                         |
-| [] Psiónico        | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_                  |
-| [] Soldado         | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_                 |
+| Segun tú clase     | Ganas 1 ventaja si tú acción esta relacionada con alguna palabra clave   |
+| :----------------- | :----------------------------------------------------------------------- |
+| [] Cable           | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_    |
+| [] Contrabandista  | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                  |
+| [] Diplomático     | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_ |
+| [] Errante         | _[Artes marciales] [Percepción] [Sigilo]_                                |
+| [] Psiónico        | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_         |
+| [] Soldado         | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_        |
 
 Equipo
 ------
