@@ -73,7 +73,7 @@ Armas
 | [] A (2M)anos <sup>80</sup>       | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
 > * Calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
-| A distancia <sup>precio/munición</sup>  | Munición(DU)         | Calidad(B/E/U) | Notas |
+| A distancia <sup>precio/munición</sup>  | Munición-(DU)------- | Calidad(B/E/U) | Notas |
 | :-------------------------------------- | :------------------- | :------------- | :---- |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
 | [] Escopeta <sup>30/3</sup>             | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
