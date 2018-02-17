@@ -22,7 +22,7 @@ ___
 | [] Psiónico       | d4   | d6/d6+4(7)   | d8        |                                                 |
 | [] Soldado        | d8   | d10/d10+4(9) | d10       | Todas las armas y armaduras.                    |
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
-> * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente en estas armas.
+> * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente.
 
 | Segun tú clase     | Ganas 1 ventaja si tú acción esta relacionada con alguna de estas palabras claves |
 | :----------------- | :-------------------------------------------------------------------------------- |
