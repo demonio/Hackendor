@@ -36,7 +36,7 @@ ___
 Equipo
 ------
 
-| Elemento <sup>precio</sup>           | DU si se gasta | Notas                                                             |
+| Elemento <sup>precio</sup>           | Dado de uso    | Notas                                                             |
 | :----------------------------------- | :------------- | ----------------------------------------------------------------- |
 | [] Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No alimentarse a diario, provoca desventaja en todas las pruebas. | 
 | [] Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                                   |
