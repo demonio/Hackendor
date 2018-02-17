@@ -70,7 +70,7 @@ Armas
 | :--------------------------------------- | :------------- | :---- | 
 | [][][] (L)igera <sup>10</sup>            | []+1 []+2 []+3 | Máximo 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
 | [][] A (1M)ano <sup>30</sup>             | []+1 []+2 []+3 |       |
-| [] A (2M)anos <sup>80</sup>              | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
+| [] A (2M)anos <sup>80</sup>              | []+1 []+2 []+3 | Las armas a 2M penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 | Arma a distancia <sup>precio arma/munición</sup> | DU munición          | Calidad        | Notas |
