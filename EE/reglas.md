@@ -1,7 +1,7 @@
 Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 ======================================================================
 
-|           | Dificultad |              |                                 |               | Ganas 1 ventaja usando palabras clave de trasfondo |
+|           | Dificultad |              |                                 |               | Palabras clave para ganar ventaja |
 | --------: | :--------- | -----------: | :------------------------------ | ------------: | ------------------------------------------------ |
 | BIO:      |            | Nombre:      |                                 | Actitud:      |                                                  |
 | COM:      |            | Nivel:       |                                 | Contactos:    |                                                  |
