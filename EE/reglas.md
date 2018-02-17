@@ -65,11 +65,11 @@ Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres u
 Armas
 -----
 
-| Arma cuerpo a cuerpo (CaC) <sup>precio</sup>   | Calidad        | Notas |
-| :--------------------------------------------- | :------------- | :---- | 
-| [][][] (L)igera <sup>10</sup>                  | []+1 []+2 []+3 | Como máximo hacen 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
-| [][] A (1M)ano <sup>30</sup>                   | []+1 []+2 []+3 |       |
-| [] A (2M)anos <sup>80</sup>                    | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
+| Arma cuerpo a cuerpo <sup>precio</sup>   | Calidad        | Notas |
+| :--------------------------------------- | :------------- | :---- | 
+| [][][] (L)igera <sup>10</sup>            | []+1 []+2 []+3 | Como máximo hacen 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
+| [][] A (1M)ano <sup>30</sup>             | []+1 []+2 []+3 |       |
+| [] A (2M)anos <sup>80</sup>              | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
 
 | Arma a distancia <sup>precio arma/munición</sup> | DU munición          | Calidad        | Notas |
