@@ -136,8 +136,8 @@ Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
 > * Los PJs pueden verse en desventaja o reaccionar de forma inexperada si adquieren un estado que altera su condición.  
 Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
-### Cambios de estado
-> * 
+### Iniciativa
+> * El GE y los PJs lanzan 1d6 para ver que bando actua primero.
 
 
 
