@@ -66,14 +66,14 @@ Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres u
 Armas
 -----
 
-| Cuerpo a cuerpo <sup>precio</sup> | Calidad_________ | Notas |
+| Cuerpo a cuerpo <sup>precio</sup> | Calidad___________ | Notas |
 | :-------------------------------- | :------------- | :---- | 
 | [][][] (L)igera <sup>10</sup>     | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
 | [][] A (1M)ano <sup>30</sup>      | []+1 []+2 []+3 |       |
 | [] A (2M)anos <sup>80</sup>       | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
 > * Calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
-| A distancia <sup>precio/munición</sup>  | Munición_(DU)_________ | Calidad_________ | Notas |
+| A distancia <sup>precio/munición</sup>  | Munición_(DU)___________ | Calidad___________ | Notas |
 | :-------------------------------------- | :------------------- | :------------- | :---- |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | |
