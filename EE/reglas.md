@@ -5,7 +5,7 @@ Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 | ----------: | :--------- | -------------: | :------------------------------ | --------: | -------------- |
 | BIO:        |            | Nombre:        |                                 | Pasado:   |                |
 | COM:        |            | (N)ivel:       |                                 |           |                |
-| PSI:        |            | (E)xperiencia: |                                 | Presente: |                |
+| PSI:        |            | (EXP)eriencia: |                                 | Presente: |                |
 | TEC:        |            | (D)efensa:     |                                 |           |                |
 |             | **3d6x10** | (PS)alud:      |                                 | Futuro:   |                |
 | (C)réditos: |            | (H)umanidad:   | []d12 []d10 []d8 []d6 []d4      |           |                |
@@ -24,14 +24,15 @@ ___
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente.
 
-| Segun tú clase     | Ganas 1 ventaja si tú acción esta relacionada con alguna palabra clave   |
-| :----------------- | :----------------------------------------------------------------------- |
-| [] Cable           | _[Bajos fondos/Trapicheo] [Cálculo/Lógica] [Electrónica/Informática]_    |
-| [] Contrabandista  | _[Astucia/Engañar] [Manejo/Pilotar] [Mecánica/Montaje]_                  |
-| [] Diplomático     | _[Influencia/Manipulación] [Conocimiento/Cultura] [Contactos/Prestigio]_ |
-| [] Errante         | _[Artes marciales] [Percepción] [Sigilo]_                                |
-| [] Psiónico        | _[Autocontrol/Meditación] [Energía/Materia] [Memoria/Sabiduría]_         |
-| [] Soldado         | _[Armas/Artillería] [Templanza/Valentía] [Supervivencia/Táctica]_        |
+| Segun tú clase     | Puesto     | Palabras clave                              |
+| :----------------- | :--------- | ------------------------------------------- |
+| [] Cable           | Cálculo    | _[Bajos fondos] [Ingeniería] [Mecánica]_    |
+| [] Contrabandista  | Manejo     | _[Bajos fondos] [Mecánica] [Naturaleza]_    |
+| [] Diplomático     | Ninguno    | _[Altas esferas] [Liderazgo] [Política]_    |
+| [] Errante         | Ninguno    | _[Artes marciales] [Medicina] [Naturaleza]_ |
+| [] Psiónico        | Todos      | _[Espacio] [Ingeniería] [Medicina]_         |
+| [] Soldado         | Elige uno  | _[Mecánica] [Liderazgo] [Táctica]_          |
+> * Ganas ventaja en las acciones relaccionadas con las palabras clave o el puesto que dominas
 
 Equipo
 ------
