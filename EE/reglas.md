@@ -1,14 +1,14 @@
 Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 ======================================================================
 
-|           | Dificultad |              |                                 |               | Palabras clave que dan ventaja |
-| --------: | :--------- | -----------: | :------------------------------ | ------------: | ------------------------------ |
-| BIO:      |            | Nombre:      |                                 | Actitud:      |                                |
-| COM:      |            | Nivel:       |                                 | Contactos:    |                                |
-| PSI:      |            | Experiencia: |                                 | Defectos:     |                                |
-| TEC:      |            | Defensa:     |                                 | Motivaciones: |                                |
-|           | **3d6x10** | Salud:       |                                 | Principios:   |                                |
-| Créditos: |            | Humanidad:   | []d12 []d10 []d8 []d6 []d4      | Virtudes:     |                                                  |
+|           | Dificultad |              |                                 |               | Palabras clave |
+| --------: | :--------- | -----------: | :------------------------------ | ------------: | -------------- |
+| BIO:      |            | Nombre:      |                                 | Actitud:      |                |
+| COM:      |            | Nivel:       |                                 | Contactos:    |                |
+| PSI:      |            | Experiencia: |                                 | Defectos:     |                |
+| TEC:      |            | Defensa:     |                                 | Motivaciones: |                |
+|           | **3d6x10** | Salud:       |                                 | Principios:   |                |
+| Créditos: |            | Humanidad:   | []d12 []d10 []d8 []d6 []d4      | Virtudes:     |                |
 > * Lanza 2d6+4 para cada atributo. Puedes intercambiar 2 atributos en la creacción del personaje.
 > * Necesitas 20 puntos de experiencia para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
@@ -16,7 +16,7 @@ ___
 | Eigue 1 clase     | Daño | Dado/Salud   | Humanidad | Competente |
 | :---------------- | :--- | :----------- | :-------- | :--------- |
 | [] Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras ligeras, medias y todas las armas excepto las de 2 manos. |
-| [] Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifes, lanzallamas y granadas. |
+| [] Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifles, lanzallamas y granadas. |
 | [] Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo. |         
 | [] Errante        | 2d4  | d8/d8+4(8)   | d12       | Armas cuerpo a cuerpo y pistolas. |
 | [] Psiónico       | d4   | d6/d6+4(7)   | d8        |            |
