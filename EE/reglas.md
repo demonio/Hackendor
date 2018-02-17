@@ -37,7 +37,7 @@ ___
 Equipo
 ------
 
-| Elemento <sup>precio</sup>           | Dado de uso    | Notas                                                        |
+| Elemento<sup>precio</sup>           | Dado de uso    | Notas                                                        |
 | :----------------------------------- | :------------- | ------------------------------------------------------------ |
 | [] Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No comer a diario, provoca desventaja en todas las pruebas.  | 
 | [] Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                              |
@@ -66,14 +66,14 @@ Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres u
 Armas
 -----
 
-| Cuerpo a cuerpo <sup>precio</sup> | Calidad(B/E/U) | Notas |
+| Cuerpo a cuerpo<sup>precio</sup> | Calidad(B/E/U) | Notas |
 | :-------------------------------- | :------------- | :---- | 
 | [][][] (L)igera <sup>10</sup>     | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
 | [][] A (1M)ano <sup>30</sup>      | []+1 []+2 []+3 |       |
 | [] A (2M)anos <sup>80</sup>       | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
-> * La calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
+> * Calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
-| A distancia <sup>precio/munición</sup>  | Munición(DU)         | Calidad(B/E/U) | Notas |
+| A distancia<sup>precio/munición</sup>  | Munición(DU)         | Calidad(B/E/U) | Notas |
 | :-------------------------------------- | :------------------- | :------------- | :---- |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
 | [] Escopeta <sup>30/3</sup>             | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
@@ -88,7 +88,7 @@ Armas
 Protecciones
 ------------
 
-| Tipo de protección <sup>precio</sup> | Defensa | Nº de mejoras | Calidad excepcional/única |
+| Tipo de protección<sup>precio</sup> | Defensa | Nº de mejoras | Calidad excepcional/única |
 | :----------------------------------- | :------ | :------------ | :------------------------ | 
 | [] (L)igera <sup>30</sup>             | 2       | 0             | []x2 []x3               |
 | [] (M)edia <sup>80</sup>              | 4       | 2             | []x2 []x3
