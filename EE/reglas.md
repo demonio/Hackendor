@@ -52,17 +52,22 @@ Equipo
 | [] Saco de dormir <sup>40</sup>      |                |                                                              | 
 | [] Traje espacial <sup>120</sup>     |                | Aguanta en el espacio 24 horas.                              |
 
+Implantes
+---------
+Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres un Cable, debes comprobar si pierdes humanidad. 
+> * Los implantes tienen un precio entre 5 y 200 créditos a negociar entre comprador y vendedor.
+> * Por cada nombre de implante incluida en tú acción, ganas 1 mejora.
+> * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
+> * Implantes: []Ciberbrazo []Ciberoídos []Ciberojos []Ciberpierna []Conexión táctil []Radio megaklick []Procesador []Ciberesquiva []Ciberpiel []Puerto de entrada []Traductor universal
+
 <hr class="end-col">
 
 Armas
 -----
 
-| Arma cuerpo a cuerpo (CaC) <sup>precio</sup>   | Calidad        |
-| :--------------------------------------------- | :------------- |
-| [][][] (L)igera <sup>10</sup>                  | []+1 []+2 []+3 |
-> * Como máximo hacen 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
-
-| :--------------------------------------------- | :------------- ||
+| Arma cuerpo a cuerpo (CaC) <sup>precio</sup>   | Calidad        | Notas |
+| :--------------------------------------------- | :------------- | :---- | 
+| [][][] (L)igera <sup>10</sup>                  | []+1 []+2 []+3 | Como máximo hacen 5 daños. Con 2 puedes atacar 2 veces pero el daño no explota.
 | [][] A (1M)ano <sup>30</sup>                   | []+1 []+2 []+3 |       |
 | [] A (2M)anos <sup>80</sup>                    | []+1 []+2 []+3 | Las armas a 2 manos penalizan con -2 a la prueba de BIO, pero dan +2 al daño. |
 > * La calidad buena da +1 al impacto y al daño, pero multiplica el precio x2, excepcional +2 y precio x5 y única +3 y precio x10.
@@ -92,14 +97,6 @@ Protecciones
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
 > * Majoras: []Infravisión []Antibalas []Radio megaklick []Linterna []Escudo de fuerza []Propulsores []Inhibior de explosión []Sistema de puntería []Regeneración
 > * La calidad excepcional multiplica la defensa x2 y el precio x8, única x3 y precio x20.
-
-Implantes
----------
-Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres un Cable, debes comprobar si pierdes humanidad. 
-> * Los implantes tienen un precio entre 5 y 200 créditos a negociar entre comprador y vendedor.
-> * Por cada nombre de implante incluida en tú acción, ganas 1 mejora.
-> * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
-> * Implantes: []Ciberbrazo []Ciberoídos []Ciberojos []Ciberpierna []Conexión táctil []Radio megaklick []Procesador []Ciberesquiva []Ciberpiel []Puerto de entrada []Traductor universal
 
 <hr class="end-page">
 
