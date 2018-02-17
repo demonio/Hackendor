@@ -105,14 +105,14 @@ Protecciones
 
 Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
 =====================================================================
-### Reglas
+### Pruebas
 > * Cuando pongas a pruaba a un PJ, este debe superar o igualar la dificultad de uno de sus atributos con 1d20.
 > * Siempre que en 1d20 salga un 1 el resultado es un fallo automático y un 20 es un éxito automático.
 > * Por cada venjata que tenga el PJ, este tira 1d20 adicional y escoge el mejor resultado. Con desventaja el peor resultado.
 > * El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.
-> * NO SE PUEDEN REPETIR LAS TIRADAS Y SE ELIMINAN LOS DECIMALES SI LOS HUBIERA.
+> * *No se pueden repetir las tiradas y se eliminan los decimales si los hubiera*.
 > * Algunos modificadores se aplican después de lanzar el dado y antes de compararlo con el atributo.
-> * SOLAMENTE SE APLICA UN BONUS Y/O UN MALUS, LOS MÁS ALTOS DE CADA TIPO.
+> * *Solamente se aplica un bonus y/o un malus, los más altos de cada tipo*.
 > * El GE nunca tira dados; los PJs atacan, esquivan o superan pruebas. 
 > * Siempre que los PJs fallen 1 tirada que no sea de combate, ni tenga consecuencia, coge 1 ficha de amenaza. 
 
@@ -136,7 +136,8 @@ Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
 > * Los PJs pueden verse en desventaja o reaccionar de forma inexperada si adquieren un estado que altera su condición.  
 Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
-
+### Cambios de estado
+> * 
 
 
 
