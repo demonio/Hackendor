@@ -36,21 +36,21 @@ ___
 Equipo
 ------
 
-| Elemento <sup>precio</sup>           | Dado de uso    | Notas                                                             |
-| :----------------------------------- | :------------- | ----------------------------------------------------------------- |
-| [] Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No alimentarse a diario, provoca desventaja en todas las pruebas. | 
-| [] Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                                   |
-| [][][] Credstick <sup>5</sup>        |                |                                                                   |
-| [] 10 metros de cuerda <sup>2</sup>  |                |                                                                   |   
-| [] Herramientas <sup>15</sup>        |                |                                                                   |
-| [] Kit médico <sup>50</sup>          | []d6 []d4      | Cura 1d6 puntos de salud sobre un objetivo en alcance inmediato.  |
-| [] Linterna <sup>5</sup>             | []d6 []d4      |                                                                   |
-| [][][] Nanomemoria <sup>20</sup>     |                |                                                                   |
-| [] Ordenador portátil <sup>80</sup>  |                |                                                                   |
-| [] Ropas comunes <sup>20</sup>       |                |                                                                   | 
-| [] Ropas lujosas <sup>200</sup>      |                | En ciertos ambientes te otorgan ventaja cuando tratas con otros.  |
-| [] Saco de dormir <sup>40</sup>      |                |                                                                   | 
-| [] Traje espacial <sup>120</sup>     |                | Aguanta en el espacio 24 horas.                                   |
+| Elemento <sup>precio</sup>           | Dado de uso    | Notas                                                        |
+| :----------------------------------- | :------------- | ------------------------------------------------------------ |
+| [] Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No comer a diario, provoca desventaja en todas las pruebas.  | 
+| [] Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                              |
+| [][][] Credstick <sup>5</sup>        |                |                                                              |
+| [] 10 metros de cuerda <sup>2</sup>  |                |                                                              |   
+| [] Herramientas <sup>15</sup>        |                |                                                              |
+| [] Kit médico <sup>50</sup>          | []d6 []d4      | Cura 1d6 puntos de salud a un objetivo en alcance inmediato. |
+| [] Linterna <sup>5</sup>             | []d6 []d4      |                                                              |
+| [][][] Nanomemoria <sup>20</sup>     |                |                                                              |
+| [] Ordenador portátil <sup>80</sup>  |                |                                                              |
+| [] Ropas comunes <sup>20</sup>       |                |                                                              | 
+| [] Ropas lujosas <sup>200</sup>      |                | En ciertos ambientes ganas ventaja cuando tratas con otros.  |
+| [] Saco de dormir <sup>40</sup>      |                |                                                              | 
+| [] Traje espacial <sup>120</sup>     |                | Aguanta en el espacio 24 horas.                              |
 
 <hr class="end-col">
 
