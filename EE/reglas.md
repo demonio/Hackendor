@@ -13,14 +13,14 @@ Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 > * Necesitas 20 puntos de experiencia para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
 
-| Eigue 1 clase     | Daño | Dado/Salud   | Humanidad | Competente |
-| :---------------- | :--- | :----------- | :-------- | :--------- |
-| [] Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras ligeras, medias y todas las armas excepto las de 2 manos. |
-| [] Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras ligeras, medias, armas cuerpo a cuerpo y pistolas, escopetas, rifles, lanzallamas y granadas. |
-| [] Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo. |         
-| [] Errante        | 2d4  | d8/d8+4(8)   | d12       | Armas cuerpo a cuerpo y pistolas. |
-| [] Psiónico       | d4   | d6/d6+4(7)   | d8        |            |
-| [] Soldado        | d8   | d10/d10+4(9) | d10       | Todas las armas y armaduras. |
+| Eigue 1 clase     | Daño | Dado/Salud   | Humanidad | Competente                                                             |
+| :---------------- | :--- | :----------- | :-------- | :--------------------------------------------------------------------- |
+| [] Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras ligeras, medias y todas las armas excepto las de 2 manos.    |
+| [] Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras ligeras, medias y todas las armas excepto el cañón de asato. |
+| [] Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras ligeras y armas ligeras cuerpo a cuerpo.                     |
+| [] Errante        | 2d4  | d8/d8+4(8)   | d12       | Armas cuerpo a cuerpo y pistolas.                                      |
+| [] Psiónico       | d4   | d6/d6+4(7)   | d8        |                                                                        |
+| [] Soldado        | d8   | d10/d10+4(9) | d10       | Todas las armas y armaduras.                                           |
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente en estas armas.
 
