@@ -76,8 +76,10 @@ Armas
 | A distancia <sup>precio/munición</sup>  | Munición-(DU)------- | Calidad(B/E/U) | Notas |
 | :-------------------------------------- | :------------------- | :------------- | :---- |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
+| [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | |
 | [] Escopeta <sup>30/3</sup>             | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
 | [] Rifle semiautomático <sup>80/8</sup> | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | Las armas automáticas disparan con ventaja pero gastan el doble de munición. Si es semiautomática debes elegir en que modo vas a disparar, 1 bala o 1 rafaga. |
+| [] Rifle semiautomático <sup>80/8</sup> | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | |
 | [] Rifle de precisión <sup>120/12</sup> | []d6 []d4            | []+1 []+2 []+3 | El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante. Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño. |
 | [] Lanzallamas <sup>60/6</sup>          | []d6 []d4            | []+1 []+2 []+3 | El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño. |
 | [] Cañon de asalto <sup>160/16</sup>    | []d8 []d6 []d4       | []+1 []+2 []+3 | El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño. |
