@@ -1,14 +1,14 @@
 Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 ======================================================================
 
-|             | Dificultad |                |                                 |           | Palabras clave |
-| ----------: | :--------- | -------------: | :------------------------------ | --------: | -------------- |
-| BIO:        |            | Nombre:        |                                 | Pasado:   |                |
-| COM:        |            | (N)ivel:       |                                 |           |                |
-| PSI:        |            | (EXP)eriencia: |                                 | Presente: |                |
-| TEC:        |            | (D)efensa:     |                                 |           |                |
-|             | **3d6x10** | (PS)alud:      |                                 | Futuro:   |                |
-| (C)réditos: |            | (H)umanidad:   | []d12 []d10 []d8 []d6 []d4      |           |                |
+|             | Dificultad |                |                            |           | Palabras clave |
+| ----------: | :--------- | -------------: | :------------------------- | --------: | :------------- |
+| BIO:        |            | Nombre:        |                            | Pasado:   |                |
+| COM:        |            | (N)ivel:       |                            |           |                |
+| PSI:        |            | (EXP)eriencia: |                            | Presente: |                |
+| TEC:        |            | (D)efensa:     |                            |           |                |
+|             | **3d6x10** | (PS)alud:      |                            | Futuro:   |                |
+| Créditos:   |            | (H)umanidad:   | []d12 []d10 []d8 []d6 []d4 |           |                |
 > * Lanza 2d6+4 para cada atributo. Puedes intercambiar 2 atributos en la creacción del personaje.
 > * Necesitas 20 puntos de experiencia para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
@@ -24,8 +24,8 @@ ___
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente.
 
-| Segun tú clase     | Puesto     | Palabras clave                              |
-| :----------------- | :--------- | ------------------------------------------- |
+| Segun tú clase     | Puesto     | Trasfondo en palabras clave                 |
+| :----------------- | :--------- | :------------------------------------------ |
 | [] Cable           | Cálculo    | _[Bajos fondos] [Ingeniería] [Mecánica]_    |
 | [] Contrabandista  | Manejo     | _[Bajos fondos] [Mecánica] [Naturaleza]_    |
 | [] Diplomático     | Ninguno    | _[Altas esferas] [Liderazgo] [Política]_    |
@@ -98,8 +98,26 @@ Protecciones
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
 > * Por cada nombre de mejora incluida en tú acción, ganas ventaja.
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
-> * Majoras: []Infravisión []Antibalas []Radio megaklick []Linterna []Escudo de fuerza []Propulsores []Inhibior de explosión []Sistema de puntería []Regeneración
+> * Mejoras: []Infravisión []Antibalas []Radio megaklick []Linterna []Escudo de fuerza []Propulsores []Inhibior de explosión []Sistema de puntería []Regeneración
 > * La calidad excepcional multiplica la defensa x2 y el precio x8, única x3 y precio x20.
+
+<hr class="end-page">
+
+Estrellas Errante (hack del demonio) — Hoja de la nave
+======================================================
+
+|             | Dificultad |              |                            |               | Trupulación |
+| ----------: | :--------- | -----------: | :------------------------- | ------------: | :---------- |
+| Manejo:     |            | Nombre:      |                            | (M)anejo:     |             |
+| Cálculo:    |            | (N)ivel:     |                            | (C)álculo:    |             |
+| Artillería: |            | (D)efensa:   |                            | (A)rtillería: |             |
+|             |            | (PS)alud:    |                            | (A)rtillería: |             |
+| Precio:     |            | Combustible: | []d12 []d10 []d8 []d6 []d4 | (A)rtillería:               |
+
+<hr class="end-page">
+
+Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
+=====================================================================
 
 <hr class="end-page">
 
@@ -211,14 +229,6 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 | 7-9   | A la deriva  | Los daños graves producidos hacen inhabitable la nave en 2d6 intervalos. |
 | 10-11 | Inutilizada  | Los puestos de artillería y cálculo han quedado inservibles.             |
 | 12    | Desarmada    | Los puestos de artillería han quedado inservibles.                       |
-
-<hr class="end-page">
-
-Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
-=====================================================================
-
-
-
 
 
 
