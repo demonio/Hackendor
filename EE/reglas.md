@@ -103,8 +103,8 @@ Protecciones
 
 <hr class="end-page">
 
-Estrellas Errante (hack del demonio) — Hoja del Guargian Estelar (GE)
-=====================================================================
+Estrellas Errante (hack del demonio) — Reglas
+=============================================
 ### Pruebas
 > * Cuando pongas a pruaba a un PJ, este debe superar o igualar la dificultad de uno de sus atributos con 1d20.
 > * Siempre que en 1d20 salga un 1 el resultado es un fallo automático y un 20 es un éxito automático.
@@ -212,6 +212,10 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 | 10-11 | Inutilizada  | Los puestos de artillería y cálculo han quedado inservibles.             |
 | 12    | Desarmada    | Los puestos de artillería han quedado inservibles.                       |
 
+<hr class="end-page">
+
+Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
+=====================================================================
 
 
 
