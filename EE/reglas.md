@@ -157,4 +157,46 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 > * Proteger: El PJ puede ponerse en medio entre el disparo o ataque y el aliado objetivo.
 > * Otra: Cambiar de arma, recargar o similar.
 
+<hr class="end-col">
+
+### Superioridad
+> * La diferencia de niveles entre un PJ y un obstaculo u oponente se traduce a un penalizador de -1 por nivel de diferencia. Los PJs no sabran el nivel de los PNJs hasta que se enfrenten a ellos.
+
+### Reflejos
+> * A no ser que el PJ este dormido, incosciente o sorprendido, siempre tiene derecho a esquivar un ataque cuerpo a cuerpo con una prueba de BIO, o a evitar un disparo también con BIO pero con desventaja.
+
+### Salvación
+> * Se realiza una prueba sobre un atributo que se ha visto sometido a un efecto pernicioso.
+
+### Daño
+> * Como particularidad hay que saber que los dados de daño explotan. Si en un dado se saca el máximo posible, este se vuelve a tirar y se añade a la suma total de daño. Es una forma de representar en que localización del cuerpo se ha impactado.
+
+### Curacón
+> * Los dados lanzados para curar también explotan. Los PJs con el rasgo de Medicina o Naturaleza pueden hacer primeros auxilios efectivos que restauren 1d4 PS, el resto de PJ solo curan 1 PS. Hospitalizado o con curaciones usando tecnología avanzada, por día se restaura 1d6+4 PS.
+
+### Muerte
+> * Cuando llegas a 0 o menos puntos de vida lanza 2d6-x donde x son los puntos de vida por debajo de 0.
+| 2d6-x | Resultado    | Descripción                                                                             |
+| :---- | :----------- | :-------------------------------------------------------------------------------------- |
+| x-2   | Muerte       | El barquero del espacio sideral te acoge en el limbo.                                   |
+| 3-4   | Secuela      | Después del combate ganas 1 PS y tú BIO y CON suben la dificultad en +2.                |
+| 5-6   | Herida       | Después del combate ganas 1 PS y estás incapacitado hasta ser curado.                   |
+| 7-9   | Aturdimiento | Después del combate ganas 1 PS y haces todas las pruebas con desventaja 1d6 intervalos. |
+| 10-12 | Incosciencia | Después del combate ganas 1 PS y la conciencia 1d6 intervalos.                          |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
