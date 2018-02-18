@@ -192,11 +192,14 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
 ### Combate estelar
 1. Los PJs actuan primero, excepto en una emboscada que no ha sido detectada usando **cálculo**.
-1. Usando **manejo** para realizar una maniobra evasiva u ofensiva. Fallar una maniobra de las dos supone ser disparado por las naves enemigas.
+1. Usando **manejo** para realizar una maniobra evasiva u ofensiva. Fallar una de estas maniobras hace que el enemigo fije objetivo en la nave.
+ fijado como objetivo de naves enemigas.
 1. Con dos maniobras evasivas exitosas y consecutivas, se puede saltar al hiperespacio usando **cálculo**.
 1. Con una maniobra ofensiva exitosa, se puede realizar una prueba de **cálculo** para fijar objetivos.
 1. Si se han fijado objetivos con éxito, se pueden realizar las acciones de **artillería**.
-1. Si los escudos han sido dañados, un PJ abandonado su puesto, puede invertir 2 turnos y superar una prueba de TEC para reestablecerlos al completo. Si recibe ayuda puede realizar la prueba con ventaja.
+1. Si los enemigos han fijado objetivo sobre la nave, fallar una prueba de **manejo** para esquivar, supone recibir el daño.
+
+> * Si los escudos han sido dañados, un PJ abandonado su puesto, puede invertir 2 turnos y superar una prueba de TEC para reestablecerlos al completo. Si recibe ayuda puede realizar la prueba con ventaja.
 
 
 
