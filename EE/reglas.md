@@ -177,7 +177,7 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 ### Muerte
 > * Cuando llegas a 0 o menos PS lanza 2d6-X donde X son los PS por debajo de 0.
 
-| 2d6-x | Resultado    | Descripción                                                              |
+| 2d6-X | Resultado    | Descripción                                                              |
 | :---- | :----------- | :----------------------------------------------------------------------- |
 | x-2   | Muerte       | El barquero del espacio sideral te acoge en el limbo.                    |
 | 3-4   | Secuela      | Después del combate ganas 1 PS y tú BIO y CON suben la dificultad en +2. |
@@ -204,7 +204,7 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 ### Destrucción de la nave
 > * Cuando la nave llega a 0 o menos PS, un PJ lanza 2d6-X donde X son los PS de la nave por debajo de 0.
 
-| 2d6-x | Resultado    | Descripción                                                              |
+| 2d6-X | Resultado    | Descripción                                                              |
 | :---- | :----------- | :----------------------------------------------------------------------- |
 | x-2   | Explosión    | El barquero del espacio sideral os acoge a todos en el Limbo.            |
 | 4-6   | Huida        | La nave arde, pero la tripulación logra escapar en cápsulas.             |
