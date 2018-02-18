@@ -190,11 +190,15 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 > * Los PJs deben usar la dificultad más alta entre su TEC y el puesto que maneja en la nave.
 > * Hay que realizar una tirada de combustible cada 4 horas de viaje, al tratar de reparar una averio y antes e realizar un salto.
 > * Los PJs actuan primero en combate estelar en el siguiente orden:
-	
+
+1. Los PJs actuan primero en combate estelar, excepto en una emboscada que no ha sido detectada usando **cálculo**.
 1. Usando **manejo** para realizar una maniobra evasiva u ofensiva. Fallar una maniobra de las dos supone ser disparado por las naves enemigas.
-1. Con una maniobra evasiva exitosa, se puede saltar al hiperespacio superando una prueba de **cálculo**.
+1. Con dos maniobras evasivas exitosas y consecutivas, se puede saltar al hiperespacio usando **cálculo**.
 1. Con una maniobra ofensiva exitosa, se puede realizar una prueba de **cálculo** para fijar objetivos.
-1. Si se han fijado objetivos con éxito, se pueden realizar las acciones de artillería.
+1. Si se han fijado objetivos con éxito, se pueden realizar las acciones de **artillería**.
+1. Si los escudos han sido dañados, un PJ abandonado su puesto, puede invertir 2 turnos y superar una prueba de TEC para reestablecerlos al completo. Si recibe ayuda puede realizar la prueba con ventaja.
+
+
 
 
 
