@@ -106,13 +106,24 @@ Protecciones
 Estrellas Errante (hack del demonio) — Hoja de la nave
 ======================================================
 
-|             | Dificultad |              |                            |               | Trupulación |
+|             | Dificultad |              |                            |               | Tripulación |
 | ----------: | :--------- | -----------: | :------------------------- | ------------: | :---------- |
 | Manejo:     |            | Nombre:      |                            | (M)anejo:     |             |
 | Cálculo:    |            | (N)ivel:     |                            | (C)álculo:    |             |
 | Artillería: |            | (D)efensa:   |                            | (A)rtillería: |             |
 |             |            | (PS)alud:    |                            | (A)rtillería: |             |
 | Precio:     |            | Combustible: | []d12 []d10 []d8 []d6 []d4 | (A)rtillería:               |
+___
+
+| Nave <sup>precio</sup>      | Atributos      | Daño | Defensa/Salud | Combustibe | Puestos   |
+| :-------------------------- | :------------- | ---: | :------------ | :--------- | :-------- |
+| [] Corsario <sup>750K</sup> | M:13 C:13 A:10 | 1d12 | 20/8          | 1d10       | 1M 1C 3A  |
+| [] Cuervo <sup>70K</sup>    | M:8 C:15 A:10  | 1d4  | 4/6           | 1d6        | 1(M/C/A)  |
+
+| Nave        | Mejoras                                                                                               |
+| :---------- | :---------------------------------------------------------------------------------------------------- |
+| [] Corsario | Lleva consigo hasta 12 naves Garfio.                                                                  |
+| [] Cuervo   | Fija objetivo automáticamente con cada maniobra ofensiva exitosa. Tiene ventaja en prueba de evasión. |
 
 <hr class="end-page">
 
