@@ -174,8 +174,9 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 ### Curacón
 > * Los dados lanzados para curar también explotan. Los PJs con el rasgo de Medicina o Naturaleza pueden hacer primeros auxilios efectivos que restauren 1d4 PS, el resto de PJ solo curan 1 PS. Hospitalizado o con curaciones usando tecnología avanzada, por día se restaura 1d6+4 PS.
 
-### Muerte
+### Muerte
 > * Cuando llegas a 0 o menos puntos de vida lanza 2d6-x donde x son los puntos de vida por debajo de 0.
+
 | 2d6-x | Resultado    | Descripción                                                                             |
 | :---- | :----------- | :-------------------------------------------------------------------------------------- |
 | x-2   | Muerte       | El barquero del espacio sideral te acoge en el limbo.                                   |
