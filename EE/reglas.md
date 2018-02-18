@@ -185,8 +185,15 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 | 7-9   | Aturdimiento | Después del combate ganas 1 PS y actuas con desventaja 1d6 intervalos.   |
 | 10-12 | Incosciencia | Después del combate ganas 1 PS y la conciencia 1d6 intervalos.           |
 
-
-
+### Naves
+> * La diferencia de niveles entre naves supone un modificador a las pruebas como sucede entre personajes.
+> * Los PJs deben usar la dificultad más alta entre su TEC y el puesto que maneja en la nave.
+> * Hay que realizar una tirada de combustible cada 4 horas de viaje, al tratar de reparar una averio y antes e realizar un salto.
+> * Los PJs actuan primero en combate estelar en el siguiente orden:
+	1. Usando **manejo** para realizar una maniobra evasiva u ofensiva. Fallar una maniobra de las dos supone ser disparado por las naves enemigas.
+	1. Con una maniobra evasiva exitosa, se puede saltar al hiperespacio superando una prueba de **cálculo**.
+	1. Con una maniobra ofensiva exitosa, se puede realizar una prueba de **cálculo** para fijar objetivos.
+	1. Si se han fijado objetivos con éxito, se pueden realizar las acciones de artillería.
 
 
 
