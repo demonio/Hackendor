@@ -139,6 +139,17 @@ ___
 | [] Superdestructor | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
 | [] Tritón          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
 
+### Distancias en el espacio
+| Medida         | Descripción               |
+| :------------- | :------------------------ |
+| Klick (k)      | Equivalente al kilometro. |
+| Kiloklick (kk) | Mil klicks.               |
+| Megaklick (mk) | Millón de klicks.         |
+| Gigaklick (gk) | Mil millones de klicks.   |
+| Teraklick (tk) | Un billón de klicks.      |
+| Pársec (pc)    | 31 teraklicks.            |
+
+
 <hr class="end-page">
 
 Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
