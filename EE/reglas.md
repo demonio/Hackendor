@@ -116,20 +116,20 @@ Estrellas Errante (hack del demonio) — Hoja de la nave
 | Precio:     |            | Combustible: | []d12 []d10 []d8 []d6 []d4 | (A)rtillería: |             |
 ___
 
-| Nave <sup>precio</sup>              | Atributos      | Daño | Defensa/Salud | Combustibe | Puestos                    |
-| :---------------------------------- | :------------- | ---: | :------------ | :--------- | :------------------------- |
-| [] Corsario N4 <sup>750K</sup>      | M:13 C:13 A:10 | 1d12 | 20/8          | 1d10       | 1M 1C 3A                   |
-| [] Cuervo N1 <sup>70K</sup>         | M:8 C:15 A:10  | 1d4  | 4/6           | 1d6        | 1(M/C/A)                   |
-| [] Destructor N4 <sup>2M</sup>      | M:14 C:10 A:8  | 2d6  | 20/20         | 1d12       | 1M 1C 8A + 400 pasajeros   |
-| [] Desvelador N2 <sup>900K</sup>    | M:10 C:7 A:14  | 1d4  | 12/12         | 1d4        | 1M 1(C/A) + 4 pasajeros    |
-| [] Explorador N2 <sup>100K</sup>    | M:8 C:12 A:12  | 1d6  | 2/12          | 1d12       | 1M 1C 1A + 4 pasajeros     |
-| [] Garfio N1 <sup>40K</sup>         | M:9 C:- A:14   | 1d4  | 0/8           | 1d4        | 1M 1A                      |
-| [] Comercial N3 <sup>200K</sup>     | M:12 C:11 A:11 | 1d6  | 4/16          | 1d10       | 1M 1(C/A) 2A               |
-| [] Dipomática N3 <sup>700K</sup>    | M:12 C:11 A:10 | 1d8  | 8/16          | 1d10       | 1M 1(C/A) 2A +40 pasajeros |
-| [] Superdestructor N5 <sup>5M</sup> | M:15 C:8 A:8   | 2d6  | 40/30         | 1d12       | 1M 1C 20A + 4000 pasajeros |
-| [] Tiburón N3 <sup>600K</sup>       | M:10 C:13 A:8  | 1d10 | 10/16         | 1d8        | 1M 1C 4A                   |
-| [] Transportador N2 <sup>95K</sup>  | M:11 C:12 A:13 | 1d4  | 0/10          | 1d8        | 1M 1C 1A + 16 pasajeros    |
-| [] Tritón N1 <sup>60K</sup>         | M:6 C:14 A:13  | 1d6  | 6/9           | 1d6        | 1(M/C/A)                   |
+| Nave <sup>precio</sup>              | Atributos      | Daño | D/PS  | Combustibe | Puestos                    |
+| :---------------------------------- | :------------- | ---: | :---- | :--------- | :------------------------- |
+| [] Corsario N4 <sup>750K</sup>      | M:13 C:13 A:10 | 1d12 | 20/8  | 1d10       | 1M 1C 3A                   |
+| [] Cuervo N1 <sup>70K</sup>         | M:8 C:15 A:10  | 1d4  | 4/6   | 1d6        | 1(M/C/A)                   |
+| [] Destructor N4 <sup>2M</sup>      | M:14 C:10 A:8  | 2d6  | 20/20 | 1d12       | 1M 1C 8A + 400 pasajeros   |
+| [] Desvelador N2 <sup>900K</sup>    | M:10 C:7 A:14  | 1d4  | 12/12 | 1d4        | 1M 1(C/A) + 4 pasajeros    |
+| [] Explorador N2 <sup>100K</sup>    | M:8 C:12 A:12  | 1d6  | 2/12  | 1d12       | 1M 1C 1A + 4 pasajeros     |
+| [] Garfio N1 <sup>40K</sup>         | M:9 C:- A:14   | 1d4  | 0/8   | 1d4        | 1M 1A                      |
+| [] Comercial N3 <sup>200K</sup>     | M:12 C:11 A:11 | 1d6  | 4/16  | 1d10       | 1M 1(C/A) 2A               |
+| [] Dipomática N3 <sup>700K</sup>    | M:12 C:11 A:10 | 1d8  | 8/16  | 1d10       | 1M 1(C/A) 2A +40 pasajeros |
+| [] Superdestructor N5 <sup>5M</sup> | M:15 C:8 A:8   | 2d6  | 40/30 | 1d12       | 1M 1C 20A + 4000 pasajeros |
+| [] Tiburón N3 <sup>600K</sup>       | M:10 C:13 A:8  | 1d10 | 10/16 | 1d8        | 1M 1C 4A                   |
+| [] Transportador N2 <sup>95K</sup>  | M:11 C:12 A:13 | 1d4  | 0/10  | 1d8        | 1M 1C 1A + 16 pasajeros    |
+| [] Tritón N1 <sup>60K</sup>         | M:6 C:14 A:13  | 1d6  | 6/9   | 1d6        | 1(M/C/A)                   |
 
 | Nave               | Mejoras                                                                                   |
 | :----------------- | :---------------------------------------------------------------------------------------- |
