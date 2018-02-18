@@ -73,7 +73,7 @@ Armas
 | [] A (2M)anos <sup>80</sup>       | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
 > * Calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
-| A distancia <sup>precio/munición</sup>  | Munición_(DU)        | Calidad___     | Notas |
+| A distancia <sup>precio/munición</sup>  | Munición_(DU)        | Calidad__      | Notas |
 | :-------------------------------------- | :------------------- | :------------- | :---- |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | |
@@ -147,8 +147,14 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 | Lejano    | Entre 9 y 27  | Entre 6 y 18  |
 | Distante  | Superior a 27 | Superior a 18 |
 
-
-
-
+### Acciones
+> * Mover: Moverse para atacar, buscar cobertura o simplemente avanzar. 
+> * Correr: Huir del foco de la escena cambiando de distancia cercana a lejana.
+> * Disparar: Se usa TEC y requiere estar a distancia cercana o lejana.
+> * Atacar: Se usa BIO para atacar cuerpo a cuerpo y requiere estar a distancia inmediata. 
+> * Ayudar: A la siguiente prueba un PJ da ventaja a un aliado objetivo. 
+> * Defender: Se gana ventaja usando una cobertura o esforzandose en esquivar un ataque cuerpo a cuerpo.
+> * Proteger: El PJ puede ponerse en medio entre el disparo o ataque y el aliado objetivo.
+> * Otra: Cambiar de arma, recargar o similar.
 
 
