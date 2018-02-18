@@ -66,14 +66,14 @@ Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres u
 Armas
 -----
 
-| Cuerpo a cuerpo <sup>precio</sup> | Calidad | Notas |
+| Cuerpo a cuerpo <sup>precio</sup> | Calidad        | Notas |
 | :-------------------------------- | :------------- | :---- | 
 | [][][] (L)igera <sup>10</sup>     | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
 | [][] A (1M)ano <sup>30</sup>      | []+1 []+2 []+3 |       |
 | [] A (2M)anos <sup>80</sup>       | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
 > * Calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
-| A distancia <sup>precio/munición</sup>  | Munición_(DU) | Calidad___ | Notas |
+| A distancia <sup>precio/munición</sup>  | Munición_(DU)        | Calidad___     | Notas |
 | :-------------------------------------- | :------------------- | :------------- | :---- |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
 | [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | |
@@ -92,9 +92,9 @@ Protecciones
 
 | Tipo de protección <sup>precio</sup> | Defensa | Nº de mejoras | Calidad excepcional/única |
 | :----------------------------------- | :------ | :------------ | :------------------------ | 
-| [] (L)igera <sup>30</sup>             | 2       | 0             | []x2 []x3               |
-| [] (M)edia <sup>80</sup>              | 4       | 2             | []x2 []x3
-| [] (P)esada <sup>160</sup>            | 8       | 4             | []x2 []x3
+| [] (L)igera <sup>30</sup>            | 2       | 0             | []x2 []x3                 |
+| [] (M)edia <sup>80</sup>             | 4       | 2             | []x2 []x3                 |
+| [] (P)esada <sup>160</sup>           | 8       | 4             | []x2 []x3                 |
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
 > * Por cada nombre de mejora incluida en tú acción, ganas ventaja.
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
@@ -139,9 +139,13 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 ### Iniciativa
 > * El GE y los PJs lanzan 1d6 para ver que bando actua primero.
 
-
-
-
+### Distancias
+|           | Metros        | Casillas      |
+| :-------- | :------------ | :------------ |
+| Inmediato | Entre 0 y 1,5 | Entre 0 y 1   |
+| Cercano   | Entre 1,5 y 9 | Entre 1 y 6   |
+| Lejano    | Entre 9 y 27  | Entre 6 y 18  |
+| Distante  | Superior a 27 | Superior a 18 |
 
 
 
