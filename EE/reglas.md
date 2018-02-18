@@ -66,7 +66,7 @@ Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres u
 Armas
 -----
 
-| Cuerpo a cuerpo <sup>precio</sup> | Calidad___ | Notas |
+| Cuerpo a cuerpo <sup>precio</sup> | Calidad | Notas |
 | :-------------------------------- | :------------- | :---- | 
 | [][][] (L)igera <sup>10</sup>     | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
 | [][] A (1M)ano <sup>30</sup>      | []+1 []+2 []+3 |       |
