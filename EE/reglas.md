@@ -175,7 +175,7 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 > * Los dados lanzados para curar también explotan. Los PJs con el rasgo de Medicina o Naturaleza pueden hacer primeros auxilios efectivos que restauren 1d4 PS, el resto de PJ solo curan 1 PS. Hospitalizado o con curaciones usando tecnología avanzada, por día se restaura 1d6+4 PS.
 
 ### Muerte
-> * Cuando llegas a 0 o menos puntos de vida lanza 2d6-X donde X son los puntos de vida por debajo de 0.
+> * Cuando llegas a 0 o menos PS lanza 2d6-X donde X son los PS por debajo de 0.
 
 | 2d6-x | Resultado    | Descripción                                                              |
 | :---- | :----------- | :----------------------------------------------------------------------- |
@@ -201,8 +201,16 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
 > * Si los escudos han sido dañados, un PJ abandonado su puesto, puede invertir 2 turnos y superar una prueba de TEC para reestablecerlos al completo. Si recibe ayuda puede realizar la prueba con ventaja.
 
+### Destrucción de la nave
+> * Cuando la nave llega a 0 o menos PS, un PJ lanza 2d6-X donde X son los PS de la nave por debajo de 0.
 
-
+| 2d6-x | Resultado    | Descripción                                                              |
+| :---- | :----------- | :----------------------------------------------------------------------- |
+| x-2   | Explosión    | El barquero del espacio sideral os acoge a todos en el Limbo.            |
+| 4-6   | Huida        | La nave arde, pero la tripulación logra escapar en cápsulas.             |
+| 7-9   | A la deriva  | Los daños graves producidos hacen inhabitable la nave en 2d6 intervalos. |
+| 10-11 | Inutilizada  | Los puestos de artillería y cálculo han quedado inservibles.             |
+| 12    | Desarmada    | Los puestos de artillería han quedado inservibles.                       |
 
 
 
