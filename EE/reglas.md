@@ -368,11 +368,10 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 | 7-9   | Aturdimiento | Después del combate ganas 1 PS y actuas con desventaja 1d6 intervalos.   |
 | 10-12 | Incosciencia | Después del combate ganas 1 PS y la conciencia 1d6 intervalos.           |
 
+### Experiencia
 
-
-
-
-
-
-
-
+| Desafío      | EXP | Descripción                                                                    |
+| :----------- | :-- | :----------------------------------------------------------------------------- |
+| Inexistente  | +0  | Se suele dar cuando los PJs huyen fracasan por acciones de bajo riesgo.        |
+| Contratiempo | +1  | El éxito ha sido parcial, los PJs no tuvieron las mejores ideas.               |
+| Peligro      | +3  | La misión fue completada con un éxito abrumador, incluso con grandes perdidas. |
