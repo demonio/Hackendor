@@ -291,6 +291,11 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 
 Estrellas Errante (hack del demonio) — Reglas
 =============================================
+
+### Iniciativa
+> * El GE y los PJs lanzan 1d6 para ver que bando actua primero.
+> * Si quieres puedes usar BIO para determinar la iniciativa. La idea es que actué el que mayor dificultad tenga en su BIO y que cualquier otro personaje con menor dificultad en BIO pueda responder y anticiparse.
+
 ### Acciones
 > * Mover: Moverse para atacar, buscar cobertura o simplemente avanzar. 
 > * Correr: Huir del foco de la escena cambiando de distancia cercana a lejana.
@@ -341,9 +346,6 @@ Estrellas Errante (hack del demonio) — Reglas
 ### Cambios de estado
 > * Los PJs pueden verse en desventaja o reaccionar de forma inexperada si adquieren un estado que altera su condición.  
 Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
-
-### Iniciativa
-> * El GE y los PJs lanzan 1d6 para ver que bando actua primero.
 
 ### Distancias
 |           | Metros        | Casillas      |
