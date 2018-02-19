@@ -283,6 +283,10 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 | Superdestructor N5 | 40      | 30               | 2d6  | Ataca 20 veces o usa megacañón de 1d20x10 PS. |
 |                    | 40      | 30               | 2d6  |                                               |
 
+### Fichas de amenaza
+> * Cuando un PJ falla una tirada (que no sea de combate o tenga consecuencia), ganas 1 ficha de amenaza.
+> * El GE puede canjear 1 ficha de amenaza por 1 nivel de PNJ o nave sin tripulación para por ejemplo generar una emboscada.
+
 <hr class="end-page">
 
 Estrellas Errante (hack del demonio) — Reglas
@@ -300,8 +304,7 @@ Estrellas Errante (hack del demonio) — Reglas
 ### Pruebas
 > * El GE nunca tira dados; los PJs atacan, esquivan o superan pruebas. 
 > * La dificultad de una prueba de atributo sube o baja en función de las ventajas o desventajas acumuladas.
-> * Ejemplo: Disparar a un enemigo bajo cobertura, supone una desventaja y por lo tanto la dificultad de normal subiría a difícil.
-> * Ejemplo: Si además nos estamos moviendo, supone otra desventaja al no poder apuntar mínimamente y por lo tanto pasaría a complicado.
+> * Ejemplo: Disparar a un enemigo bajo cobertura, supone una desventaja y por lo tanto la dificultad de normal subiría a difícil. Si además nos estamos moviendo, supone otra desventaja al no poder apuntar mínimamente, lo que subiría la dificultad, de difícil a complicado.
 > * **El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.**
 
 | Dificultad       | Dados a lanzar para la prueba     | 
@@ -315,7 +318,7 @@ Estrellas Errante (hack del demonio) — Reglas
 | Absurdo          | Fallo automático                  |
 
 > * No se pueden repetir las tiradas y se eliminan los decimales si los hubiera.
-> * Un resultado de 1 es un fallo automático (pifia) y un 20 un éxito automático (critíco), con lo que ello conlleva.
+> * Un resultado de 1 es un fallo automático (pifia) y un 20 un éxito automático (critíco), con lo que eso conlleva.
 > * Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo.
 > * **Cuando los PJs fallan 1 tirada que no sea de combate y esta no ha tenido consecuencias, coge 1 ficha de amenaza.**
 
