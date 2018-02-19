@@ -166,40 +166,15 @@ ___
 Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 =====================================================================
 
-### Enemigos genéricos
-> * A falta de alguan habilidad especial:
-
-| Nivel | Daño      | Defensa | Salud/Temporales |
-| :-----| :-------- | :------ | :--------------- |
-| 1     | 1d4       | 1       | 1d8(4)           |
-| 1     | 1d4       | 1       | 1d8(4)           |
-| 1     | 1d4       | 1       | 1d8(4)           |
-| 1     | 1d4       | 1       | 1d8(4)           |
-| 1     | 1d4       | 1       | 1d8(4)           |
-| 2     | 1d6       | 2       | 2d8(8)           |
-| 2     | 1d6       | 2       | 2d8(8)           |
-| 2     | 1d6       | 2       | 2d8(8)           |
-| 3     | 1d8       | 3       | 3d8(12)          |
-| 4     | 1d10      | 4       | 4d8(16)          |
-| 5     | 1d12      | 5       | 5d8(20)          |
-| 6     | 1d8+1d6   | 6       | 6d8(24)          |
-| 7     | 2d8       | 7       | 7d8(28)          |
-| 8     | 3d6       | 8       | 8d8(32)          |
-| 9     | 2d10      | 9       | 9d8(36)          |
-| 10    | 1d12+1d10 | 10      | 10d8(40)         |
-> * Recuerda que enfrentarse a un obstaculo u oponente de mayor nivel supone un penalizador a las pruebas, igual a la diferencia de niveles.
-
-<hr class="end-col">
-
-### Enemigos de ejemplo
+### Enemigos 
 
 | Bicho                     | Defensa | Salud/Temporales | Peculiaridades(Daño)                                           |
 | :------------------------ | :------ | :--------------- | :------------------------------------------------------------- |
 | Alienigena civilizado N1  | 3       | 1d8(4)           | Pelea(1d4).                                                    |
-|                           | 3       | 1d8(4)           |                                                                |
-|                           | 3       | 1d8(4)           |                                                                |
-|                           | 3       | 1d8(4)           |                                                                |
-|                           | 3       | 1d8(4)           |                                                                |
+|                           | 1       | 1d8(4)           |                                                                |
+|                           | 1       | 1d8(4)           |                                                                |
+|                           | 1       | 1d8(4)           |                                                                |
+|                           | 1       | 1d8(4)           |                                                                |
 | Alienigena sanguinario N1 | 1       | 1d8(4)           | 2xGarra(1d2) y 1xMordisco(1d4).                                | 
 |                           | 1       | 1d8(4)           |                                                                | 
 |                           | 1       | 1d8(4)           |                                                                | 
@@ -225,9 +200,19 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 |                           | 2       | 2d8(8)           |                                                                | 
 |                           | 2       | 2d8(8)           |                                                                | 
 | Alienigena aterrador N3   | 3       | 3d8(12)          | Ataca la mente del rival causando 1d6 PS y 1d6A de miedo.      | 
+|                           | 3       | 3d8(12)          |                                                                | 
 | Alienigena bruto N3       | 3       | 3d8(12)          | Pelea(1d8). El rival ataca con ventaja.                        | 
+|                           | 3       | 3d8(12)          |                                                                | 
 | Alienigena pegajoso N4    | 4       | 4d8(16)          | Si el rival falla una prueba de BIO(1d10+paralizado 1A).       |
+|                           | 4       | 4d8(16)          |                                                                |
 | Alienigena aberrante N5   | 5       | 5d8(20)          | El rival evita con desventaja. 2xGarra(1d6) y 1xMordisco(2d6). |
+|                           | 5       | 5d8(20)          |                                                                |
+| N6                        | 6       | 6d8(24)          | (1d8+1d6)                                                      |
+| N7                        | 7       | 7d8(28)          | (2d8)                                                          |
+| N8                        | 8       | 8d8(32)          | (3d6)                                                          |
+| N9                        | 9       | 9d8(36)          | (2d10)                                                         |
+| N10                       | 10      | 10d8(40)         | (1d12+1d10)                                                    |
+> * Recuerda que enfrentarse a un obstaculo u oponente de mayor nivel supone un penalizador a las pruebas, igual a la diferencia de niveles.
 
 <hr class="end-page">
 
