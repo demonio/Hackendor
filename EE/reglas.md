@@ -161,7 +161,6 @@ ___
 | Teraklick (tk) | Un billón de klicks.      |
 | Pársec (pc)    | 31 teraklicks.            |
 
-
 <hr class="end-page">
 
 Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
@@ -180,9 +179,6 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 | 2     | 1d6       | 2       | 2d8(8)           |
 | 2     | 1d6       | 2       | 2d8(8)           |
 | 2     | 1d6       | 2       | 2d8(8)           |
-| 2     | 1d6       | 2       | 2d8(8)           |
-| 3     | 1d8       | 3       | 3d8(12)          |
-| 3     | 1d8       | 3       | 3d8(12)          |
 | 3     | 1d8       | 3       | 3d8(12)          |
 | 4     | 1d10      | 4       | 4d8(16)          |
 | 5     | 1d12      | 5       | 5d8(20)          |
@@ -193,23 +189,45 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 | 10    | 1d12+1d10 | 10      | 10d8(40)         |
 > * Recuerda que enfrentarse a un obstaculo u oponente de mayor nivel supone un penalizador a las pruebas, igual a la diferencia de niveles.
 
+<hr class="end-col">
+
 ### Enemigos de ejemplo
 
-| Bicho                     | Defensa | Salud/Temporales | Habilidad(Daño)                                                |
+| Bicho                     | Defensa | Salud/Temporales | Peculiaridades(Daño)                                           |
 | :------------------------ | :------ | :--------------- | :------------------------------------------------------------- |
 | Alienigena civilizado N1  | 3       | 1d8(4)           | Pelea(1d4).                                                    |
+|                           | 3       | 1d8(4)           |                                                                |
+|                           | 3       | 1d8(4)           |                                                                |
+|                           | 3       | 1d8(4)           |                                                                |
+|                           | 3       | 1d8(4)           |                                                                |
 | Alienigena sanguinario N1 | 1       | 1d8(4)           | 2xGarra(1d2) y 1xMordisco(1d4).                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
 | Alienigena sediento N1    | 1       | 1d8(4)           | 1xMordisco(1d4) y Chupando(1d6/A).                             | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
 | Humano enloquecido N1     | 1       | 1d8(4)           | El rival evita con desventaja. Pelea(1d4).                     | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
+|                           | 1       | 1d8(4)           |                                                                | 
 | Alienigena drenador N2    | 2       | 2d8(8)           | El rival pierde EXP igual al daño causado(1d6).                | 
+|                           | 2       | 2d8(8)           |                                                                | 
+|                           | 2       | 2d8(8)           |                                                                | 
 | Alienigena guerrero N2    | 2       | 2d8(8)           | Si no se supera una prueba de BIO en vez de 1d6 hace 3d6 PS.   | 
+|                           | 2       | 2d8(8)           |                                                                | 
+|                           | 2       | 2d8(8)           |                                                                | 
 | Mutado carnófago N2       | 2       | 2d8(8)           | 2xGarra(1d3) y 1xMordisco(1d4+1 asalto paralizado).            | 
+|                           | 2       | 2d8(8)           |                                                                | 
+|                           | 2       | 2d8(8)           |                                                                | 
 | Alienigena aterrador N3   | 3       | 3d8(12)          | Ataca la mente del rival causando 1d6 PS y 1d6A de miedo.      | 
-| Alienigena bruto N3       | 3       | 3d8(12)          | El rival ataca con ventaja.                                    | 
-| Alienigena pegajoso N4    | 4       | 4d8(16)          | Si el rival falla una prueba de BIO, queda paralizado 1A.      |
+| Alienigena bruto N3       | 3       | 3d8(12)          | Pelea(1d8). El rival ataca con ventaja.                        | 
+| Alienigena pegajoso N4    | 4       | 4d8(16)          | Si el rival falla una prueba de BIO(1d10+paralizado 1A).       |
 | Alienigena aberrante N5   | 5       | 5d8(20)          | El rival evita con desventaja. 2xGarra(1d6) y 1xMordisco(2d6). |
-
-
 
 <hr class="end-page">
 
