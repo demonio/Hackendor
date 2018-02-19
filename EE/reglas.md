@@ -106,43 +106,6 @@ Protecciones
 Estrellas Errante (hack del demonio) — Hoja de la nave
 ======================================================
 
-### Distancias en el espacio
-| Medida         | Descripción               |
-| :------------- | :------------------------ |
-| Klick (k)      | Equivalente al kilometro. |
-| Kiloklick (kk) | Mil klicks.               |
-| Megaklick (mk) | Millón de klicks.         |
-| Gigaklick (gk) | Mil millones de klicks.   |
-| Teraklick (tk) | Un billón de klicks.      |
-| Pársec (pc)    | 31 teraklicks.            |
-
-### Combate estelar
-1. Los PJs actuan primero, excepto en una emboscada que no ha sido detectada usando **cálculo**.
-1. Usando **manejo** para realizar una maniobra evasiva u ofensiva. Fallar una de estas maniobras hace que el enemigo fije objetivo en la nave.
- fijado como objetivo de naves enemigas.
-1. Con dos maniobras evasivas exitosas y consecutivas, se puede saltar al hiperespacio usando **cálculo**.
-1. Con una maniobra ofensiva exitosa, se puede realizar una prueba de **cálculo** para fijar objetivos.
-1. Si se han fijado objetivos con éxito, se pueden realizar las acciones de **artillería**.
-1. Si los enemigos han fijado objetivo sobre la nave, fallar una prueba de **manejo** para esquivar, supone recibir el daño.
-
-> * La diferencia de niveles entre naves supone un modificador a las pruebas como sucede entre personajes.
-> * Los PJs deben usar la dificultad más alta entre su TEC y el puesto que maneja en la nave.
-> * Hay que realizar una tirada de combustible cada 4 horas de viaje, al tratar de reparar una averio y antes e realizar un salto.
-> * Si los escudos han sido dañados, un PJ abandonado su puesto, puede invertir 2 turnos y superar una prueba de TEC para reestablecerlos al completo. Si recibe ayuda puede realizar la prueba con ventaja.
-
-### Destrucción de la nave
-> * Cuando la nave llega a 0 o menos PS, un PJ lanza 2d6-X donde X son los PS de la nave por debajo de 0.
-
-| 2d6-X | Resultado    | Descripción                                                              |
-| :---- | :----------- | :----------------------------------------------------------------------- |
-| x-2   | Explosión    | El barquero del espacio sideral os acoge a todos en el Limbo.            |
-| 4-6   | Huida        | La nave arde, pero la tripulación logra escapar en cápsulas.             |
-| 7-9   | A la deriva  | Los daños graves producidos hacen inhabitable la nave en 2d6 intervalos. |
-| 10-11 | Inutilizada  | Los puestos de artillería y cálculo han quedado inservibles.             |
-| 12    | Desarmada    | Los puestos de artillería han quedado inservibles.                       |
-
-<hr class="end-col">
-
 |             | Dificultad |              |                            |               | Tripulación |
 | ----------: | :--------- | -----------: | :------------------------- | ------------: | :---------- |
 | Manejo:     |            | Nombre:      |                            | (M)anejo:     |             |
@@ -187,6 +150,43 @@ ___
 | [] Garfio          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
 | [] Superdestructor | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
 | [] Tritón          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
+
+<hr class="end-col">
+
+### Distancias en el espacio
+| Medida         | Descripción               |
+| :------------- | :------------------------ |
+| Klick (k)      | Equivalente al kilometro. |
+| Kiloklick (kk) | Mil klicks.               |
+| Megaklick (mk) | Millón de klicks.         |
+| Gigaklick (gk) | Mil millones de klicks.   |
+| Teraklick (tk) | Un billón de klicks.      |
+| Pársec (pc)    | 31 teraklicks.            |
+
+### Combate estelar
+1. Los PJs actuan primero, excepto en una emboscada que no ha sido detectada usando **cálculo**.
+1. Usando **manejo** para realizar una maniobra evasiva u ofensiva. Fallar una de estas maniobras hace que el enemigo fije objetivo en la nave.
+ fijado como objetivo de naves enemigas.
+1. Con dos maniobras evasivas exitosas y consecutivas, se puede saltar al hiperespacio usando **cálculo**.
+1. Con una maniobra ofensiva exitosa, se puede realizar una prueba de **cálculo** para fijar objetivos.
+1. Si se han fijado objetivos con éxito, se pueden realizar las acciones de **artillería**.
+1. Si los enemigos han fijado objetivo sobre la nave, fallar una prueba de **manejo** para esquivar, supone recibir el daño.
+
+> * La diferencia de niveles entre naves supone un modificador a las pruebas como sucede entre personajes.
+> * Los PJs deben usar la dificultad más alta entre su TEC y el puesto que maneja en la nave.
+> * Hay que realizar una tirada de combustible cada 4 horas de viaje, al tratar de reparar una averio y antes e realizar un salto.
+> * Si los escudos han sido dañados, un PJ abandonado su puesto, puede invertir 2 turnos y superar una prueba de TEC para reestablecerlos al completo. Si recibe ayuda puede realizar la prueba con ventaja.
+
+### Destrucción de la nave
+> * Cuando la nave llega a 0 o menos PS, un PJ lanza 2d6-X donde X son los PS de la nave por debajo de 0.
+
+| 2d6-X | Resultado    | Descripción                                                              |
+| :---- | :----------- | :----------------------------------------------------------------------- |
+| x-2   | Explosión    | El barquero del espacio sideral os acoge a todos en el Limbo.            |
+| 4-6   | Huida        | La nave arde, pero la tripulación logra escapar en cápsulas.             |
+| 7-9   | A la deriva  | Los daños graves producidos hacen inhabitable la nave en 2d6 intervalos. |
+| 10-11 | Inutilizada  | Los puestos de artillería y cálculo han quedado inservibles.             |
+| 12    | Desarmada    | Los puestos de artillería han quedado inservibles.                       |
 
 <hr class="end-page">
 
