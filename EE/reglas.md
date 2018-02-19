@@ -130,6 +130,18 @@ ___
 | [] Tiburón N3 <sup>600K</sup>       | M:10 C:13 A:8  | 1d10 | 10/16 | 1d8        | 1M 1C 4A                   |
 | [] Transportador N2 <sup>95K</sup>  | M:11 C:12 A:13 | 1d4  | 0/10  | 1d8        | 1M 1C 1A + 16 pasajeros    |
 | [] Tritón N1 <sup>60K</sup>         | M:6 C:14 A:13  | 1d6  | 6/9   | 1d6        | 1(M/C/A)                   |
+> * Las naves viajan a 180 gk/h sin necesidad de saltar, más 20 gk/h por nivel.
+> * Las naves saltan a 1 pc/s por nivel con garantías en 5' y forzando en 12".
+> * Un salto de más de 10 segundos provoca en la tripulación una posible perdida de humanidad.
+> * Fallar la prueba de cálculo supone que la nave aparece en algún lugar inexperado:
+
+| 2d6   | Resultado    | Descripción                                                                 |
+| :---- | :----------- | :-------------------------------------------------------------------------- |
+| 2     | Muerte       | La nave aparece junto a un agujero negro y sois absorvidos hacia la muerte. |
+| 3-4   | Peligro      | La nave aparece en un peligroso campo de asteroides.                        |
+| 5-6   | Perdidos     | La nave aparece lejos en un sistema desconocido.                            |
+| 7-9   | Aislados     | La nave aparece en un sistema aparentemente deshabitado.                    |
+| 10-12 | Vigilados    | La nave aparece en un sistema habitado y se sienten observados.             |
 
 | Nave               | Mejoras                                                                                   |
 | :----------------- | :---------------------------------------------------------------------------------------- |
@@ -154,6 +166,32 @@ ___
 
 Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 =====================================================================
+
+### Enemigos
+> * A falta de alguan habilidad especial se usa la siguiente tabla:
+
+| Nivel | Daño      | Defensa/Temporal | Salud/PuntosDeSaludTemporales |
+| :-----| :-------- | :--------------- | :---------------------------- |
+| 1     | 1d4       | 1                | 1d8(4)                        |
+| 1     | 1d4       | 1                | 1d8(4)                        |
+| 1     | 1d4       | 1                | 1d8(4)                        |
+| 1     | 1d4       | 1                | 1d8(4)                        |
+| 1     | 1d4       | 1                | 1d8(4)                        |
+| 2     | 1d6       | 2                | 2d8(8)                        |
+| 2     | 1d6       | 2                | 2d8(8)                        |
+| 2     | 1d6       | 2                | 2d8(8)                        |
+| 2     | 1d6       | 2                | 2d8(8)                        |
+| 3     | 1d8       | 3                | 3d8(12)                       |
+| 3     | 1d8       | 3                | 3d8(12)                       |
+| 3     | 1d8       | 3                | 3d8(12)                       |
+| 4     | 1d10      | 4                | 4d8(16)                       |
+| 5     | 1d12      | 5                | 5d8(20)                       |
+| 6     | 1d8+1d6   | 6                | 6d8(24)                       |
+| 7     | 2d8       | 7                | 7d8(28)                       |
+| 8     | 3d6       | 8                | 8d8(32)                       |
+| 9     | 2d10      | 9                | 9d8(36)                       |
+| 10    | 1d12+1d10 | 10               | 10d8(40)                      |
+> * Recuerda que enfrentarse a un obstaculo u oponente de mayor nivel supone un penalizador a las pruebas, igual a la diferencia de niveles.
 
 <hr class="end-page">
 
