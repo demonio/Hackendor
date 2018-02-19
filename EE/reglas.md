@@ -292,6 +292,10 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 Estrellas Errante (hack del demonio) — Reglas
 =============================================
 
+### Medidas de tiempo
+> * Los **(I)ntervalos** se usan para pruebas que requieren concentración y duran entre 5' hasta varios años.
+> * En los **(A)saltos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
+
 ### Iniciativa
 > * El GE y los PJs lanzan 1d6 para ver que bando actua primero.
 > * Si quieres puedes usar BIO para determinar la iniciativa. La idea es que actué el que mayor dificultad tenga en su BIO y que cualquier otro personaje con menor dificultad en BIO pueda responder y anticiparse.
@@ -326,10 +330,6 @@ Estrellas Errante (hack del demonio) — Reglas
 > * Un resultado de 1 es un fallo automático (pifia) y un 20 un éxito automático (critíco), con lo que eso conlleva.
 > * Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo.
 > * **Cuando los PJs fallan 1 tirada que no sea de combate y esta no ha tenido consecuencias, coge 1 ficha de amenaza.**
-
-### Medidas de tiempo
-> * Los **(I)ntervalos** se usan para pruebas que requieren concentración y duran entre 20' hasta varios años.
-> * En los **(A)saltos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
 
 ### Dado de uso (DU)
 > * Cuando un objeto se gasta, se tira su DU y si sale 1 o 2, el tamaño del dado baja; d20 > d12 > d10 > d8 > d6 > d4 > consumido.
