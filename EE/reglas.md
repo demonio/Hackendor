@@ -248,17 +248,41 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 | Nave               | Defensa | Salud/Temporales | Daño | Mejoras                                       |
 | :----------------- | :------ | :--------------- | :--- | :-------------------------------------------- |
 | Cuervo N1          | 4       | 6                | 1d4  | Desventaja para atacarle.                     |
+|                    | 4       | 6                | 1d4  |                                               |
+|                    | 4       | 6                | 1d4  |                                               |
+|                    | 4       | 6                | 1d4  |                                               |
+|                    | 4       | 6                | 1d4  |                                               |
 | Garfio N1          | 0       | 8                | 1d4  |                                               |
+|                    | 0       | 8                | 1d4  |                                               |
+|                    | 0       | 8                | 1d4  |                                               |
+|                    | 0       | 8                | 1d4  |                                               |
+|                    | 0       | 8                | 1d4  |                                               |
 | Tritón N1          | 6       | 9                | 1d6  |                                               |
+|                    | 6       | 9                | 1d6  |                                               |
+|                    | 6       | 9                | 1d6  |                                               |
+|                    | 6       | 9                | 1d6  |                                               |
+|                    | 6       | 9                | 1d6  |                                               |
 | Desvelador N2      | 12      | 12               | 1d4  |                                               |
+|                    | 12      | 12               | 1d4  |                                               |
+|                    | 12      | 12               | 1d4  |                                               |
 | Explorador N2      | 2       | 12               | 1d6  |                                               |
+|                    | 2       | 12               | 1d6  |                                               |
+|                    | 2       | 12               | 1d6  |                                               |
 | Transportador N2   | 0       | 10               | 1d4  |                                               |
+|                    | 0       | 10               | 1d4  |                                               |
+|                    | 0       | 10               | 1d4  |                                               |
 | Comercial N3       | 4       | 16               | 1d6  | Ataca 3 veces.                                |
+|                    | 4       | 16               | 1d6  |                                               |
 | Diplomática N3     | 8       | 16               | 1d8  |                                               |
+|                    | 8       | 16               | 1d8  |                                               |
 | Tiburón N3         | 10      | 16               | 1d10 | Ataca 4 veces.                                |
+|                    | 10      | 16               | 1d10 |                                               |
 | Corsario N4        | 20      | 8                | 1d12 | Ataca 3 veces.                                |
+|                    | 20      | 8                | 1d12 |                                               |
 | Destructor N4      | 20      | 20               | 2d6  | Ataca 8 veces.                                |
+|                    | 20      | 20               | 2d6  |                                               |
 | Superdestructor N5 | 40      | 30               | 2d6  | Ataca 20 veces o usa megacañón de 1d20x10 PS. |
+|                    | 40      | 30               | 2d6  |                                               |
 
 <hr class="end-page">
 
