@@ -285,7 +285,7 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 
 ### Fichas de amenaza
 > * Cuando un PJ falla una tirada (que no sea de combate o tenga consecuencia), ganas 1 ficha de amenaza.
-> * El GE puede canjear 1 ficha de amenaza por 1 nivel de PNJ o nave sin tripulación para por ejemplo generar una emboscada.
+> * El GE puede canjear 1 ficha de amenaza por 1 nivel de obtaculo u oponente o nave sin tripulación para por ejemplo generar una emboscada. Otro ejemplo sería que los PJs se topasen con una puerta de nivel 5 realmente difícil de hackear, cuando han emprendido una huida por un camino que antes tenia las puertas abiertas.
 
 <hr class="end-page">
 
