@@ -167,31 +167,40 @@ ___
 Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 =====================================================================
 
-### Enemigos
-> * A falta de alguan habilidad especial se usa la siguiente tabla:
+### Enemigos genéricos
+> * A falta de alguan habilidad especial:
 
-| Nivel | Daño      | Defensa/Temporal | Salud/PuntosDeSaludTemporales |
-| :-----| :-------- | :--------------- | :---------------------------- |
-| 1     | 1d4       | 1                | 1d8(4)                        |
-| 1     | 1d4       | 1                | 1d8(4)                        |
-| 1     | 1d4       | 1                | 1d8(4)                        |
-| 1     | 1d4       | 1                | 1d8(4)                        |
-| 1     | 1d4       | 1                | 1d8(4)                        |
-| 2     | 1d6       | 2                | 2d8(8)                        |
-| 2     | 1d6       | 2                | 2d8(8)                        |
-| 2     | 1d6       | 2                | 2d8(8)                        |
-| 2     | 1d6       | 2                | 2d8(8)                        |
-| 3     | 1d8       | 3                | 3d8(12)                       |
-| 3     | 1d8       | 3                | 3d8(12)                       |
-| 3     | 1d8       | 3                | 3d8(12)                       |
-| 4     | 1d10      | 4                | 4d8(16)                       |
-| 5     | 1d12      | 5                | 5d8(20)                       |
-| 6     | 1d8+1d6   | 6                | 6d8(24)                       |
-| 7     | 2d8       | 7                | 7d8(28)                       |
-| 8     | 3d6       | 8                | 8d8(32)                       |
-| 9     | 2d10      | 9                | 9d8(36)                       |
-| 10    | 1d12+1d10 | 10               | 10d8(40)                      |
+| Nivel | Daño      | Defensa | Salud   |
+| :-----| :-------- | :------ | :------ |
+| 1     | 1d4       | 1       | 1d8(4)  |
+| 1     | 1d4       | 1       | 1d8(4)  |
+| 1     | 1d4       | 1       | 1d8(4)  |
+| 1     | 1d4       | 1       | 1d8(4)  |
+| 1     | 1d4       | 1       | 1d8(4)  |
+| 2     | 1d6       | 2       | 2d8(8)  |
+| 2     | 1d6       | 2       | 2d8(8)  |
+| 2     | 1d6       | 2       | 2d8(8)  |
+| 2     | 1d6       | 2       | 2d8(8)  |
+| 3     | 1d8       | 3       | 3d8(12) |
+| 3     | 1d8       | 3       | 3d8(12) |
+| 3     | 1d8       | 3       | 3d8(12) |
+| 4     | 1d10      | 4       | 4d8(16) |
+| 5     | 1d12      | 5       | 5d8(20) |
+| 6     | 1d8+1d6   | 6       | 6d8(24) |
+| 7     | 2d8       | 7       | 7d8(28) |
+| 8     | 3d6       | 8       | 8d8(32) |
+| 9     | 2d10      | 9       | 9d8(36) |
+| 10    | 1d12+1d10 | 10      | 10d8(40) |
 > * Recuerda que enfrentarse a un obstaculo u oponente de mayor nivel supone un penalizador a las pruebas, igual a la diferencia de niveles.
+
+### Enemigos de ejemplo
+
+| Bicho                     | Daño      | Defensa | Salud/Temporales |
+| :-------------------------| :-------- | :------ | :--------------- |
+| Alienigena civilizado N1  | 1d4       | 3       | 1d8(4)           |
+| Alienigena sanguinario N1 | 1d4       | 1       | 1d8(4)           |
+
+
 
 <hr class="end-page">
 
