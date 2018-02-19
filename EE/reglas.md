@@ -287,16 +287,37 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 
 Estrellas Errante (hack del demonio) — Reglas
 =============================================
+### Acciones
+> * Mover: Moverse para atacar, buscar cobertura o simplemente avanzar. 
+> * Correr: Huir del foco de la escena cambiando de distancia cercana a lejana.
+> * Disparar: Se usa TEC y requiere estar a distancia cercana o lejana.
+> * Atacar: Se usa BIO para atacar cuerpo a cuerpo y requiere estar a distancia inmediata. 
+> * Ayudar: A la siguiente prueba un PJ da ventaja a un aliado objetivo. 
+> * Defender: Se gana ventaja usando una cobertura o esforzandose en esquivar un ataque cuerpo a cuerpo.
+> * Proteger: El PJ puede ponerse en medio entre el disparo o ataque y el aliado objetivo.
+> * Otra: Cambiar de arma, recargar o similar.
+
 ### Pruebas
-> * Cuando pongas a pruaba a un PJ, este debe superar o igualar la dificultad de uno de sus atributos con 1d20.
-> * Siempre que en 1d20 salga un 1 el resultado es un fallo automático y un 20 es un éxito automático.
-> * Por cada venjata que tenga el PJ, este tira 1d20 adicional y escoge el mejor resultado. Con desventaja el peor resultado.
-> * El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.
-> * No se pueden repetir las tiradas y se eliminan los decimales si los hubiera.
-> * Algunos modificadores se aplican después de lanzar el dado y antes de compararlo con el atributo.
-> * Solamente se aplica un bonus y/o un malus, los más altos de cada tipo.
 > * El GE nunca tira dados; los PJs atacan, esquivan o superan pruebas. 
-> * Siempre que los PJs fallen 1 tirada que no sea de combate, ni tenga consecuencia, coge 1 ficha de amenaza. 
+> * La dificultad de una prueba de atributo sube o baja en función de las ventajas o desventajas acumuladas.
+> * Ejemplo: Disparar a un enemigo bajo cobertura, supone una desventaja y por lo tanto la dificultad de normal subiría a difícil.
+> * Ejemplo: Si además nos estamos moviendo, supone otra desventaja al no poder apuntar mínimamente y por lo tanto pasaría a complicado.
+> * **El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.**
+
+| Dificultad       | Dados a lanzar para la prueba     | 
+| :--------------- | :-------------------------------- |
+| Inexistente      | Éxito automático                  |
+| Trivial          | El mejor resultado de tirar 3d20  |
+| Fácil            | El mejor de 2d20                  |
+| Normal           | 1d20                              |
+| Díficil          | El peor de 2d20                   |
+| Complicado       | El mejor resultado de tirar 3d20  |
+| Absurdo          | Fallo automático                  |
+
+> * No se pueden repetir las tiradas y se eliminan los decimales si los hubiera.
+> * Un resultado de 1 es un fallo automático (pifia) y un 20 un éxito automático (critíco), con lo que ello conlleva.
+> * Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo.
+> * **Cuando los PJs fallan 1 tirada que no sea de combate y esta no ha tenido consecuencias, coge 1 ficha de amenaza.**
 
 ### Medidas de tiempo
 > * Los **(I)ntervalos** se usan para pruebas que requieren concentración y duran entre 20' hasta varios años.
@@ -328,16 +349,6 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 | Cercano   | Entre 1,5 y 9 | Entre 1 y 6   |
 | Lejano    | Entre 9 y 27  | Entre 6 y 18  |
 | Distante  | Superior a 27 | Superior a 18 |
-
-### Acciones
-> * Mover: Moverse para atacar, buscar cobertura o simplemente avanzar. 
-> * Correr: Huir del foco de la escena cambiando de distancia cercana a lejana.
-> * Disparar: Se usa TEC y requiere estar a distancia cercana o lejana.
-> * Atacar: Se usa BIO para atacar cuerpo a cuerpo y requiere estar a distancia inmediata. 
-> * Ayudar: A la siguiente prueba un PJ da ventaja a un aliado objetivo. 
-> * Defender: Se gana ventaja usando una cobertura o esforzandose en esquivar un ataque cuerpo a cuerpo.
-> * Proteger: El PJ puede ponerse en medio entre el disparo o ataque y el aliado objetivo.
-> * Otra: Cambiar de arma, recargar o similar.
 
 <hr class="end-col">
 
