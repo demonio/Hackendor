@@ -356,9 +356,6 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
 <hr class="end-col">
 
-### Superioridad
-> * La diferencia de niveles entre un PJ y un obstaculo u oponente se traduce a un penalizador de -1 por nivel de diferencia. 
-
 ### Reflejos
 > * A no ser que el PJ este dormido, incosciente o sorprendido, siempre tiene derecho a esquivar un ataque cuerpo a cuerpo con una prueba de BIO, o a evitar un disparo también con BIO pero con desventaja.
 
