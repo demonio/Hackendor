@@ -295,6 +295,14 @@ Estrellas Errante (hack del demonio) — Reglas
 > * Los **(I)ntervalos** se usan para pruebas que requieren concentración y duran entre 5' hasta varios años.
 > * En los **(A)saltos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
 
+### Distancias
+|           | Metros        | Casillas      |
+| :-------- | :------------ | :------------ |
+| Inmediato | Entre 0 y 1,5 | Entre 0 y 1   |
+| Cercano   | Entre 1,5 y 9 | Entre 1 y 6   |
+| Lejano    | Entre 9 y 27  | Entre 6 y 18  |
+| Distante  | Superior a 27 | Superior a 18 |
+
 ### Iniciativa
 > * El GE y los PJs lanzan 1d6 para ver que bando actua primero.
 > * Si quieres puedes usar BIO para determinar la iniciativa. La idea es que actué el que mayor dificultad tenga en su BIO y que cualquier otro personaje con menor dificultad en BIO pueda responder y anticiparse.
@@ -330,14 +338,10 @@ Estrellas Errante (hack del demonio) — Reglas
 > * **Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo. Los PJs no sabran el nivel de los obstaculos, oponentes o naves hasta que hay que compararlos.**
 > * **Cuando los PJs fallan 1 tirada que no sea de combate y esta no ha tenido consecuencias, coge 1 ficha de amenaza.**
 
+<hr class="end-col">
+
 ### Dado de uso (DU)
 > * Cuando un objeto se gasta, se tira su DU y si sale 1 o 2, el tamaño del dado baja; d20 > d12 > d10 > d8 > d6 > d4 > consumido.
-
-### Carga
-> * El GE puede considerar que un PJ esta **sobrecargado**, lo que supone realizar todas las pruebas de BIO con desventaja.
-
-### Descanso
-> * Descansar 8 horas de las 24 del día, supone recuperar todos los puntos de poder, toda la defensa y salud igual al resultado de lanzar el dado de salud del PJ.
 
 ### Humanidad
 > * Cuando un PJ se queda sin humanidad, su personaje pasa a ser controlado por ti, Guardián Estelar. MWA HA HA HA 
@@ -346,27 +350,23 @@ Estrellas Errante (hack del demonio) — Reglas
 > * Los PJs pueden verse en desventaja o reaccionar de forma inexperada si adquieren un estado que altera su condición.  
 Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
-### Distancias
-|           | Metros        | Casillas      |
-| :-------- | :------------ | :------------ |
-| Inmediato | Entre 0 y 1,5 | Entre 0 y 1   |
-| Cercano   | Entre 1,5 y 9 | Entre 1 y 6   |
-| Lejano    | Entre 9 y 27  | Entre 6 y 18  |
-| Distante  | Superior a 27 | Superior a 18 |
-
-<hr class="end-col">
+### Carga
+> * El GE puede considerar que un PJ está _[Sobrecargado]_, lo que supone realizar todas las pruebas de BIO con desventaja.
 
 ### Reflejos
-> * A no ser que el PJ este dormido, incosciente o sorprendido, siempre tiene derecho a esquivar un ataque cuerpo a cuerpo con una prueba de BIO, o a evitar un disparo también con BIO pero con desventaja.
+> * A no ser que el PJ este _[Dormido]_, _[Incosciente]_ o _[Sorprendido]_, siempre tiene derecho a esquivar un ataque cuerpo a cuerpo con una prueba de BIO, o a evitar un disparo también con BIO pero con desventaja.
 
 ### Salvación
-> * Se realiza una prueba sobre un atributo que se ha visto sometido a un efecto pernicioso.
+> * **Se realiza una prueba sobre un atributo que se ha visto sometido a un efecto pernicioso.**
 
 ### Daño
 > * Como particularidad hay que saber que los dados de daño explotan. Si en un dado se saca el máximo posible, este se vuelve a tirar y se añade a la suma total de daño. Es una forma de representar en que localización del cuerpo se ha impactado.
 
 ### Curacón
 > * Los dados lanzados para curar también explotan. Los PJs con el rasgo de Medicina o Naturaleza pueden hacer primeros auxilios efectivos que restauren 1d4 PS, el resto de PJ solo curan 1 PS. Hospitalizado o con curaciones usando tecnología avanzada, por día se restaura 1d6+4 PS.
+
+### Descanso
+> * Descansar 8 horas de las 24 del día, supone recuperar todos los puntos de poder, toda la defensa y salud igual al resultado de lanzar el dado de salud del PJ.
 
 ### Muerte
 > * Cuando llegas a 0 o menos PS lanza 2d6-X donde X son los PS por debajo de 0.
