@@ -118,18 +118,18 @@ ___
 
 | Nave <sup>precio</sup>              | Atributos      | Daño | D/PS  | Combustibe | Puestos                    |
 | :---------------------------------- | :------------- | ---: | :---- | :--------- | :------------------------- |
-| [] Corsario N4 <sup>750K</sup>      | M:13 C:13 A:10 | 1d12 | 20/8  | 1d10       | 1M 1C 3A                   |
 | [] Cuervo N1 <sup>70K</sup>         | M:8 C:15 A:10  | 1d4  | 4/6   | 1d6        | 1(M/C/A)                   |
-| [] Destructor N4 <sup>2M</sup>      | M:14 C:10 A:8  | 2d6  | 20/20 | 1d12       | 1M 1C 8A + 400 pasajeros   |
+| [] Garfio N1 <sup>40K</sup>         | M:9 C:- A:14   | 1d4  | 0/8   | 1d4        | 1M 1A                      |
+| [] Tritón N1 <sup>60K</sup>         | M:6 C:14 A:13  | 1d6  | 6/9   | 1d6        | 1(M/C/A)                   |
 | [] Desvelador N2 <sup>900K</sup>    | M:10 C:7 A:14  | 1d4  | 12/12 | 1d4        | 1M 1(C/A) + 4 pasajeros    |
 | [] Explorador N2 <sup>100K</sup>    | M:8 C:12 A:12  | 1d6  | 2/12  | 1d12       | 1M 1C 1A + 4 pasajeros     |
-| [] Garfio N1 <sup>40K</sup>         | M:9 C:- A:14   | 1d4  | 0/8   | 1d4        | 1M 1A                      |
+| [] Transportador N2 <sup>95K</sup>  | M:11 C:12 A:13 | 1d4  | 0/10  | 1d8        | 1M 1C 1A + 16 pasajeros    |
 | [] Comercial N3 <sup>200K</sup>     | M:12 C:11 A:11 | 1d6  | 4/16  | 1d10       | 1M 1(C/A) 2A               |
 | [] Dipomática N3 <sup>700K</sup>    | M:12 C:11 A:10 | 1d8  | 8/16  | 1d10       | 1M 1(C/A) 2A +40 pasajeros |
-| [] Superdestructor N5 <sup>5M</sup> | M:15 C:8 A:8   | 2d6  | 40/30 | 1d12       | 1M 1C 20A + 4000 pasajeros |
 | [] Tiburón N3 <sup>600K</sup>       | M:10 C:13 A:8  | 1d10 | 10/16 | 1d8        | 1M 1C 4A                   |
-| [] Transportador N2 <sup>95K</sup>  | M:11 C:12 A:13 | 1d4  | 0/10  | 1d8        | 1M 1C 1A + 16 pasajeros    |
-| [] Tritón N1 <sup>60K</sup>         | M:6 C:14 A:13  | 1d6  | 6/9   | 1d6        | 1(M/C/A)                   |
+| [] Corsario N4 <sup>750K</sup>      | M:13 C:13 A:10 | 1d12 | 20/8  | 1d10       | 1M 1C 3A                   |
+| [] Destructor N4 <sup>2M</sup>      | M:14 C:10 A:8  | 2d6  | 20/20 | 1d12       | 1M 1C 8A + 400 pasajeros   |
+| [] Superdestructor N5 <sup>5M</sup> | M:15 C:8 A:8   | 2d6  | 40/30 | 1d12       | 1M 1C 20A + 4000 pasajeros |
 > * Las naves viajan a 180 gk/h sin necesidad de saltar, más 20 gk/h por nivel.
 > * Las naves saltan a 1 pc/s por nivel con garantías en 5' y forzando en 12".
 > * Un salto de más de 10 segundos provoca en la tripulación una posible perdida de humanidad.
@@ -143,13 +143,13 @@ ___
 | 7-9   | Aislados     | La nave aparece en un sistema aparentemente deshabitado.                    |
 | 10-12 | Vigilados    | La nave aparece en un sistema habitado y se sienten observados.             |
 
-| Nave               | Mejoras                                                                                   |
-| :----------------- | :---------------------------------------------------------------------------------------- |
-| [] Corsario        | Lleva consigo hasta 12 naves Garfio.                                                      |
-| [] Cuervo          | Fija objetivo con cada maniobra ofensiva exitosa. Tiene ventaja en prueba de evasión.     |
-| [] Garfio          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
-| [] Superdestructor | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
-| [] Tritón          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
+| Nave                  | Mejoras                                                                                   |
+| :-------------------- | :---------------------------------------------------------------------------------------- |
+| [] Cuervo N1          | Fija objetivo con cada maniobra ofensiva exitosa. Tiene ventaja en prueba de evasión.     |
+| [] Garfio N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
+| [] Tritón N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
+| [] Corsario N4        | Lleva consigo hasta 12 naves Garfio.                                                      |
+| [] Superdestructor N5 | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
 
 <hr class="end-col">
 
@@ -182,7 +182,7 @@ ___
 
 | 2d6-X | Resultado    | Descripción                                                              |
 | :---- | :----------- | :----------------------------------------------------------------------- |
-| x-2   | Explosión    | El barquero del espacio sideral os acoge a todos en el Limbo.            |
+| X-2   | Explosión    | El barquero del espacio sideral os acoge a todos en el Limbo.            |
 | 4-6   | Huida        | La nave arde, pero la tripulación logra escapar en cápsulas.             |
 | 7-9   | A la deriva  | Los daños graves producidos hacen inhabitable la nave en 2d6 intervalos. |
 | 10-11 | Inutilizada  | Los puestos de artillería y cálculo han quedado inservibles.             |
@@ -193,9 +193,9 @@ ___
 Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 =====================================================================
 
-### Enemigos 
+### PNJs 
 
-| Bicho                     | Defensa | Salud/Temporales | Peculiaridades(Daño)                                           |
+|                           | Defensa | Salud/Temporales | Peculiaridades(Daño)                                           |
 | :------------------------ | :------ | :--------------- | :------------------------------------------------------------- |
 | Alienigena civilizado N1  | 3       | 1d8(4)           | Pelea(1d4).                                                    |
 |                           | 1       | 1d8(4)           |                                                                |
@@ -240,6 +240,25 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 | N9                        | 9       | 9d8(36)          | (2d10)                                                         |
 | N10                       | 10      | 10d8(40)         | (1d12+1d10)                                                    |
 > * Recuerda que enfrentarse a un obstaculo u oponente de mayor nivel supone un penalizador a las pruebas, igual a la diferencia de niveles.
+
+<hr class="end-col">
+
+### Naves 
+
+| Nave               | Defensa | Salud/Temporales | Daño | Mejoras                                       |
+| :----------------- | :------ | :--------------- | :--- | :-------------------------------------------- |
+| Cuervo N1          | 4       | 6                | 1d4  | Desventaja para atacarle.                     |
+| Garfio N1          | 0       | 8                | 1d4  |                                               |
+| Tritón N1          | 6       | 9                | 1d6  |                                               |
+| Desvelador N2      | 12      | 12               | 1d4  |                                               |
+| Explorador N2      | 2       | 12               | 1d6  |                                               |
+| Transportador N2   | 0       | 10               | 1d4  |                                               |
+| Comercial N3       | 4       | 16               | 1d6  | Ataca 3 veces.                                |
+| Diplomática N3     | 8       | 16               | 1d8  |                                               |
+| Tiburón N3         | 10      | 16               | 1d10 | Ataca 4 veces.                                |
+| Corsario N4        | 20      | 8                | 1d12 | Ataca 3 veces.                                |
+| Destructor N4      | 20      | 20               | 2d6  | Ataca 8 veces.                                |
+| Superdestructor N5 | 40      | 30               | 2d6  | Ataca 20 veces o usa megacañón de 1d20x10 PS. |
 
 <hr class="end-page">
 
@@ -319,7 +338,7 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
 | 2d6-X | Resultado    | Descripción                                                              |
 | :---- | :----------- | :----------------------------------------------------------------------- |
-| x-2   | Muerte       | El barquero del espacio sideral te acoge en el limbo.                    |
+| X-2   | Muerte       | El barquero del espacio sideral te acoge en el limbo.                    |
 | 3-4   | Secuela      | Después del combate ganas 1 PS y tú BIO y CON suben la dificultad en +2. |
 | 5-6   | Herida       | Después del combate ganas 1 PS y estás incapacitado hasta ser curado.    |
 | 7-9   | Aturdimiento | Después del combate ganas 1 PS y actuas con desventaja 1d6 intervalos.   |
