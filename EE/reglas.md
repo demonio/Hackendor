@@ -170,35 +170,44 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 ### Enemigos genéricos
 > * A falta de alguan habilidad especial:
 
-| Nivel | Daño      | Defensa | Salud   |
-| :-----| :-------- | :------ | :------ |
-| 1     | 1d4       | 1       | 1d8(4)  |
-| 1     | 1d4       | 1       | 1d8(4)  |
-| 1     | 1d4       | 1       | 1d8(4)  |
-| 1     | 1d4       | 1       | 1d8(4)  |
-| 1     | 1d4       | 1       | 1d8(4)  |
-| 2     | 1d6       | 2       | 2d8(8)  |
-| 2     | 1d6       | 2       | 2d8(8)  |
-| 2     | 1d6       | 2       | 2d8(8)  |
-| 2     | 1d6       | 2       | 2d8(8)  |
-| 3     | 1d8       | 3       | 3d8(12) |
-| 3     | 1d8       | 3       | 3d8(12) |
-| 3     | 1d8       | 3       | 3d8(12) |
-| 4     | 1d10      | 4       | 4d8(16) |
-| 5     | 1d12      | 5       | 5d8(20) |
-| 6     | 1d8+1d6   | 6       | 6d8(24) |
-| 7     | 2d8       | 7       | 7d8(28) |
-| 8     | 3d6       | 8       | 8d8(32) |
-| 9     | 2d10      | 9       | 9d8(36) |
-| 10    | 1d12+1d10 | 10      | 10d8(40) |
+| Nivel | Daño      | Defensa | Salud/Temporales |
+| :-----| :-------- | :------ | :--------------- |
+| 1     | 1d4       | 1       | 1d8(4)           |
+| 1     | 1d4       | 1       | 1d8(4)           |
+| 1     | 1d4       | 1       | 1d8(4)           |
+| 1     | 1d4       | 1       | 1d8(4)           |
+| 1     | 1d4       | 1       | 1d8(4)           |
+| 2     | 1d6       | 2       | 2d8(8)           |
+| 2     | 1d6       | 2       | 2d8(8)           |
+| 2     | 1d6       | 2       | 2d8(8)           |
+| 2     | 1d6       | 2       | 2d8(8)           |
+| 3     | 1d8       | 3       | 3d8(12)          |
+| 3     | 1d8       | 3       | 3d8(12)          |
+| 3     | 1d8       | 3       | 3d8(12)          |
+| 4     | 1d10      | 4       | 4d8(16)          |
+| 5     | 1d12      | 5       | 5d8(20)          |
+| 6     | 1d8+1d6   | 6       | 6d8(24)          |
+| 7     | 2d8       | 7       | 7d8(28)          |
+| 8     | 3d6       | 8       | 8d8(32)          |
+| 9     | 2d10      | 9       | 9d8(36)          |
+| 10    | 1d12+1d10 | 10      | 10d8(40)         |
 > * Recuerda que enfrentarse a un obstaculo u oponente de mayor nivel supone un penalizador a las pruebas, igual a la diferencia de niveles.
 
 ### Enemigos de ejemplo
 
-| Bicho                     | Daño      | Defensa | Salud/Temporales |
-| :-------------------------| :-------- | :------ | :--------------- |
-| Alienigena civilizado N1  | 1d4       | 3       | 1d8(4)           |
-| Alienigena sanguinario N1 | 1d4       | 1       | 1d8(4)           |
+| Bicho                     | Defensa | Salud/Temporales | Habilidad(Daño)                                                |
+| :------------------------ | :------ | :--------------- | :------------------------------------------------------------- |
+| Alienigena civilizado N1  | 3       | 1d8(4)           | Pelea(1d4).                                                    |
+| Alienigena sanguinario N1 | 1       | 1d8(4)           | 2xGarra(1d2) y 1xMordisco(1d4).                                | 
+| Alienigena sediento N1    | 1       | 1d8(4)           | 1xMordisco(1d4) y Chupando(1d6/A).                             | 
+| Humano enloquecido N1     | 1       | 1d8(4)           | El rival evita con desventaja. Pelea(1d4).                     | 
+| Alienigena drenador N2    | 2       | 2d8(8)           | El rival pierde EXP igual al daño causado(1d6).                | 
+| Alienigena guerrero N2    | 2       | 2d8(8)           | Si no se supera una prueba de BIO en vez de 1d6 hace 3d6 PS.   | 
+| Mutado carnófago N2       | 2       | 2d8(8)           | 2xGarra(1d3) y 1xMordisco(1d4+1 asalto paralizado).            | 
+| Alienigena aterrador N3   | 3       | 3d8(12)          | Ataca la mente del rival causando 1d6 PS y 1d6A de miedo.      | 
+| Alienigena bruto N3       | 3       | 3d8(12)          | El rival ataca con ventaja.                                    | 
+| Alienigena pegajoso N4    | 4       | 4d8(16)          | Si el rival falla una prueba de BIO, queda paralizado 1A.      |
+| Alienigena aberrante N5   | 5       | 5d8(20)          | El rival evita con desventaja. 2xGarra(1d6) y 1xMordisco(2d6). |
 
 
 
@@ -211,15 +220,15 @@ Estrellas Errante (hack del demonio) — Reglas
 > * Siempre que en 1d20 salga un 1 el resultado es un fallo automático y un 20 es un éxito automático.
 > * Por cada venjata que tenga el PJ, este tira 1d20 adicional y escoge el mejor resultado. Con desventaja el peor resultado.
 > * El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.
-> * **No se pueden repetir las tiradas y se eliminan los decimales si los hubiera**.
+> * No se pueden repetir las tiradas y se eliminan los decimales si los hubiera.
 > * Algunos modificadores se aplican después de lanzar el dado y antes de compararlo con el atributo.
-> * **Solamente se aplica un bonus y/o un malus, los más altos de cada tipo**.
+> * Solamente se aplica un bonus y/o un malus, los más altos de cada tipo.
 > * El GE nunca tira dados; los PJs atacan, esquivan o superan pruebas. 
 > * Siempre que los PJs fallen 1 tirada que no sea de combate, ni tenga consecuencia, coge 1 ficha de amenaza. 
 
 ### Medidas de tiempo
-> * Los **intervalos** se usan para pruebas que requieren concentración y duran entre 20' hasta varios años.
-> * En los **asaltos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
+> * Los **(I)ntervalos** se usan para pruebas que requieren concentración y duran entre 20' hasta varios años.
+> * En los **(A)saltos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
 
 ### Dado de uso (DU)
 > * Cuando un objeto se gasta, se tira su DU y si sale 1 o 2, el tamaño del dado baja; d20 > d12 > d10 > d8 > d6 > d4 > consumido.
