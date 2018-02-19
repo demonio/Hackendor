@@ -192,9 +192,9 @@ ___
 Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 =====================================================================
 
-### PNJs 
+### Oponentes 
 
-|                           | Defensa | Salud/Temporales | Peculiaridades(Daño)                                           |
+| Oponente                  | Defensa | Salud/Temporales | Peculiaridades(Daño)                                           |
 | :------------------------ | :------ | :--------------- | :------------------------------------------------------------- |
 | Alienigena civilizado N1  | 3       | 1d8(4)           | Pelea(1d4).                                                    |
 |                           | 1       | 1d8(4)           |                                                                |
@@ -238,7 +238,6 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 | N8                        | 8       | 8d8(32)          | (3d6)                                                          |
 | N9                        | 9       | 9d8(36)          | (2d10)                                                         |
 | N10                       | 10      | 10d8(40)         | (1d12+1d10)                                                    |
-> * Recuerda que enfrentarse a un obstaculo u oponente de mayor nivel supone un penalizador a las pruebas, igual a la diferencia de niveles.
 
 <hr class="end-col">
 
@@ -328,7 +327,7 @@ Estrellas Errante (hack del demonio) — Reglas
 
 > * No se pueden repetir las tiradas y se eliminan los decimales si los hubiera.
 > * Un resultado de 1 es un fallo automático (pifia) y un 20 un éxito automático (critíco), con lo que eso conlleva.
-> * Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo.
+> * **Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo. Los PJs no sabran el nivel de los obstaculos, oponentes o naves hasta que hay que compararlos.**
 > * **Cuando los PJs fallan 1 tirada que no sea de combate y esta no ha tenido consecuencias, coge 1 ficha de amenaza.**
 
 ### Dado de uso (DU)
@@ -358,7 +357,7 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 <hr class="end-col">
 
 ### Superioridad
-> * La diferencia de niveles entre un PJ y un obstaculo u oponente se traduce a un penalizador de -1 por nivel de diferencia. Los PJs no sabran el nivel de los PNJs hasta que se enfrenten a ellos.
+> * La diferencia de niveles entre un PJ y un obstaculo u oponente se traduce a un penalizador de -1 por nivel de diferencia. 
 
 ### Reflejos
 > * A no ser que el PJ este dormido, incosciente o sorprendido, siempre tiene derecho a esquivar un ataque cuerpo a cuerpo con una prueba de BIO, o a evitar un disparo también con BIO pero con desventaja.
