@@ -24,15 +24,14 @@ ___
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente.
 
-| Segun tú clase     | Puesto     | Trasfondo en palabras clave                 |
-| :----------------- | :--------- | :------------------------------------------ |
-| [] Cable           | Cálculo    | _[Bajos fondos] [Ingeniería] [Mecánica]_    |
-| [] Contrabandista  | Manejo     | _[Bajos fondos] [Mecánica] [Naturaleza]_    |
-| [] Diplomático     | Ninguno    | _[Altas esferas] [Liderazgo] [Política]_    |
-| [] Errante         | Ninguno    | _[Artes marciales] [Medicina] [Naturaleza]_ |
-| [] Psiónico        | Todos      | _[Espacio] [Ingeniería] [Medicina]_         |
-| [] Soldado         | Elige uno  | _[Mecánica] [Liderazgo] [Táctica]_          |
-> * Ganas ventaja en las acciones relaccionadas con las palabras clave o el puesto que dominas
+| Segun tú clase     | Puesto     | Ganas ventaja si tú acción incluye alguna palabra clave |
+| :----------------- | :--------- | :------------------------------------------------------ |
+| [] Cable           | Cálculo    | _[Bajos fondos] [Ingeniería] [Mecánica]_                |
+| [] Contrabandista  | Manejo     | _[Bajos fondos] [Mecánica] [Naturaleza]_                |
+| [] Diplomático     | Ninguno    | _[Altas esferas] [Liderazgo] [Política]_                |
+| [] Errante         | Ninguno    | _[Artes marciales] [Medicina] [Naturaleza]_             |
+| [] Psiónico        | Todos      | _[Espacio] [Ingeniería] [Medicina]_                     |
+| [] Soldado         | Elige uno  | _[Mecánica] [Liderazgo] [Táctica]_                      |
 
 Equipo
 ------
