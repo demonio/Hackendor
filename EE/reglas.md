@@ -321,7 +321,7 @@ Estrellas Errante (hack del demonio) — Reglas
 > * El GE nunca tira dados; los PJs atacan, esquivan o superan pruebas. 
 > * La dificultad de una prueba de atributo sube o baja en función de las ventajas o desventajas acumuladas.
 > * Ejemplo: Disparar a un enemigo bajo cobertura, supone una desventaja y por lo tanto la dificultad de normal subiría a difícil. Si además nos estamos moviendo, supone otra desventaja al no poder apuntar mínimamente, lo que subiría la dificultad, de difícil a complicado.
-> * **El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.**
+> * El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.
 
 | Dificultad       | Dados a lanzar para la prueba     | 
 | :--------------- | :-------------------------------- |
@@ -335,8 +335,8 @@ Estrellas Errante (hack del demonio) — Reglas
 
 > * No se pueden repetir las tiradas y se eliminan los decimales si los hubiera.
 > * Un resultado de 1 es un fallo automático (pifia) y un 20 un éxito automático (critíco), con lo que eso conlleva.
-> * **Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo. Los PJs no sabran el nivel de los obstaculos, oponentes o naves hasta que hay que compararlos.**
-> * **Cuando los PJs fallan 1 tirada que no sea de combate y esta no ha tenido consecuencias, coge 1 ficha de amenaza.**
+> * Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo. Los PJs no sabran el nivel de los obstaculos, oponentes o naves hasta que hay que compararlos.
+> * Cuando los PJs fallan 1 tirada que no sea de combate y esta no ha tenido consecuencias, coge 1 ficha de amenaza.
 
 <hr class="end-col">
 
@@ -357,7 +357,7 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 > * A no ser que el PJ este _[Dormido]_, _[Incosciente]_ o _[Sorprendido]_, siempre tiene derecho a esquivar un ataque cuerpo a cuerpo con una prueba de BIO, o a evitar un disparo también con BIO pero con desventaja.
 
 ### Salvación
-> * **Se realiza una prueba sobre un atributo que se ha visto sometido a un efecto pernicioso.**
+> * Se realiza una prueba sobre un atributo que se ha visto sometido a un efecto pernicioso.
 
 ### Daño
 > * Como particularidad hay que saber que los dados de daño explotan. Si en un dado se saca el máximo posible, este se vuelve a tirar y se añade a la suma total de daño. Es una forma de representar en que localización del cuerpo se ha impactado.
