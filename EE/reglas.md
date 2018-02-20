@@ -150,8 +150,6 @@ ___
 | [] Corsario N4        | Lleva consigo hasta 12 naves Garfio.                                                      |
 | [] Superdestructor N5 | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
 
-<hr class="end-col">
-
 ### Distancias en el espacio
 | Medida         | Descripción               |
 | :------------- | :------------------------ |
@@ -161,6 +159,8 @@ ___
 | Gigaklick (gk) | Mil millones de klicks.   |
 | Teraklick (tk) | Un billón de klicks.      |
 | Pársec (pc)    | 31 teraklicks.            |
+
+<hr class="end-col">
 
 ### Combate estelar
 1. Los PJs actuan primero, excepto en una emboscada que no ha sido detectada usando **cálculo**.
