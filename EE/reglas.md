@@ -100,20 +100,6 @@ Protecciones
 > * Mejoras: []Infravisión []Antibalas []Radio megaklick []Linterna []Escudo de fuerza []Propulsores []Inhibior de explosión []Sistema de puntería []Regeneración
 > * La calidad excepcional multiplica la defensa x2 y el precio x8, única x3 y precio x20.
 
-Psiónica
---------
-> * Cuando un PJ piónico se dispone usar su poder, lo realiza de dos formas, instantaneo con riesgo o preparado sin riesgo.
-> * Las etiquetas tienen un nivel de dificultad que debe sumarse para usarlo de modificador a una prueba de PSI para que el poder piónico tenga efecto.
-> * Para todos los poderes, el psiónico genera una energia que la puede emplear sobre si mismo o sobre uno o varios objetivos a velocidad de la luz hasta un alcance con multiples efectos.
-> * Para darle mayor incertidumbre la intensidad la tira el GE y la mantiene en secreto.
-> * Efecto: [Apoyar salto, N2] [Celeridad, N1] [Congelar, N1] [Control mental, N2] [Curar, N1] [Curar enfermedad, N2] [Daño, N1] [Defensa, N1] [Intangible, N1] [Invisiviliad, N1] [Leer mente, N2] [Miedo, N1] [Orientación, N1] [Parálasis, N1] [Presentir, N1] [Recarga, N1] [Regenerar, N5] [Silencio, N1] [Telepatía N1] [Telequinesis N1]
-> * Objetivos: [1, N0] [2, N1] [3, N2] [4, N3] [5, N4] [Area, N5]
-> * Intensidad: [1d4, N0] [1d6, N1] [1d8, N2] [1d10, N3] [1d12, N4] [1d20, N5]
-> * Alcance: [Mismo/Toque, N0] [Inmediato, N1] [Cercano, N2] [Lejano, N3] [Distante, N4] [Klick, N5]
-> * Duración: [Impacto, N0] [Turnos, N1] [Intervalos, N5]
-> * Velocidad: [Arrojada, N0] [Disparada, N1] [Luz, N2]
-> * Volumen: [Objeto/Mente/Miembro, N0] [Cuerpo/Ordenador, N1] [Nave/Sala, N2]
-
 <hr class="end-page">
 
 Estrellas Errante (hack del demonio) — Hoja de la nave
@@ -163,6 +149,20 @@ ___
 | [] Tritón N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
 | [] Corsario N4        | Lleva consigo hasta 12 naves Garfio.                                                      |
 | [] Superdestructor N5 | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
+
+Psiónica
+--------
+> * Cuando un PJ piónico se dispone usar su poder, lo realiza de dos formas, instantaneo con riesgo o preparado sin riesgo.
+> * Las etiquetas tienen un nivel de dificultad que debe sumarse para usarlo de modificador a una prueba de PSI para que el poder piónico tenga efecto.
+> * Para todos los poderes, el psiónico genera una energia que la puede emplear sobre si mismo o sobre uno o varios objetivos a velocidad de la luz hasta un alcance con multiples efectos.
+> * Para darle mayor incertidumbre la intensidad la tira el GE y la mantiene en secreto.
+> * Efecto: [Apoyar salto, N2] [Celeridad, N1] [Congelar, N1] [Control mental, N2] [Curar, N1] [Curar enfermedad, N2] [Daño, N1] [Defensa, N1] [Intangible, N1] [Invisiviliad, N1] [Leer mente, N2] [Miedo, N1] [Orientación, N1] [Parálasis, N1] [Presentir, N1] [Recarga, N1] [Regenerar, N5] [Silencio, N1] [Telepatía N1] [Telequinesis N1]
+> * Objetivos: [1, N0] [2, N1] [3, N2] [4, N3] [5, N4] [Area, N5]
+> * Intensidad: [1d4, N0] [1d6, N1] [1d8, N2] [1d10, N3] [1d12, N4] [1d20, N5]
+> * Alcance: [Mismo/Toque, N0] [Inmediato, N1] [Cercano, N2] [Lejano, N3] [Distante, N4] [Klick, N5]
+> * Duración: [Impacto, N0] [Turnos, N1] [Intervalos, N5]
+> * Velocidad: [Arrojada, N0] [Disparada, N1] [Luz, N2]
+> * Volumen: [Objeto/Mente/Miembro, N0] [Cuerpo/Ordenador, N1] [Nave/Sala, N2]
 
 <hr class="end-col">
 
