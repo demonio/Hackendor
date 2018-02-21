@@ -400,3 +400,7 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 | Inexistente  | +0  | Se suele dar cuando los PJs huyen fracasan por acciones de bajo riesgo.        |
 | Contratiempo | +1  | El éxito ha sido parcial, los PJs no tuvieron las mejores ideas.               |
 | Peligro      | +3  | La misión fue completada con un éxito abrumador, incluso con grandes perdidas. |
+
+### Licencia
+> * Este hack comparte la licencia OGL del juego en el que está basado y por lo tanto se debe tener una copia del juego original:
+> * Estrellas Errantes en http://yipikayei.com/?product=estrellas-errantes-preventa
