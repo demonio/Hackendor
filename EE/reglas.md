@@ -238,14 +238,14 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 | Alienigena guerrero N2    | 2       | 2d8(8)           | Si no se supera una prueba de BIO en vez de 1d6 hace 3d6 PS.   | 
 |                           | 2       | 2d8(8)           |                                                                | 
 |                           | 2       | 2d8(8)           |                                                                | 
-| Mutado carnófago N2       | 2       | 2d8(8)           | 2xGarra(1d3) y 1xMordisco(1d4+1 asalto paralizado).            | 
+| Mutado carnófago N2       | 2       | 2d8(8)           | 2xGarra(1d3) y 1xMordisco(1d4+1 turno paralizado).            | 
 |                           | 2       | 2d8(8)           |                                                                | 
 |                           | 2       | 2d8(8)           |                                                                | 
-| Alienigena aterrador N3   | 3       | 3d8(12)          | Ataca la mente del rival causando 1d6 PS y 1d6A de miedo.      | 
+| Alienigena aterrador N3   | 3       | 3d8(12)          | Ataca la mente del rival causando 1d6 PS y 1d6T de miedo.      | 
 |                           | 3       | 3d8(12)          |                                                                | 
 | Alienigena bruto N3       | 3       | 3d8(12)          | Pelea(1d8). El rival ataca con ventaja.                        | 
 |                           | 3       | 3d8(12)          |                                                                | 
-| Alienigena pegajoso N4    | 4       | 4d8(16)          | Si el rival falla una prueba de BIO(1d10+paralizado 1A).       |
+| Alienigena pegajoso N4    | 4       | 4d8(16)          | Si el rival falla una prueba de BIO(1d10+paralizado 1T).       |
 |                           | 4       | 4d8(16)          |                                                                |
 | Alienigena aberrante N5   | 5       | 5d8(20)          | El rival evita con desventaja. 2xGarra(1d6) y 1xMordisco(2d6). |
 |                           | 5       | 5d8(20)          |                                                                |
@@ -309,7 +309,7 @@ Estrellas Errante (hack del demonio) — Reglas
 
 ### Medidas de tiempo
 > * Los **(I)ntervalos** se usan para pruebas que requieren concentración y duran entre 5' hasta varios años.
-> * En los **(A)saltos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
+> * En los **(T)urnos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
 
 ### Distancias
 |           | Metros        | Casillas      |
