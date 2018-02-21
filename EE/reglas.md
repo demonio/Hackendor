@@ -405,7 +405,7 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
 <hr class="end-page">
 
-``` javascript
+```
 
 Todo el contenido de este manual es parte del Game Content y están bajo la OPEN GAME LICENSE Versión 1.0a, exceptuando las ilustraciones, que se consideran Product Identi- ty y pertenecen a sus autores.
 LICENCIA DE JUEGO OPEN GAME LICENSE Versión 1.0a
@@ -421,7 +421,7 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 
 <hr class="end-col">
 
-``` javascript
+```
 
 You are copying, modifying or distributing, and You must add the title, the copyright date, and the copyright holder’s name to the COPYRIGHT NOTICE of any original Open Game Content you Distribute.
 7. Use of Product Identity: You agree not to Use any Product Identity, including as an indication as to compatibility, except as expressly licensed in another, independent Agree- ment with the owner of each element of that Product Identity. You agree not to indicate compatibility or co-adaptability with any Trademark or Registered Trademark in conjunc- tion with a work containing Open Game Content except as expressly licensed in another, independent Agreement with the owner of such Trademark or Registered Trademark. The use of any Product Identity in Open Game Content does not constitute a challenge to the ownership of that Product Identity. The owner of any Product Identity used in Open Game Content shall retain all rights, title and interest in and to that Product Identity.
