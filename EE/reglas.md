@@ -405,6 +405,9 @@ Ejemplos: _[Aturdido] [Ceguera] [Pánico] [Paralisis] [Sordera]_
 
 <hr class="end-page">
 
+Licencia OGL
+------------
+
 Todo el contenido de este manual es parte del Game Content y están bajo la OPEN GAME LICENSE Versión 1.0a, exceptuando las ilustraciones, que se consideran Product Identi- ty y pertenecen a sus autores.
 LICENCIA DE JUEGO OPEN GAME LICENSE Versión 1.0a
 The following text is the property of Wizards of the Coast, Inc. and is Copyright 2000 Wi- zards of the Coast, Inc (“Wizards”). All Rights Reserved.
