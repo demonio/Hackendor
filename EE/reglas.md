@@ -213,10 +213,10 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 | Oponente                  | Defensa | Salud/Temporales | Peculiaridades(Daño)                                           |
 | :------------------------ | :------ | :--------------- | :------------------------------------------------------------- |
 | Alienigena civilizado N1  | 3       | 1d8(4)           | Pelea(1d4).                                                    |
-|                           | 1       | 1d8(4)           |                                                                |
-|                           | 1       | 1d8(4)           |                                                                |
-|                           | 1       | 1d8(4)           |                                                                |
-|                           | 1       | 1d8(4)           |                                                                |
+|                           | 3       | 1d8(4)           |                                                                |
+|                           | 3       | 1d8(4)           |                                                                |
+|                           | 3       | 1d8(4)           |                                                                |
+|                           | 3       | 1d8(4)           |                                                                |
 | Alienigena sanguinario N1 | 1       | 1d8(4)           | 2xGarra(1d2) y 1xMordisco(1d4).                                | 
 |                           | 1       | 1d8(4)           |                                                                | 
 |                           | 1       | 1d8(4)           |                                                                | 
