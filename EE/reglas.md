@@ -191,15 +191,18 @@ Psiónica
 --------
 > * Para todos los poderes, el psiónico genera una energia que la puede emplear sobre si mismo o sobre uno o varios objetivos con un efecto concreto.
 > * El efecto que se quiere realizar tiene que usar todas las etiquetas implicadas. La suma del nivel de todas las etiquetas dará el modificador por nivel.
-> * Para que el poder psiónico tenga efecto, se debe superar una prueba de PSI apicando el modificador de nivel.
-> * Para darle mayor incertidumbre la intensidad la tira el GE y la mantiene en secreto.
-> * Efecto: [Apoyar salto, N2] [Celeridad, N1] [Congelar, N1] [Control mental, N2] [Curar, N1] [Curar enfermedad, N2] [Daño, N1] [Defensa, N1] [Intangible, N1] [Invisiviliad, N1] [Leer mente, N2] [Miedo, N1] [Orientación, N1] [Parálasis, N1] [Presentir, N1] [Recarga, N1] [Regenerar, N5] [Silencio, N1] [Telepatía N1] [Telequinesis N1]
+> * Para que el poder psiónico tenga efecto, se debe superar una prueba de PSI apicando la diferencia entre el modificador de nivel y el nivel del psiónico.
+> * Cada vez que se falla esta prueba por más de 5 es posibe perder humanidad.
+> * Pifiar supone perder humanidad y un efecto aleatorio indeseado.
+> * Para dar mayor incertidumbre la intensidad la tira el GE y la mantiene en secreto.
+> * Ejemplos de poderes: [Apoyar salto, N2] [Aterrar, N1]  [Acelerar, N1] [Congelar, N1] [Controlar mente, N2] [Curar, N1] [Curar enfermedad, N2] [Dañar, N1] [Defensa, N1] [Intangible, N1] [Invisivilidad, N1] [Leer mente, N2][Orientarse, N1] [Paralizar, N1] [Presentir, N1] [Recargar, N1] [Regenerar, N1] [Silenciar, N1] [Telepatía N1] [Telequinesis N1] [Teletransporte N1]
 > * Objetivos: [1, N0] [2, N1] [3, N2] [4, N3] [5, N4] [Area, N5]
 > * Intensidad: [1d4, N0] [1d6, N1] [1d8, N2] [1d10, N3] [1d12, N4] [1d20, N5]
 > * Alcance: [Mismo/Toque, N0] [Inmediato, N1] [Cercano, N2] [Lejano, N3] [Distante, N4] [Klick, N5]
 > * Duración: [Impacto, N0] [Turnos, N1] [Intervalos, N5]
 > * Velocidad: [Arrojada, N0] [Disparada, N1] [Luz, N2]
 > * Volumen: [Objeto/Mente/Miembro, N0] [Cuerpo/Ordenador, N1] [Nave/Sala, N2]
+> * Efectos: [Dirigida N1]
 
 <hr class="end-page">
 
