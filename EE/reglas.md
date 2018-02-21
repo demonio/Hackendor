@@ -189,9 +189,9 @@ ___
 
 Psiónica
 --------
-> * Cuando un PJ piónico se dispone usar su poder, lo realiza de dos formas, instantaneo con riesgo o preparado sin riesgo.
-> * Las etiquetas tienen un nivel de dificultad que debe sumarse para usarlo de modificador a una prueba de PSI para que el poder piónico tenga efecto.
-> * Para todos los poderes, el psiónico genera una energia que la puede emplear sobre si mismo o sobre uno o varios objetivos a velocidad de la luz hasta un alcance con multiples efectos.
+> * Para todos los poderes, el psiónico genera una energia que la puede emplear sobre si mismo o sobre uno o varios objetivos con un efecto concreto.
+> * El efecto que se quiere realizar tiene que usar todas las etiquetas implicadas. La suma del nivel de todas las etiquetas dará el modificador por nivel.
+> * Para que el poder psiónico tenga efecto, se debe superar una prueba de PSI apicando el modificador de nivel.
 > * Para darle mayor incertidumbre la intensidad la tira el GE y la mantiene en secreto.
 > * Efecto: [Apoyar salto, N2] [Celeridad, N1] [Congelar, N1] [Control mental, N2] [Curar, N1] [Curar enfermedad, N2] [Daño, N1] [Defensa, N1] [Intangible, N1] [Invisiviliad, N1] [Leer mente, N2] [Miedo, N1] [Orientación, N1] [Parálasis, N1] [Presentir, N1] [Recarga, N1] [Regenerar, N5] [Silencio, N1] [Telepatía N1] [Telequinesis N1]
 > * Objetivos: [1, N0] [2, N1] [3, N2] [4, N3] [5, N4] [Area, N5]
