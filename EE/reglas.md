@@ -38,12 +38,12 @@ Equipo
 
 | Elemento <sup>precio</sup>          | Dado de uso    | Notas                                                        |
 | :---------------------------------- | :------------- | ------------------------------------------------------------ |
-| []Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No comer a diario, provoca desventaja en todas las pruebas.  | 
+| []Alimento <sup>2</sup>             | []d8 []d6 []d4 | No comer a diario, da desventaja en todas tus acciones.      | 
 | []Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                              |
 | [][][]Credstick <sup>5</sup>        |                |                                                              |
 | []10 metros de cuerda <sup>2</sup>  |                |                                                              |   
 | []Herramientas <sup>15</sup>        |                |                                                              |
-| []Kit médico <sup>50</sup>          | []d6 []d4      | Cura 1d6 puntos de salud a un objetivo en alcance inmediato. |
+| []Kit médico <sup>50</sup>          | []d6 []d4      | Cura 1d6 PS a un objetivo en alcance inmediato.              |
 | []Linterna <sup>5</sup>             | []d6 []d4      |                                                              |
 | [][][]Nanomemoria <sup>20</sup>     |                |                                                              |
 | []Ordenador portátil <sup>80</sup>  |                |                                                              |
@@ -54,7 +54,7 @@ Equipo
 
 Implantes
 ---------
-Los implantes son mejoras sobre tú cuerpo. Cuando te instalas uno, si no eres un Cable, debes comprobar si pierdes humanidad. 
+Cuando te instalas un impante, si no eres un Cable, debes comprobar si pierdes humanidad. 
 > * Los implantes tienen un precio entre 5 y 200 créditos a negociar entre comprador y vendedor.
 > * Por cada nombre de implante incluida en tú acción, ganas ventaja.
 > * En su defecto obtienes el efecto deseado que esté relacionado con el implante adquirido.
