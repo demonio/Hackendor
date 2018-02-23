@@ -15,11 +15,11 @@ ___
 
 | Eigue 1 clase     | Daño | Dado/Salud   | Humanidad | Competente                                      |
 | :---------------- | :--- | :----------- | :-------- | :---------------------------------------------- |
-| [] Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras L, M y armas excepto las de CaC a 2M. |
+| [] Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras L, M y armas excepto CaC a 2M.        |
 | [] Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras L, M y armas excepto el cañón.        |
 | [] Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras L y armas ligeras cuerpo a cuerpo.    |
 | [] Errante        | 2d4  | d8/d8+4(8)   | d12       | Armas cuerpo a cuerpo y pistolas.               |
-| [] Psiónico       | d4   | d6/d6+4(7)   | d8        |                                                 |
+| [] Psiónico       | d4   | d6/d6+4(7)   | d8        | En nada.                                        |
 | [] Soldado        | d8   | d10/d10+4(9) | d10       | Todas las armas y armaduras.                    |
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente.
