@@ -13,8 +13,8 @@ Estrellas Errante (hack del demonio) — Hoja del Personaje Jugador (PJ)
 > * Necesitas 20 puntos de experiencia para subir a nivel 2, 50 a nivel 3, 80 a 4 y 120 a 5.
 ___
 
-| Eigue 1 clase     | Daño | Dado/Salud   | Humanidad | Competente                                      |
-| :---------------- | :--- | :----------- | :-------- | :---------------------------------------------- |
+| Eigue 1 clase    | Daño | Dado/Salud   | Humanidad | Competente                                      |
+| :--------------- | :--- | :----------- | :-------- | :---------------------------------------------- |
 | []Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras L, M y armas excepto CaC a 2M.        |
 | []Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras L, M y armas excepto el cañón.        |
 | []Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras L y armas ligeras cuerpo a cuerpo.    |
@@ -24,8 +24,8 @@ ___
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente.
 
-| Segun tú clase     | Puesto     | Ganas ventaja si tú acción incluye alguna palabra clave |
-| :----------------- | :--------- | :------------------------------------------------------ |
+| Segun tú clase    | Puesto     | Ganas ventaja si tú acción incluye alguna palabra clave |
+| :---------------- | :--------- | :------------------------------------------------------ |
 | []Cable           | Cálculo    | _[Bajos fondos] [Ingeniería] [Mecánica]_                |
 | []Contrabandista  | Manejo     | _[Bajos fondos] [Mecánica] [Naturaleza]_                |
 | []Diplomático     | Ninguno    | _[Altas esferas] [Liderazgo] [Política]_                |
@@ -36,8 +36,8 @@ ___
 Equipo
 ------
 
-| Elemento <sup>precio</sup>           | Dado de uso    | Notas                                                        |
-| :----------------------------------- | :------------- | ------------------------------------------------------------ |
+| Elemento <sup>precio</sup>          | Dado de uso    | Notas                                                        |
+| :---------------------------------- | :------------- | ------------------------------------------------------------ |
 | []Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No comer a diario, provoca desventaja en todas las pruebas.  | 
 | []Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                              |
 | [][][]Credstick <sup>5</sup>        |                |                                                              |
@@ -67,13 +67,13 @@ Armas
 
 | Cuerpo a cuerpo <sup>precio</sup> | Calidad        | Notas |
 | :-------------------------------- | :------------- | :---- | 
-| [][][](L)igera <sup>10</sup>     | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
-| [][]A (1M)ano <sup>30</sup>      | []+1 []+2 []+3 |       |
-| []A (2M)anos <sup>80</sup>       | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
+| [][][](L)igera <sup>10</sup>      | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
+| [][]A (1M)ano <sup>30</sup>       | []+1 []+2 []+3 |       |
+| []A (2M)anos <sup>80</sup>        | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
 > * Calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
-| A distancia <sup>precio/munición</sup>  | Munición_(DU)        | Calidad__      | Notas |
-| :-------------------------------------- | :------------------- | :------------- | :---- |
+| A distancia <sup>precio/munición</sup> | Munición_(DU)        | Calidad__      | Notas |
+| :------------------------------------- | :------------------- | :------------- | :---- |
 | []Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
 | []Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | |
 | []Escopeta <sup>30/3</sup>             | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
@@ -91,9 +91,9 @@ Protecciones
 
 | Tipo de protección <sup>precio</sup> | Defensa | Nº de mejoras | Calidad excepcional/única |
 | :----------------------------------- | :------ | :------------ | :------------------------ | 
-| [](L)igera <sup>30</sup>            | 2       | 0             | []x2 []x3                 |
-| [](M)edia <sup>80</sup>             | 4       | 2             | []x2 []x3                 |
-| [](P)esada <sup>160</sup>           | 8       | 4             | []x2 []x3                 |
+| [](L)igera <sup>30</sup>             | 2       | 0             | []x2 []x3                 |
+| [](M)edia <sup>80</sup>              | 4       | 2             | []x2 []x3                 |
+| [](P)esada <sup>160</sup>            | 8       | 4             | []x2 []x3                 |
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
 > * Por cada nombre de mejora incluida en tú acción, ganas ventaja.
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
@@ -115,8 +115,8 @@ Estrellas Errante (hack del demonio) — Hoja de la nave
 | Precio:     |            | Combustible: | []d12 []d10 []d8 []d6 []d4 | (A)rtillería: |             |
 ___
 
-| Nave <sup>precio</sup>              | Atributos      | Daño | D/PS  | Combustibe | Puestos                    |
-| :---------------------------------- | :------------- | ---: | :---- | :--------- | :------------------------- |
+| Nave <sup>precio</sup>             | Atributos      | Daño | D/PS  | Combustibe | Puestos                    |
+| :--------------------------------- | :------------- | ---: | :---- | :--------- | :------------------------- |
 | []Cuervo N1 <sup>70K</sup>         | M:8 C:15 A:10  | 1d4  | 4/6   | 1d6        | 1(M/C/A)                   |
 | []Garfio N1 <sup>40K</sup>         | M:9 C:- A:14   | 1d4  | 0/8   | 1d4        | 1M 1A                      |
 | []Tritón N1 <sup>60K</sup>         | M:6 C:14 A:13  | 1d6  | 6/9   | 1d6        | 1(M/C/A)                   |
@@ -142,8 +142,8 @@ ___
 | 7-9   | Aislados     | La nave aparece en un sistema aparentemente deshabitado.                    |
 | 10-12 | Vigilados    | La nave aparece en un sistema habitado y se sienten observados.             |
 
-| Nave                  | Mejoras                                                                                   |
-| :-------------------- | :---------------------------------------------------------------------------------------- |
+| Nave                 | Mejoras                                                                                   |
+| :------------------- | :---------------------------------------------------------------------------------------- |
 | []Cuervo N1          | Fija objetivo con cada maniobra ofensiva exitosa. Tiene ventaja en prueba de evasión.     |
 | []Garfio N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
 | []Tritón N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
