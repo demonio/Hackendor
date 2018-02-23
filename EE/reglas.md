@@ -15,42 +15,42 @@ ___
 
 | Eigue 1 clase     | Daño | Dado/Salud   | Humanidad | Competente                                      |
 | :---------------- | :--- | :----------- | :-------- | :---------------------------------------------- |
-| [] Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras L, M y armas excepto CaC a 2M.        |
-| [] Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras L, M y armas excepto el cañón.        |
-| [] Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras L y armas ligeras cuerpo a cuerpo.    |
-| [] Errante        | 2d4  | d8/d8+4(8)   | d12       | Armas cuerpo a cuerpo y pistolas.               |
-| [] Psiónico       | d4   | d6/d6+4(7)   | d8        | En nada.                                        |
-| [] Soldado        | d8   | d10/d10+4(9) | d10       | Todas las armas y armaduras.                    |
+| []Cable          | d6   | d6/d6+4(7)   | d8        | Armaduras L, M y armas excepto CaC a 2M.        |
+| []Contrabandista | d6   | d8/d8+4(8)   | d10       | Armaduras L, M y armas excepto el cañón.        |
+| []Diplomático    | d4   | d6/d6+4(7)   | d10       | Armaduras L y armas ligeras cuerpo a cuerpo.    |
+| []Errante        | 2d4  | d8/d8+4(8)   | d12       | Armas cuerpo a cuerpo y pistolas.               |
+| []Psiónico       | d4   | d6/d6+4(7)   | d8        | En nada.                                        |
+| []Soldado        | d8   | d10/d10+4(9) | d10       | Todas las armas y armaduras.                    |
 > * Si no eres competente en un tipo de protección, suma tú defensa a tú BIO.
 > * Para impactar automáticamente con el rifle de precisión o el lanzallamas necesitas ser competente.
 
 | Segun tú clase     | Puesto     | Ganas ventaja si tú acción incluye alguna palabra clave |
 | :----------------- | :--------- | :------------------------------------------------------ |
-| [] Cable           | Cálculo    | _[Bajos fondos] [Ingeniería] [Mecánica]_                |
-| [] Contrabandista  | Manejo     | _[Bajos fondos] [Mecánica] [Naturaleza]_                |
-| [] Diplomático     | Ninguno    | _[Altas esferas] [Liderazgo] [Política]_                |
-| [] Errante         | Ninguno    | _[Artes marciales] [Medicina] [Naturaleza]_             |
-| [] Psiónico        | Todos      | _[Espacio] [Ingeniería] [Medicina]_                     |
-| [] Soldado         | Elige uno  | _[Mecánica] [Liderazgo] [Táctica]_                      |
+| []Cable           | Cálculo    | _[Bajos fondos] [Ingeniería] [Mecánica]_                |
+| []Contrabandista  | Manejo     | _[Bajos fondos] [Mecánica] [Naturaleza]_                |
+| []Diplomático     | Ninguno    | _[Altas esferas] [Liderazgo] [Política]_                |
+| []Errante         | Ninguno    | _[Artes marciales] [Medicina] [Naturaleza]_             |
+| []Psiónico        | Todos      | _[Espacio] [Ingeniería] [Medicina]_                     |
+| []Soldado         | Elige uno  | _[Mecánica] [Liderazgo] [Táctica]_                      |
 
 Equipo
 ------
 
 | Elemento <sup>precio</sup>           | Dado de uso    | Notas                                                        |
 | :----------------------------------- | :------------- | ------------------------------------------------------------ |
-| [] Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No comer a diario, provoca desventaja en todas las pruebas.  | 
-| [] Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                              |
-| [][][] Credstick <sup>5</sup>        |                |                                                              |
-| [] 10 metros de cuerda <sup>2</sup>  |                |                                                              |   
-| [] Herramientas <sup>15</sup>        |                |                                                              |
-| [] Kit médico <sup>50</sup>          | []d6 []d4      | Cura 1d6 puntos de salud a un objetivo en alcance inmediato. |
-| [] Linterna <sup>5</sup>             | []d6 []d4      |                                                              |
-| [][][] Nanomemoria <sup>20</sup>     |                |                                                              |
-| [] Ordenador portátil <sup>80</sup>  |                |                                                              |
-| [] Ropas comunes <sup>20</sup>       |                |                                                              | 
-| [] Ropas lujosas <sup>200</sup>      |                | En ciertos ambientes ganas ventaja cuando tratas con otros.  |
-| [] Saco de dormir <sup>40</sup>      |                |                                                              | 
-| [] Traje espacial <sup>120</sup>     |                | Aguanta en el espacio 24 horas.                              |
+| []Alimetno <sup>2</sup>             | []d8 []d6 []d4 | No comer a diario, provoca desventaja en todas las pruebas.  | 
+| []Célula de energía <sup>5</sup>    | []d8 []d6 []d4 |                                                              |
+| [][][]Credstick <sup>5</sup>        |                |                                                              |
+| []10 metros de cuerda <sup>2</sup>  |                |                                                              |   
+| []Herramientas <sup>15</sup>        |                |                                                              |
+| []Kit médico <sup>50</sup>          | []d6 []d4      | Cura 1d6 puntos de salud a un objetivo en alcance inmediato. |
+| []Linterna <sup>5</sup>             | []d6 []d4      |                                                              |
+| [][][]Nanomemoria <sup>20</sup>     |                |                                                              |
+| []Ordenador portátil <sup>80</sup>  |                |                                                              |
+| []Ropas comunes <sup>20</sup>       |                |                                                              | 
+| []Ropas lujosas <sup>200</sup>      |                | En ciertos ambientes ganas ventaja cuando tratas con otros.  |
+| []Saco de dormir <sup>40</sup>      |                |                                                              | 
+| []Traje espacial <sup>120</sup>     |                | Aguanta en el espacio 24 horas.                              |
 
 Implantes
 ---------
@@ -67,22 +67,22 @@ Armas
 
 | Cuerpo a cuerpo <sup>precio</sup> | Calidad        | Notas |
 | :-------------------------------- | :------------- | :---- | 
-| [][][] (L)igera <sup>10</sup>     | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
-| [][] A (1M)ano <sup>30</sup>      | []+1 []+2 []+3 |       |
-| [] A (2M)anos <sup>80</sup>       | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
+| [][][](L)igera <sup>10</sup>     | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
+| [][]A (1M)ano <sup>30</sup>      | []+1 []+2 []+3 |       |
+| []A (2M)anos <sup>80</sup>       | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
 > * Calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
 | A distancia <sup>precio/munición</sup>  | Munición_(DU)        | Calidad__      | Notas |
 | :-------------------------------------- | :------------------- | :------------- | :---- |
-| [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
-| [] Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | |
-| [] Escopeta <sup>30/3</sup>             | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
-| [] Rifle semiautomático <sup>80/8</sup> | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | Las armas automáticas disparan con ventaja pero gastan el doble de munición. Si es semiautomática debes elegir en que modo vas a disparar, 1 bala o 1 rafaga. |
-| [] Rifle semiautomático <sup>80/8</sup> | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | |
-| [] Rifle de precisión <sup>120/12</sup> | []d6 []d4            | []+1 []+2 []+3 | El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante. Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño. |
-| [] Lanzallamas <sup>60/6</sup>          | []d6 []d4            | []+1 []+2 []+3 | El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño. |
-| [] Cañon de asalto <sup>160/16</sup>    | []d8 []d6 []d4       | []+1 []+2 []+3 | El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño. |
-| [][][][][][] Granada <sup>20</sup>      |                      |                | Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 daños. |
+| []Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | Las pistolas pueden usarse en alcance inmediato, cercano o lejano. Si usas 2 pistolas, puedes disparar 2 veces pero el daño no explota. |
+| []Pistola <sup>20/2</sup>              | []d8 []d6 []d4       | []+1 []+2 []+3 | |
+| []Escopeta <sup>30/3</sup>             | []d6 []d4            | []+1 []+2 []+3 | La escopeta pueden usarse en alcance inmediato o cercano. Si fallas con la escopeta, haces daño igual a tú nivel. |
+| []Rifle semiautomático <sup>80/8</sup> | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | Las armas automáticas disparan con ventaja pero gastan el doble de munición. Si es semiautomática debes elegir en que modo vas a disparar, 1 bala o 1 rafaga. |
+| []Rifle semiautomático <sup>80/8</sup> | []d10 []d8 []d6 []d4 | []+1 []+2 []+3 | |
+| []Rifle de precisión <sup>120/12</sup> | []d6 []d4            | []+1 []+2 []+3 | El rifle de precisión no puede usarse en distancia inmediata pero si en cercana, lejana y distante. Si gastas un turno apuntando con el rifle de precisión impactas automáticamente y +1d6 al daño. |
+| []Lanzallamas <sup>60/6</sup>          | []d6 []d4            | []+1 []+2 []+3 | El lanzallamas impacta automáticamente a 1d4 objetivos en alcance inmediato o cercano, pero hace la mitad de daño. |
+| []Cañon de asalto <sup>160/16</sup>    | []d8 []d6 []d4       | []+1 []+2 []+3 | El cañon de asalto alcanza a lejano o distante, pero a cercano impacta a 1d6 objetivos. Siempre hace 1d8+1d6 de daño. |
+| [][][][][][]Granada <sup>20</sup>      |                      |                | Las granadas alcanzan a lejano. A cercano impactan a 1d4 objetivos. Siempre hacen 1d10 daños. |
 > * Si eres incompetente en algún tipo de arma, disparas con desventaja.
 > * Calidad (B)uena (+1 impacto y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
@@ -91,9 +91,9 @@ Protecciones
 
 | Tipo de protección <sup>precio</sup> | Defensa | Nº de mejoras | Calidad excepcional/única |
 | :----------------------------------- | :------ | :------------ | :------------------------ | 
-| [] (L)igera <sup>30</sup>            | 2       | 0             | []x2 []x3                 |
-| [] (M)edia <sup>80</sup>             | 4       | 2             | []x2 []x3                 |
-| [] (P)esada <sup>160</sup>           | 8       | 4             | []x2 []x3                 |
+| [](L)igera <sup>30</sup>            | 2       | 0             | []x2 []x3                 |
+| [](M)edia <sup>80</sup>             | 4       | 2             | []x2 []x3                 |
+| [](P)esada <sup>160</sup>           | 8       | 4             | []x2 []x3                 |
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
 > * Por cada nombre de mejora incluida en tú acción, ganas ventaja.
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
@@ -117,18 +117,18 @@ ___
 
 | Nave <sup>precio</sup>              | Atributos      | Daño | D/PS  | Combustibe | Puestos                    |
 | :---------------------------------- | :------------- | ---: | :---- | :--------- | :------------------------- |
-| [] Cuervo N1 <sup>70K</sup>         | M:8 C:15 A:10  | 1d4  | 4/6   | 1d6        | 1(M/C/A)                   |
-| [] Garfio N1 <sup>40K</sup>         | M:9 C:- A:14   | 1d4  | 0/8   | 1d4        | 1M 1A                      |
-| [] Tritón N1 <sup>60K</sup>         | M:6 C:14 A:13  | 1d6  | 6/9   | 1d6        | 1(M/C/A)                   |
-| [] Desvelador N2 <sup>900K</sup>    | M:10 C:7 A:14  | 1d4  | 12/12 | 1d4        | 1M 1(C/A) + 4 pasajeros    |
-| [] Explorador N2 <sup>100K</sup>    | M:8 C:12 A:12  | 1d6  | 2/12  | 1d12       | 1M 1C 1A + 4 pasajeros     |
-| [] Transportador N2 <sup>95K</sup>  | M:11 C:12 A:13 | 1d4  | 0/10  | 1d8        | 1M 1C 1A + 16 pasajeros    |
-| [] Comercial N3 <sup>200K</sup>     | M:12 C:11 A:11 | 1d6  | 4/16  | 1d10       | 1M 1(C/A) 2A               |
-| [] Dipomática N3 <sup>700K</sup>    | M:12 C:11 A:10 | 1d8  | 8/16  | 1d10       | 1M 1(C/A) 2A +40 pasajeros |
-| [] Tiburón N3 <sup>600K</sup>       | M:10 C:13 A:8  | 1d10 | 10/16 | 1d8        | 1M 1C 4A                   |
-| [] Corsario N4 <sup>750K</sup>      | M:13 C:13 A:10 | 1d12 | 20/8  | 1d10       | 1M 1C 3A                   |
-| [] Destructor N4 <sup>2M</sup>      | M:14 C:10 A:8  | 2d6  | 20/20 | 1d12       | 1M 1C 8A + 400 pasajeros   |
-| [] Superdestructor N5 <sup>5M</sup> | M:15 C:8 A:8   | 2d6  | 40/30 | 1d12       | 1M 1C 20A + 4000 pasajeros |
+| []Cuervo N1 <sup>70K</sup>         | M:8 C:15 A:10  | 1d4  | 4/6   | 1d6        | 1(M/C/A)                   |
+| []Garfio N1 <sup>40K</sup>         | M:9 C:- A:14   | 1d4  | 0/8   | 1d4        | 1M 1A                      |
+| []Tritón N1 <sup>60K</sup>         | M:6 C:14 A:13  | 1d6  | 6/9   | 1d6        | 1(M/C/A)                   |
+| []Desvelador N2 <sup>900K</sup>    | M:10 C:7 A:14  | 1d4  | 12/12 | 1d4        | 1M 1(C/A) + 4 pasajeros    |
+| []Explorador N2 <sup>100K</sup>    | M:8 C:12 A:12  | 1d6  | 2/12  | 1d12       | 1M 1C 1A + 4 pasajeros     |
+| []Transportador N2 <sup>95K</sup>  | M:11 C:12 A:13 | 1d4  | 0/10  | 1d8        | 1M 1C 1A + 16 pasajeros    |
+| []Comercial N3 <sup>200K</sup>     | M:12 C:11 A:11 | 1d6  | 4/16  | 1d10       | 1M 1(C/A) 2A               |
+| []Dipomática N3 <sup>700K</sup>    | M:12 C:11 A:10 | 1d8  | 8/16  | 1d10       | 1M 1(C/A) 2A +40 pasajeros |
+| []Tiburón N3 <sup>600K</sup>       | M:10 C:13 A:8  | 1d10 | 10/16 | 1d8        | 1M 1C 4A                   |
+| []Corsario N4 <sup>750K</sup>      | M:13 C:13 A:10 | 1d12 | 20/8  | 1d10       | 1M 1C 3A                   |
+| []Destructor N4 <sup>2M</sup>      | M:14 C:10 A:8  | 2d6  | 20/20 | 1d12       | 1M 1C 8A + 400 pasajeros   |
+| []Superdestructor N5 <sup>5M</sup> | M:15 C:8 A:8   | 2d6  | 40/30 | 1d12       | 1M 1C 20A + 4000 pasajeros |
 > * Las naves viajan a 180 gk/h sin necesidad de saltar, más 20 gk/h por nivel.
 > * Las naves saltan a 1 pc/s por nivel con garantías en 5' y forzando en 12".
 > * Un salto de más de 10 segundos provoca en la tripulación una posible perdida de humanidad.
@@ -144,11 +144,11 @@ ___
 
 | Nave                  | Mejoras                                                                                   |
 | :-------------------- | :---------------------------------------------------------------------------------------- |
-| [] Cuervo N1          | Fija objetivo con cada maniobra ofensiva exitosa. Tiene ventaja en prueba de evasión.     |
-| [] Garfio N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
-| [] Tritón N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
-| [] Corsario N4        | Lleva consigo hasta 12 naves Garfio.                                                      |
-| [] Superdestructor N5 | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
+| []Cuervo N1          | Fija objetivo con cada maniobra ofensiva exitosa. Tiene ventaja en prueba de evasión.     |
+| []Garfio N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
+| []Tritón N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
+| []Corsario N4        | Lleva consigo hasta 12 naves Garfio.                                                      |
+| []Superdestructor N5 | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
 
 ### Distancias en el espacio
 | Medida         | Descripción               |
