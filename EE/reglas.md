@@ -91,9 +91,9 @@ Protecciones
 
 | Tipo de protección <sup>precio</sup> | Defensa | Nº de mejoras | Calidad excepcional/única |
 | :----------------------------------- | :------ | :------------ | :------------------------ | 
-| [](L)igera <sup>30</sup>             | 2       | 0             | []x2 []x3                 |
-| [](M)edia <sup>80</sup>              | 4       | 2             | []x2 []x3                 |
-| [](P)esada <sup>160</sup>            | 8       | 4             | []x2 []x3                 |
+| []Ligera (L) <sup>30</sup>           | 2       | 0             | []x2 []x3                 |
+| []Media (M) <sup>80</sup>            | 4       | 2             | []x2 []x3                 |
+| []Pesada (P) <sup>160</sup>          | 8       | 4             | []x2 []x3                 |
 > * Las mejoras tienen un precio entre 15 y 80 créditos a negociar entre comprador y vendedor.
 > * Por cada nombre de mejora incluida en tú acción, ganas ventaja.
 > * En su defecto obtienes el efecto deseado que esté relacionado con la mejora adquirida.
