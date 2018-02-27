@@ -67,9 +67,9 @@ Armas
 
 | Cuerpo a cuerpo <sup>precio</sup> | Calidad        | Notas |
 | :-------------------------------- | :------------- | :---- | 
-| [][][](L)igera <sup>10</sup>      | []+1 []+2 []+3 | Hasta 5 daños. Con dos armas ligeras el daño no explota. |
+| [][][](L)igera <sup>10</sup>      | []+1 []+2 []+3 | Hasta 5 daños. Con 2 armas ligeras el daño no explota. |
 | [][]A (1M)ano <sup>30</sup>       | []+1 []+2 []+3 |       |
-| []A (2M)anos <sup>80</sup>        | []+1 []+2 []+3 | Estas armas penalizan con -2 al ataque, pero dan +2 al daño. |
+| []A (2M)anos <sup>80</sup>        | []+1 []+2 []+3 | -2 al ataque y +2 al daño.                             |
 > * Calidad (B)uena (+1 ataque y daño) sube el precio x2, (E)xcepcional (+2) x5 y (U)nica (+3) x10.
 
 | A distancia <sup>precio/munición</sup> | Munición_(DU)        | Calidad__      | Notas |
@@ -144,12 +144,12 @@ ___
 
 | Nave                 | Mejoras                                                                                   |
 | :------------------- | :---------------------------------------------------------------------------------------- |
-| []Cuervo N1          | Fija objetivo con cada maniobra ofensiva exitosa. Tiene ventaja en prueba de evasión.     |
+| []Cuervo N1          | Fija objetivo con cada maniobra ofensiva exitosa. Tiene ventaja en evasión.               |
 | []Garfio N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
 | []Tritón N1          | Fija objetivo con cada maniobra ofensiva exitosa.                                         |
 | []Corsario N4        | Lleva consigo hasta 12 naves Garfio.                                                      |
-| []Superdestructor N5 | En vez de usar la artillería, puede gastar combustible y disparar un cañón de 1d20x10 PS. |
-
+| []Superdestructor N5 | En vez artillería, gastando combustible puede disparar su cañón (1d20x10 PS).             |
+ 
 ### Distancias en el espacio
 | Medida         | Descripción               |
 | :------------- | :------------------------ |
@@ -173,11 +173,11 @@ ___
 
 > * La diferencia de niveles entre naves supone un modificador a las pruebas como sucede entre personajes.
 > * Los PJs deben usar la dificultad más alta entre su TEC y el puesto que maneja en la nave.
-> * Hay que realizar una tirada de combustible cada 4 horas de viaje, al tratar de reparar una averio y antes e realizar un salto.
+> * Haz una tirada de combustible cada 4h de viaje, al reparar una averia y antes de realizar un salto.
 > * Si los escudos han sido dañados, un PJ abandonado su puesto, puede invertir 2 turnos y superar una prueba de TEC para reestablecerlos al completo. Si recibe ayuda puede realizar la prueba con ventaja.
 
 ### Destrucción de la nave
-> * Cuando la nave llega a 0 o menos PS, un PJ lanza 2d6-X donde X son los PS de la nave por debajo de 0.
+> * Cuando la nave llega a 0 o menos PS, lanza 2d6-X donde X son los PS de la nave por debajo de 0.
 
 | 2d6-X | Resultado    | Descripción                                                              |
 | :---- | :----------- | :----------------------------------------------------------------------- |
@@ -199,8 +199,8 @@ Psiónica
 > * Ejemplos de poderes: [Apoyar salto, N2] [Aterrar, N1]  [Acelerar, N1] [Congelar, N1] [Controlar mente, N2] [Curar, N1] [Curar enfermedad, N2] [Dañar, N1] [Defensa, N1] [Intangible, N1] [Invisivilidad, N1] [Leer mente, N2][Orientarse, N1] [Paralizar, N1] [Presentir, N1] [Recargar, N1] [Regenerar, N1] [Silenciar, N1] [Telepatía N1] [Telequinesis N1] [Teletransporte N1]
 > * Objetivos: [1, N0] [2, N1] [3, N2] [4, N3] [5, N4] [Area, N5]
 > * Intensidad: [1d4, N0] [1d6, N1] [1d8, N2] [1d10, N3] [1d12, N4] [1d20, N5]
-> * Alcance: [Mismo, N0] [Inmediato, N1] [Cercano, N2] [Lejano, N3] [Distante, N4] [Visual, N5]
-> * Duración: [Impacto, N0] [Turnos, N1] [Intervalos, N5]
+> * Alcance: [Inmediato, N0] [Cercano, N1] [Lejano, N2] [Distante, N3] [Visual, N4] [Infravisión, N5]
+> * Duración: [Impacto, N0] [Turno, N1] [Intervalo, N2]
 > * Ha esta suma de niveles hay que sumar el nivel del objetivo.
 
 <hr class="end-page">
@@ -299,7 +299,7 @@ Estrellas Errante (hack del demonio) — Hoja del Guargián Estelar (GE)
 |                    | 40      | 30               | 2d6  |                                               |
 
 ### Fichas de amenaza
-> * Cuando un PJ falla una tirada (que no sea de combate o tenga consecuencia), ganas 1 ficha de amenaza.
+> * Cuando un PJ falla una tirada (que no sea de combate o tenga consecuencia), coge 1 ficha.
 > * El GE puede canjear 1 ficha de amenaza por 1 nivel de obtaculo u oponente o nave sin tripulación para por ejemplo generar una emboscada. Otro ejemplo sería que los PJs se topasen con una puerta de nivel 5 realmente difícil de hackear, cuando han emprendido una huida por un camino que antes tenia las puertas abiertas.
 
 <hr class="end-page">
@@ -329,7 +329,7 @@ Estrellas Errante (hack del demonio) — Reglas
 > * Disparar: Se usa TEC y requiere estar a distancia cercana o lejana.
 > * Atacar: Se usa BIO para atacar cuerpo a cuerpo y requiere estar a distancia inmediata. 
 > * Ayudar: A la siguiente prueba un PJ da ventaja a un aliado objetivo. 
-> * Defender: Se gana ventaja usando una cobertura o esforzandose en esquivar un ataque cuerpo a cuerpo.
+> * Defender: Se gana ventaja si todo el esfuerzo esta dedicado a esquivar o cubrirse.
 > * Proteger: El PJ puede ponerse en medio entre el disparo o ataque y el aliado objetivo.
 > * Otra: Cambiar de arma, recargar o similar.
 
