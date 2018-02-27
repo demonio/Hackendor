@@ -171,7 +171,7 @@ ___
 1. Si se han fijado objetivos con éxito, se pueden realizar las acciones de **artillería**.
 1. Si los enemigos han fijado objetivo sobre la nave, fallar una prueba de **manejo** para esquivar, supone recibir el daño.
 
-> * La diferencia de niveles entre naves supone un modificador a las pruebas como sucede entre personajes.
+> * La diferencia de niveles entre naves, supone un modificador a las pruebas entre ellas.
 > * Los PJs deben usar la dificultad más alta entre su TEC y el puesto que maneja en la nave.
 > * Haz una tirada de combustible cada 4h de viaje, al reparar una averia y antes de realizar un salto.
 > * Si los escudos han sido dañados, un PJ abandonado su puesto, puede invertir 2 turnos y superar una prueba de TEC para reestablecerlos al completo. Si recibe ayuda puede realizar la prueba con ventaja.
@@ -308,8 +308,8 @@ Estrellas Errante (hack del demonio) — Reglas
 =============================================
 
 ### Medidas de tiempo
-> * Los **(I)ntervalos** se usan para pruebas que requieren concentración y duran entre 5' hasta varios años.
-> * En los **(T)urnos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6 segundos.
+> * Los **(I)ntervalos** se usan para pruebas que requieren concentración y duran entre 5' hasta años.
+> * En los **(T)urnos** los personajes actuan rápido, sin apenas margen para hablar, en un tramo de 6".
 
 ### Distancias
 |           | Metros        | Casillas      |
@@ -335,7 +335,7 @@ Estrellas Errante (hack del demonio) — Reglas
 
 ### Pruebas
 > * Casi todas las tiradas las hacen los PJs; atacan, esquivan o superan pruebas. 
-> * La dificultad de una prueba de atributo sube o baja en función de las ventajas o desventajas acumuladas.
+> * La dificultad de una prueba sube o baja en función del número de ventajas o desventajas.
 > * Ejemplo: Disparar a un enemigo bajo cobertura, supone una desventaja y por lo tanto la dificultad de normal subiría a difícil. Si además nos estamos moviendo, supone otra desventaja al no poder apuntar mínimamente, lo que subiría la dificultad, de difícil a complicado.
 > * El PJ puede cambiar 1 tirada con desventaja por 2 con ventaja si es posible invertir más tiempo en la prueba.
 
@@ -350,7 +350,7 @@ Estrellas Errante (hack del demonio) — Reglas
 | Absurdo          | Fallo automático                  |
 
 > * No se pueden repetir las tiradas y se eliminan los decimales si los hubiera.
-> * Un resultado de 1 es un fallo automático (pifia) y un 20 un éxito automático (critíco), con lo que eso conlleva.
+> * Un resultado de 1 es un fallo automático (pifia) y un 20 un éxito automático (critíco).
 > * Solo hay modificadores por diferencia de nivel y se aplican después de hacer la tirada y antes de compararlo con el atributo. Los PJs no sabran el nivel de los obstaculos, oponentes o naves hasta que hay que compararlos.
 > * Cuando los PJs fallan 1 tirada que no sea de combate y esta no ha tenido consecuencias, coge 1 ficha de amenaza.
 
